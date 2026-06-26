@@ -68,5 +68,10 @@
     "phase": "Phase 5",
     "question": "The classification agent proposed Fleet Operations Platform and Vehicle Lifecycle Platform as possible future categories. They were not added to maas_category and require user approval before use.",
     "status": "Requires validation"
+  },
+  {
+    "phase": "Phase 6",
+    "question": "Review the matrix-ready views and confirm whether the South Africa matrix is ready before expanding to other African markets.",
+    "status": "Awaiting user review"
   }
 ]

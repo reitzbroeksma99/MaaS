@@ -11,8 +11,8 @@
     "Nigeria"
   ],
   "current_phase": {
-    "phase": "Phase 5",
-    "name": "Classify Products and Functionalities Into MaaS Roles",
+    "phase": "Phase 6",
+    "name": "Build the Functionality Matrix",
     "status": "Complete - awaiting user review",
     "last_updated": "2026-06-26"
   },
@@ -45,12 +45,12 @@
     {
       "phase": "Phase 5",
       "name": "MaaS role classification",
-      "status": "Complete - awaiting user review"
+      "status": "Complete"
     },
     {
       "phase": "Phase 6",
       "name": "Functionality matrix",
-      "status": "Not started"
+      "status": "Complete - awaiting user review"
     },
     {
       "phase": "Phase 7",

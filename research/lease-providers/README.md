@@ -4,7 +4,7 @@ This folder supports the staged research process for the Lease Providers market 
 
 ## Current Status
 
-- Active phase: Phase 5 - MaaS role classification complete and awaiting review
+- Active phase: Phase 6 - functionality matrix complete and awaiting review
 - Research markets: South Africa first, followed by Namibia, Botswana, Zambia, Mozambique, Ghana and Nigeria after review checkpoints
 - Deliverable: `deliverables/maas_lease_provider_research.html`
 
@@ -27,4 +27,4 @@ This folder supports the staged research process for the Lease Providers market 
 
 ## Refreshing the HTML
 
-The HTML deliverable is self-contained and includes the active 22-provider South African universe, the product catalogue, the QA-reviewed functionality matrix, the capability dictionary and Phase 5 MaaS role classifications. After each research phase, update the data files and mirror the latest dataset into the HTML so it remains shareable as one file.
+The HTML deliverable is self-contained and includes the active 22-provider South African universe, the product catalogue, the QA-reviewed functionality matrix, the capability dictionary, MaaS role classifications and Phase 6 matrix summary views. After each research phase, update the data files and mirror the latest dataset into the HTML so it remains shareable as one file.
