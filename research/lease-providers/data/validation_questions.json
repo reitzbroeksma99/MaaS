@@ -58,5 +58,15 @@
     "phase": "Phase 4",
     "question": "Notable normalisations merged WesBank-specific labels such as Business Vehicle Leasing, Fleet Funding and Fuel Solutions into broader standard capabilities. Confirm that this level of normalisation is acceptable.",
     "status": "Awaiting user review"
+  },
+  {
+    "phase": "Phase 5",
+    "question": "Review the MaaS category allocation before proceeding to Phase 6 functionality matrix views.",
+    "status": "Awaiting user review"
+  },
+  {
+    "phase": "Phase 5",
+    "question": "The classification agent proposed Fleet Operations Platform and Vehicle Lifecycle Platform as possible future categories. They were not added to maas_category and require user approval before use.",
+    "status": "Requires validation"
   }
 ]

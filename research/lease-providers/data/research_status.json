@@ -11,8 +11,8 @@
     "Nigeria"
   ],
   "current_phase": {
-    "phase": "Phase 4",
-    "name": "Standardise and Normalise Functionalities",
+    "phase": "Phase 5",
+    "name": "Classify Products and Functionalities Into MaaS Roles",
     "status": "Complete - awaiting user review",
     "last_updated": "2026-06-26"
   },
@@ -40,12 +40,12 @@
     {
       "phase": "Phase 4",
       "name": "Capability standardisation",
-      "status": "Complete - awaiting user review"
+      "status": "Complete"
     },
     {
       "phase": "Phase 5",
       "name": "MaaS role classification",
-      "status": "Not started"
+      "status": "Complete - awaiting user review"
     },
     {
       "phase": "Phase 6",
