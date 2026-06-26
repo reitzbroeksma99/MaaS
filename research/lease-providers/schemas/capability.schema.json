@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Capability Dictionary Entry",
+  "type": "object",
+  "required": [
+    "standard_functionality",
+    "definition",
+    "alternative_names",
+    "capability_category",
+    "maas_relevance"
+  ],
+  "properties": {
+    "standard_functionality": { "type": "string" },
+    "definition": { "type": "string" },
+    "alternative_names": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "capability_category": { "type": "string" },
+    "maas_relevance": { "type": "string" },
+    "notes": { "type": "string" }
+  }
+}

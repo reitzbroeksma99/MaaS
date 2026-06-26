@@ -1,0 +1,332 @@
+[
+  {
+    "country": "South Africa",
+    "provider_name": "WesBank Fleet Management and Leasing",
+    "provider_type": "Bank-owned leasing provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "FirstRand / WesBank",
+    "target_segment": "Business, corporate and fleet customers",
+    "evidence_summary": "WesBank publishes fleet solutions covering fleet funding, procurement, fleet management and disposals, and a lease agreements page for business vehicles with maintenance options and full maintenance lease wording.",
+    "sources": [
+      "https://www.wesbank.co.za/home/fleet-solutions/",
+      "https://www.wesbank.co.za/home/lease-agreements/"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Detailed product taxonomy to be captured in Phase 2."
+  },
+  {
+    "country": "South Africa",
+    "provider_name": "Standard Bank Fleet Management",
+    "provider_type": "Bank-owned leasing provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "Standard Bank Group",
+    "target_segment": "Business and corporate fleet customers",
+    "evidence_summary": "Standard Bank publishes fleet management solutions including full maintenance rental, operating rental references, managed maintenance, Shari'ah fleet management and fleet cards.",
+    "sources": [
+      "https://www.standardbank.co.za/southafrica/business/products-and-services/business-solutions/fleet-management",
+      "https://www.standardbank.co.za/southafrica/business/products-and-services/business-solutions/fleet-management/full-maintenance-rental"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Specific product variants and functionality will be separated in Phase 2 and Phase 3."
+  },
+  {
+    "country": "South Africa",
+    "provider_name": "Absa Vehicle Management Solutions",
+    "provider_type": "Bank-owned leasing provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "Absa Group",
+    "target_segment": "Business and fleet customers",
+    "evidence_summary": "Absa discloses full maintenance leases, operating rentals and finance leases under its business vehicle and asset finance pages.",
+    "sources": [
+      "https://www.absa.co.za/business/funding-my-business/vehicle-and-asset-finance/explore/",
+      "https://www.absa.co.za/business/funding-my-business/vehicle-and-asset-finance/absa-financial-lease/"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Product availability and naming should be confirmed against current brochures in Phase 2."
+  },
+  {
+    "country": "South Africa",
+    "provider_name": "Eqstra",
+    "provider_type": "Fleet leasing provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "Nedbank",
+    "target_segment": "Corporate, business and fleet customers",
+    "evidence_summary": "Eqstra describes itself as a division of Nedbank and publishes full-maintenance leasing and fleet management services for South African fleets.",
+    "sources": [
+      "https://www.eqstra.co.za/",
+      "https://www.eqstra.co.za/leasing",
+      "https://group.nedbank.co.za/news-and-insights/press/2023/nedbank-acquires-100-percent-of-eqstra.html"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Nedbank/Eqstra brand architecture should be watched when comparing against NedFleet."
+  },
+  {
+    "country": "South Africa",
+    "provider_name": "Merchant West Fleet",
+    "provider_type": "Independent leasing provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "Merchant West",
+    "target_segment": "Business fleet customers",
+    "evidence_summary": "Merchant West publishes fleet management, operating lease and full maintenance lease offerings for South African business fleets.",
+    "sources": [
+      "https://merchantwest.co.za/fleet/",
+      "https://merchantwest.co.za/fleet/operating-lease/",
+      "https://merchantwest.co.za/fleet/full-maintenance-lease-2/"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Ownership detail beyond Merchant West not expanded in Phase 1."
+  },
+  {
+    "country": "South Africa",
+    "provider_name": "Avis Fleet",
+    "provider_type": "Fleet leasing provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "Zeda / Avis Southern Africa",
+    "target_segment": "Corporate and enterprise fleet customers",
+    "evidence_summary": "Avis Fleet publishes full maintenance lease, fleet management and telematics offerings, and describes end-to-end vehicle sourcing, financing, maintenance and disposal.",
+    "sources": [
+      "https://www.avisfleet.co.za/",
+      "https://www.avisfleet.co.za/solutions/full-maintenance-lease",
+      "https://www.avis.co.za/about-avis/group-companies"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Distinguish Avis Fleet from Avis Rent a Car in later product extraction."
+  },
+  {
+    "country": "South Africa",
+    "provider_name": "FleetAfrica",
+    "provider_type": "Fleet leasing provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "Super Group Africa / Super Group",
+    "target_segment": "Public sector, corporate and enterprise fleet customers",
+    "evidence_summary": "FleetAfrica publishes specialised fleet management and full maintenance leasing solutions and identifies itself as a division of Super Group Africa.",
+    "sources": [
+      "https://fleetafrica.com/",
+      "https://fleetafrica.com/fleet-solutions/",
+      "https://fleetafrica.com/our-company/"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Claims such as '#1 provider' are treated as provider wording and require validation if used analytically."
+  },
+  {
+    "country": "South Africa",
+    "provider_name": "NedFleet",
+    "provider_type": "Bank-owned leasing provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "Nedbank",
+    "target_segment": "Fleet customers",
+    "evidence_summary": "NedFleet public material states a specialty in full maintenance leasing and operating rentals; SAVRALA also lists NedFleet.",
+    "sources": [
+      "https://www.nedfleet.co.za/WebHelp/Introduction/Who_we_are.htm",
+      "https://savrala.co.za/members/"
+    ],
+    "confidence_level": "Medium",
+    "notes_uncertainties": "Requires validation because Nedbank acquired Eqstra and current brand/product overlap is unclear from public sources."
+  },
+  {
+    "country": "South Africa",
+    "provider_name": "Bidvest Bank Fleet Finance",
+    "provider_type": "Bank-owned leasing provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "Bidvest Bank / Bidvest Group",
+    "target_segment": "Business and fleet customers",
+    "evidence_summary": "Bidvest Bank publishes fleet finance and fleet services including full maintenance lease-style finance where vehicles and related services are bundled.",
+    "sources": [
+      "https://www.bidvestbank.co.za/fleet-services/fleet-finance",
+      "https://www.bidvestbank.co.za/fleet-services",
+      "https://savrala.co.za/members/"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Phase 2 should distinguish finance, fleet card and leasing products."
+  },
+  {
+    "country": "South Africa",
+    "provider_name": "CFAO Mobility Fleet Solutions",
+    "provider_type": "Fleet leasing / mobility provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "CFAO Mobility",
+    "target_segment": "Business and fleet customers",
+    "evidence_summary": "CFAO Mobility publishes South African fleet solutions with buy, lease or rent options, flexible leasing and finance, maintenance and servicing plans.",
+    "sources": [
+      "https://www.cfaomobility.co.za/fleet-solutions/"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Phase 2 should confirm whether CFAO acts as provider, dealer-channel arranger, or both."
+  },
+  {
+    "country": "South Africa",
+    "provider_name": "Pace Fleet Services",
+    "provider_type": "Subscription-based vehicle leasing provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "Pace",
+    "target_segment": "Businesses and owner-operator drivers",
+    "evidence_summary": "Pace Fleet Services describes itself as a South African car leasing company offering subscription-based vehicle leasing and fully maintained vehicle fleets.",
+    "sources": [
+      "https://pacefleet.co.za/"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Owner-operator model should be treated separately from conventional corporate fleet leasing."
+  },
+  {
+    "country": "South Africa",
+    "provider_name": "Avis iLease",
+    "provider_type": "Lease-like vehicle subscription provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "Avis / Zeda ecosystem",
+    "target_segment": "Consumers, professionals and SMEs",
+    "evidence_summary": "Avis iLease publishes flexible monthly car leasing offers in South Africa with lease-style monthly pricing.",
+    "sources": [
+      "https://www.avisilease.co.za/"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Relationship to Avis Fleet and Avis Rent a Car should be separated during product extraction."
+  },
+  {
+    "country": "South Africa",
+    "provider_name": "Imperial Truck Rental",
+    "provider_type": "Commercial vehicle full-maintenance lease provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "Imperial / Motus group relationship requires validation",
+    "target_segment": "Commercial truck and logistics fleet customers",
+    "evidence_summary": "Imperial Truck Rental publishes full maintenance offerings with rental periods from 24 to 60 months, fleet management technology, maintenance scheduling, accident assistance and breakdown management.",
+    "sources": [
+      "https://www.imperialtruckrental.co.za/full-maintenance/"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Parent-company detail should be validated during provider profiling."
+  },
+  {
+    "country": "South Africa",
+    "provider_name": "Spartan Truck Hire",
+    "provider_type": "Commercial vehicle full-maintenance lease provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "Privately held / unable to confirm",
+    "target_segment": "Commercial truck and logistics customers",
+    "evidence_summary": "Spartan Truck Hire publishes full maintenance leasing for long-term commercial vehicle and fleet rental.",
+    "sources": [
+      "https://www.spartantruckhire.co.za/",
+      "https://www.spartantruckhire.co.za/full-maintenance-leasing/"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Commercial-vehicle focus; include if heavy fleet is in scope."
+  },
+  {
+    "country": "South Africa",
+    "provider_name": "Value Truck Rental / Value Logistics",
+    "provider_type": "Commercial vehicle full-maintenance lease provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "Value Logistics",
+    "target_segment": "Commercial fleet and logistics customers",
+    "evidence_summary": "Value publishes commercial vehicle rental and full-maintenance lease options for trucks and logistics fleets.",
+    "sources": [
+      "https://value.co.za/",
+      "https://valuetruckrental.co.za/"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Product detail to be separated between rental and lease options in Phase 2."
+  },
+  {
+    "country": "South Africa",
+    "provider_name": "Power Truck Hire",
+    "provider_type": "Commercial vehicle leasing provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "Privately held / unable to confirm",
+    "target_segment": "Corporate and commercial truck customers",
+    "evidence_summary": "Power Truck Hire publishes truck leasing and management with finance and maintenance package references.",
+    "sources": [
+      "https://www.powertruckhire.co.za/our-services/truck-leasing/"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Heavy commercial specialist."
+  },
+  {
+    "country": "South Africa",
+    "provider_name": "Elite Truck Hire",
+    "provider_type": "Commercial vehicle full-maintenance lease provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "Current ownership requires validation",
+    "target_segment": "Commercial truck customers",
+    "evidence_summary": "Elite Truck Hire publishes short-term rental and full-maintenance leasing services across South Africa.",
+    "sources": [
+      "https://elitetruck.co.za/",
+      "https://www.thesele.co.za/news/2016/thesele-group-acquires-27--ownership-of-elite-truck-hire"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Current shareholder structure should be validated."
+  },
+  {
+    "country": "South Africa",
+    "provider_name": "g-FleeT",
+    "provider_type": "Public sector fleet leasing provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "Gauteng Provincial Government",
+    "target_segment": "Public sector entities",
+    "evidence_summary": "g-FleeT publishes a Full Maintenance Lease solution incorporating vehicle acquisition, maintenance, disposal and replacement of vehicles leased for a fixed period.",
+    "sources": [
+      "https://www.gfleet.gov.za/Products_services/Full_mainenance_lease.htm"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Primarily public-sector scope; include if public-sector MaaS/fleet operations are in scope."
+  },
+  {
+    "country": "South Africa",
+    "provider_name": "Vuswa Fleet Services",
+    "provider_type": "Fleet leasing provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "Privately held",
+    "target_segment": "Public and private sector fleet customers",
+    "evidence_summary": "Vuswa states that it provides comprehensive leasing and fleet management services to the public and private sectors.",
+    "sources": [
+      "https://vuswafleet.co.za/",
+      "https://vuswafleet.co.za/about-us/",
+      "https://savrala.co.za/members/"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Product-level detail not yet captured."
+  },
+  {
+    "country": "South Africa",
+    "provider_name": "Fleet Horizon Solutions",
+    "provider_type": "Fleet leasing provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "Privately held",
+    "target_segment": "Fleet customers",
+    "evidence_summary": "Fleet Horizon describes itself as a fleet solutions organisation and its contact page lists operating lease, full maintenance lease and consulting/advisory as services provided.",
+    "sources": [
+      "https://www.fleethorizon.co.za/",
+      "https://www.fleethorizon.co.za/contact-us.html",
+      "https://savrala.co.za/members/"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Website contains limited product detail; later phases may need direct validation."
+  },
+  {
+    "country": "South Africa",
+    "provider_name": "U-Rent South Africa",
+    "provider_type": "Fleet leasing provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "Privately held",
+    "target_segment": "Business fleet customers",
+    "evidence_summary": "U-Rent states that it offers customised leasing and fleet management solutions based on business needs.",
+    "sources": [
+      "https://www.urentsa.co.za/fleet-management/",
+      "https://savrala.co.za/members/"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Later phases should verify vehicle classes and contract models."
+  },
+  {
+    "country": "South Africa",
+    "provider_name": "Amasondo Fleet Services",
+    "provider_type": "Fleet leasing / rent-or-lease provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "Privately held / unable to confirm",
+    "target_segment": "Government, municipal and fleet customers",
+    "evidence_summary": "Amasondo publishes fleet solutions including a rent or lease service line.",
+    "sources": [
+      "https://www.amasondo.co.za/"
+    ],
+    "confidence_level": "Medium",
+    "notes_uncertainties": "Lease product depth and ownership require validation before detailed product extraction."
+  }
+]

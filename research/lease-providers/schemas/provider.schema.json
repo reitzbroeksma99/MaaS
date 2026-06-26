@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Lease Provider",
+  "type": "object",
+  "required": [
+    "country",
+    "provider_name",
+    "provider_type",
+    "confirmation_status",
+    "evidence_summary",
+    "sources",
+    "confidence_level"
+  ],
+  "properties": {
+    "country": { "type": "string" },
+    "provider_name": { "type": "string" },
+    "provider_type": { "type": "string" },
+    "confirmation_status": {
+      "type": "string",
+      "enum": ["Confirmed", "Potential / Requires Validation"]
+    },
+    "parent_company": { "type": "string" },
+    "target_segment": { "type": "string" },
+    "evidence_summary": { "type": "string" },
+    "sources": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "confidence_level": {
+      "type": "string",
+      "enum": ["High", "Medium", "Low"]
+    },
+    "notes_uncertainties": { "type": "string" }
+  }
+}

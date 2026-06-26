@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Lease Provider Functionality",
+  "type": "object",
+  "required": [
+    "country",
+    "provider_name",
+    "product_name",
+    "functionality_standard_name",
+    "short_description",
+    "why_included",
+    "evidence_extract_or_summary",
+    "sources",
+    "evidence_strength",
+    "confidence_level",
+    "customer_value",
+    "operational_value",
+    "maas_relevance"
+  ],
+  "properties": {
+    "country": { "type": "string" },
+    "provider_name": { "type": "string" },
+    "product_name": { "type": "string" },
+    "functionality_standard_name": { "type": "string" },
+    "provider_wording": { "type": "string" },
+    "short_description": { "type": "string" },
+    "why_included": { "type": "string" },
+    "evidence_extract_or_summary": { "type": "string" },
+    "sources": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "evidence_strength": {
+      "type": "string",
+      "enum": ["Explicit", "Inferred", "Assumed / Needs Validation"]
+    },
+    "confidence_level": {
+      "type": "string",
+      "enum": ["High", "Medium", "Low"]
+    },
+    "customer_value": { "type": "string" },
+    "operational_value": { "type": "string" },
+    "maas_relevance": { "type": "string" },
+    "maas_category": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "classification_reason": { "type": "string" },
+    "notes_uncertainties": { "type": "string" }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "project": "MaaS Lease Provider Product Functionality Research",
+  "vertical": "Lease Providers",
+  "primary_market": "South Africa",
+  "expansion_markets": [
+    "Namibia",
+    "Botswana",
+    "Zambia",
+    "Mozambique",
+    "Ghana",
+    "Nigeria"
+  ],
+  "current_phase": {
+    "phase": "Phase 3",
+    "name": "Extract Functionalities Per Product - South Africa active provider universe",
+    "status": "Complete after QA - awaiting user review",
+    "last_updated": "2026-06-26"
+  },
+  "phases": [
+    {
+      "phase": "Phase 0",
+      "name": "Research structure and HTML shell",
+      "status": "Complete"
+    },
+    {
+      "phase": "Phase 1",
+      "name": "South African lease provider universe",
+      "status": "Complete - active universe tightened to 22 providers"
+    },
+    {
+      "phase": "Phase 2",
+      "name": "Product catalogue per provider",
+      "status": "Complete"
+    },
+    {
+      "phase": "Phase 3",
+      "name": "Functionality extraction per product",
+      "status": "Complete after QA - awaiting user review"
+    },
+    {
+      "phase": "Phase 4",
+      "name": "Capability standardisation",
+      "status": "Not started"
+    },
+    {
+      "phase": "Phase 5",
+      "name": "MaaS role classification",
+      "status": "Not started"
+    },
+    {
+      "phase": "Phase 6",
+      "name": "Functionality matrix",
+      "status": "Not started"
+    },
+    {
+      "phase": "Phase 7",
+      "name": "African market expansion",
+      "status": "Not started"
+    },
+    {
+      "phase": "Phase 8",
+      "name": "Landscape, gaps and strategic implications",
+      "status": "Not started"
+    },
+    {
+      "phase": "Phase 9",
+      "name": "Director-ready final deliverable",
+      "status": "Not started"
+    }
+  ],
+  "evidence_policy": {
+    "source_hierarchy": [
+      "Official provider websites",
+      "Official product brochures or PDFs",
+      "Annual reports or integrated reports",
+      "Official press releases",
+      "Regulatory or company registry information",
+      "Reputable industry publications",
+      "Credible news sources",
+      "Secondary aggregators only when primary sources are unavailable"
+    ],
+    "allowed_uncertainty_labels": [
+      "Not found in public sources",
+      "Unable to confirm",
+      "Requires validation",
+      "Inferred from available evidence",
+      "Provider does not appear to disclose this publicly"
+    ]
+  }
+}

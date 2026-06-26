@@ -1,0 +1,569 @@
+[
+  {
+    "source": "https://www.wesbank.co.za/home/lease-agreements/",
+    "source_type": "Official provider website",
+    "provider_name": "WesBank Fleet Management and Leasing",
+    "product_name": "Lease Agreements",
+    "evidence_summary": "WesBank states that businesses can rent different types of business vehicles, with a maintenance option or otherwise, from single vehicles to entire fleets.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.wesbank.co.za/home/fleet-solutions/",
+    "source_type": "Official provider website",
+    "provider_name": "WesBank Fleet Management and Leasing",
+    "product_name": "Fleet Solutions",
+    "evidence_summary": "WesBank publishes fleet solutions covering fleet funding, procurement, fleet management and disposals.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.standardbank.co.za/southafrica/business/products-and-services/business-solutions/fleet-management/full-maintenance-rental",
+    "source_type": "Official provider website",
+    "provider_name": "Standard Bank Fleet Management",
+    "product_name": "Full Maintenance Rental",
+    "evidence_summary": "Standard Bank describes Full Maintenance Rental as a comprehensive finance and maintenance package without ownership and states customers pay for use over a specified period and kilometres.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.standardbank.co.za/southafrica/business/products-and-services/business-solutions/fleet-management/full-maintenance-rental",
+    "source_type": "Official provider website",
+    "provider_name": "Standard Bank Fleet Management",
+    "product_name": "Operating Rental",
+    "evidence_summary": "Standard Bank states that customers can choose the Operating Rental option if they want to exclude maintenance management.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.absa.co.za/business/funding-my-business/vehicle-and-asset-finance/absa-financial-lease/",
+    "source_type": "Official provider website",
+    "provider_name": "Absa Vehicle Management Solutions",
+    "product_name": "Finance Lease",
+    "evidence_summary": "Absa states that with finance lease it purchases an asset and the customer leases it from Absa, with an option to buy at the end of the lease period.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.absa.co.za/business/funding-my-business/vehicle-and-asset-finance/compare/",
+    "source_type": "Official provider website",
+    "provider_name": "Absa Vehicle Management Solutions",
+    "product_name": "Operating Lease Agreement",
+    "evidence_summary": "Absa comparison page lists Operating Lease Agreement and says it provides full use of the vehicle for the lease period.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.absa.co.za/business/funding-my-business/vehicle-and-asset-finance/explore/",
+    "source_type": "Official provider website",
+    "provider_name": "Absa Vehicle Management Solutions",
+    "product_name": "Full Maintenance Lease",
+    "evidence_summary": "Absa business vehicle and asset finance pages disclose full maintenance leases among available packages.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.eqstra.co.za/leasing",
+    "source_type": "Official provider website",
+    "provider_name": "Eqstra",
+    "product_name": "Full Maintenance Leasing",
+    "evidence_summary": "Eqstra states that full maintenance leasing manages the expenses of acquiring, maintaining and administering a vehicle fleet and includes maintenance, servicing and tyre replacements in the monthly lease payment.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://merchantwest.co.za/fleet/full-maintenance-lease/",
+    "source_type": "Official provider website",
+    "provider_name": "Merchant West Fleet",
+    "product_name": "Full Maintenance Lease",
+    "evidence_summary": "Merchant West states its Full Maintenance Lease covers a fixed period or mileage and includes procurement, maintenance and disposal support.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://merchantwest.co.za/fleet/operating-lease-south-africa/",
+    "source_type": "Official provider website",
+    "provider_name": "Merchant West Fleet",
+    "product_name": "Operating Lease",
+    "evidence_summary": "Merchant West states that an Operating Lease lets a business use vehicles for an agreed term, typically 12 to 60 months, with fixed rentals and no residual risk.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://merchantwest.co.za/fleet/dynamic-lease/",
+    "source_type": "Official provider website",
+    "provider_name": "Merchant West Fleet",
+    "product_name": "Dynamic Lease",
+    "evidence_summary": "Merchant West describes Dynamic Lease as a lease-to-own structure with ownership transferring after all contractual payments are made.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.avisfleet.co.za/",
+    "source_type": "Official provider website",
+    "provider_name": "Avis Fleet",
+    "product_name": "Full Maintenance Lease",
+    "evidence_summary": "Avis Fleet lists Full Maintenance Lease as an offering and positions it around outsourcing fleet purchasing and management.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://fleetafrica.com/fleet-solutions/",
+    "source_type": "Official provider website",
+    "provider_name": "FleetAfrica",
+    "product_name": "Full Maintenance Lease",
+    "evidence_summary": "FleetAfrica describes Full Maintenance Lease as a comprehensive vehicle leasing solution with fixed rentals and says it takes ownership, maintenance and residual value risks.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.nedfleet.co.za/WebHelp/Introduction/Who_we_are.htm",
+    "source_type": "Official provider website",
+    "provider_name": "NedFleet",
+    "product_name": "Full Maintenance Leasing",
+    "evidence_summary": "NedFleet states its speciality is Full Maintenance Leasing and Operating Rentals.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.nedfleet.co.za/WebHelp/Introduction/Who_we_are.htm",
+    "source_type": "Official provider website",
+    "provider_name": "NedFleet",
+    "product_name": "Operating Rentals",
+    "evidence_summary": "NedFleet states its speciality is Full Maintenance Leasing and Operating Rentals.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.bidvestbank.co.za/fleet-services/fleet-finance",
+    "source_type": "Official provider website",
+    "provider_name": "Bidvest Bank Fleet Finance",
+    "product_name": "Full Maintenance Lease",
+    "evidence_summary": "Bidvest Bank fleet finance page lists Full Maintenance lease and says the bank purchases fleet vehicles based on business requirements.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.bidvestbank.co.za/fleet-services/fleet-management",
+    "source_type": "Official provider website",
+    "provider_name": "Bidvest Bank Fleet Finance",
+    "product_name": "Fleet Management",
+    "evidence_summary": "Bidvest Bank says its fleet management system collects information related to vehicle roadworthiness, tyre health, fuel and driver behaviour.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.cfaomobility.co.za/fleet-solutions/",
+    "source_type": "Official provider website",
+    "provider_name": "CFAO Mobility Fleet Solutions",
+    "product_name": "Fleet Leasing and Finance",
+    "evidence_summary": "CFAO Mobility states customers can buy, lease or rent fleet vehicles and lists flexible leasing and finance options.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://pacefleet.co.za/",
+    "source_type": "Official provider website",
+    "provider_name": "Pace Fleet Services",
+    "product_name": "Subscription-Based Owner-Operator Programmes",
+    "evidence_summary": "Pace Fleet Services describes itself as a South African car leasing company specialising in subscription-based Owner-Operator Programmes.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.avisilease.co.za/",
+    "source_type": "Official provider website",
+    "provider_name": "Avis iLease",
+    "product_name": "Avis iLease",
+    "evidence_summary": "Avis iLease advertises flexible monthly car leasing in South Africa with no balloon payments, large deposits or hidden costs.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.imperialtruckrental.co.za/faq/",
+    "source_type": "Official provider website",
+    "provider_name": "Imperial Truck Rental",
+    "product_name": "Full Maintenance Rentals",
+    "evidence_summary": "Imperial Truck Rental says it provides Full Maintenance Rentals over various yearly periods, including maintenance, servicing and support.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.imperialtruckrental.co.za/full-maintenance/",
+    "source_type": "Official provider website",
+    "provider_name": "Imperial Truck Rental",
+    "product_name": "Operating Lease",
+    "evidence_summary": "Imperial Truck Rental states it expanded its offering to include full maintenance rentals and operating leases.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.spartantruckhire.co.za/full-maintenance-leasing/",
+    "source_type": "Official provider website",
+    "provider_name": "Spartan Truck Hire",
+    "product_name": "Full Maintenance Leasing",
+    "evidence_summary": "Spartan Truck Hire states its fleet leasing and management division provides vehicle finance and maintenance packages to corporate and commercial enterprises.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://value.co.za/our-solutions/transportation/",
+    "source_type": "Official provider website",
+    "provider_name": "Value Truck Rental / Value Logistics",
+    "product_name": "Full Maintenance Lease",
+    "evidence_summary": "Value Logistics states vehicles are available on flexible rental structures including daily, weekly, monthly and full maintenance lease options.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.powertruckhire.co.za/our-services/truck-leasing/",
+    "source_type": "Official provider website",
+    "provider_name": "Power Truck Hire",
+    "product_name": "Full Maintenance Truck Leasing",
+    "evidence_summary": "Power Truck Hire states it offers a complete truck leasing and management service providing financing and maintenance packages.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://elitetruck.co.za/",
+    "source_type": "Official provider website",
+    "provider_name": "Elite Truck Hire",
+    "product_name": "Full-Maintenance Leasing",
+    "evidence_summary": "Elite Truck Hire states it offers short-term rentals, full-maintenance leasing and specialised vehicle support services nationwide.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.gfleet.gov.za/Products_services/Full_mainenance_lease.htm",
+    "source_type": "Official provider website",
+    "provider_name": "g-FleeT",
+    "product_name": "Full Maintenance Lease",
+    "evidence_summary": "g-FleeT states its Full Maintenance Lease solution incorporates vehicle acquisition, maintenance, disposal and replacement of a vehicle leased for a fixed period.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://vuswafleet.co.za/",
+    "source_type": "Official provider website",
+    "provider_name": "Vuswa Fleet Services",
+    "product_name": "Leasing and Fleet Management Services",
+    "evidence_summary": "Vuswa states that it provides cost-effective, comprehensive leasing and fleet management services to the public and private sectors.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.fleethorizon.co.za/services-2.html",
+    "source_type": "Official provider website",
+    "provider_name": "Fleet Horizon Solutions",
+    "product_name": "Full Maintenance Lease",
+    "evidence_summary": "Fleet Horizon states its Full Maintenance Lease allows the client to choose a vehicle for an agreed period and distance at a fixed monthly rental, with the asset returned at contract end.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.urentsa.co.za/fleet-management/",
+    "source_type": "Official provider website",
+    "provider_name": "U-Rent South Africa",
+    "product_name": "Customised Leasing and Fleet Management Solutions",
+    "evidence_summary": "U-Rent states that it offers customised leasing and fleet management solutions based on business needs, vehicle operating conditions and expected monthly utilisation.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.amasondo.co.za/",
+    "source_type": "Official provider website",
+    "provider_name": "Amasondo Fleet Services",
+    "product_name": "Rent or Lease",
+    "evidence_summary": "Amasondo lists fleet solutions including Rent or lease, fuel optimisation, driver solutions and maintenance solutions.",
+    "used_for": "Phase 2 product catalogue",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.wesbank.co.za/home/lease-agreements/",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "WesBank Fleet Management and Leasing",
+    "product_name": "Lease Agreements",
+    "evidence_summary": "WesBank lease-agreements source summary states businesses can rent different types of business vehicles.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.wesbank.co.za/home/fleet-solutions/",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "WesBank Fleet Management and Leasing",
+    "product_name": "Fleet Solutions",
+    "evidence_summary": "WesBank fleet-solutions source summary references fleet funding as part of the fleet solutions offer.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.wesbank.co.za/home/business/business-wizard/vehicles/commercial/",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "WesBank Fleet Management and Leasing",
+    "product_name": "Fleet Solutions",
+    "evidence_summary": "WesBank commercial-vehicles source summary says it has funding, maintenance and fuel solutions for delivery vehicles, trucks, trailers and other asset classes.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.standardbank.co.za/southafrica/business/products-and-services/business-solutions/fleet-management/full-maintenance-rental",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "Standard Bank Fleet Management",
+    "product_name": "Full Maintenance Rental",
+    "evidence_summary": "Standard Bank Fleet Management evidence for Full Maintenance Rental: Standard Bank describes Full Maintenance Rental as a comprehensive finance and maintenance package without ownership and states customers pay for use over a specified period and kilometres. Provider wording/reference: comprehensive finance and maintenance package without ownership.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.standardbank.co.za/southafrica/business/products-and-services/business-solutions/fleet-management/full-maintenance-rental",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "Standard Bank Fleet Management",
+    "product_name": "Operating Rental",
+    "evidence_summary": "Standard Bank Fleet Management evidence for Operating Rental: Standard Bank states that customers can choose the Operating Rental option if they want to exclude maintenance management. Provider wording/reference: Operating Rental option.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.absa.co.za/business/funding-my-business/vehicle-and-asset-finance/absa-financial-lease/",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "Absa Vehicle Management Solutions",
+    "product_name": "Finance Lease",
+    "evidence_summary": "Absa Vehicle Management Solutions evidence for Finance Lease: Absa states that with finance lease it purchases an asset and the customer leases it from Absa, with an option to buy at the end of the lease period. Provider wording/reference: we purchase an asset and you lease it from us.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.absa.co.za/business/funding-my-business/vehicle-and-asset-finance/compare/",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "Absa Vehicle Management Solutions",
+    "product_name": "Operating Lease Agreement",
+    "evidence_summary": "Absa Vehicle Management Solutions evidence for Operating Lease Agreement: Absa comparison page lists Operating Lease Agreement and says it provides full use of the vehicle for the lease period. Provider wording/reference: Full use of the vehicle for the lease period.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.absa.co.za/business/funding-my-business/vehicle-and-asset-finance/explore/",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "Absa Vehicle Management Solutions",
+    "product_name": "Full Maintenance Lease",
+    "evidence_summary": "Absa Vehicle Management Solutions evidence for Full Maintenance Lease: Absa business vehicle and asset finance pages disclose full maintenance leases among available packages. Provider wording/reference: full maintenance leases.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.eqstra.co.za/leasing",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "Eqstra",
+    "product_name": "Full Maintenance Leasing",
+    "evidence_summary": "Eqstra evidence for Full Maintenance Leasing: Eqstra states that full maintenance leasing manages the expenses of acquiring, maintaining and administering a vehicle fleet and includes maintenance, servicing and tyre replacements in the monthly lease payment. Provider wording/reference: Full maintenance leasing.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://merchantwest.co.za/fleet/full-maintenance-lease/",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "Merchant West Fleet",
+    "product_name": "Full Maintenance Lease",
+    "evidence_summary": "Merchant West Fleet evidence for Full Maintenance Lease: Merchant West states its Full Maintenance Lease covers a fixed period or mileage and includes procurement, maintenance and disposal support. Provider wording/reference: Full Maintenance Lease.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://merchantwest.co.za/fleet/operating-lease-south-africa/",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "Merchant West Fleet",
+    "product_name": "Operating Lease",
+    "evidence_summary": "Merchant West Fleet evidence for Operating Lease: Merchant West states that an Operating Lease lets a business use vehicles for an agreed term, typically 12 to 60 months, with fixed rentals and no residual risk. Provider wording/reference: Operating Lease.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://merchantwest.co.za/fleet/dynamic-lease/",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "Merchant West Fleet",
+    "product_name": "Dynamic Lease",
+    "evidence_summary": "Merchant West Fleet evidence for Dynamic Lease: Merchant West describes Dynamic Lease as a lease-to-own structure with ownership transferring after all contractual payments are made. Provider wording/reference: lease-to-own structure.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.avisfleet.co.za/",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "Avis Fleet",
+    "product_name": "Full Maintenance Lease",
+    "evidence_summary": "Avis Fleet evidence for Full Maintenance Lease: Avis Fleet lists Full Maintenance Lease as an offering and positions it around outsourcing fleet purchasing and management. Provider wording/reference: Full Maintenance Lease.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://fleetafrica.com/fleet-solutions/",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "FleetAfrica",
+    "product_name": "Full Maintenance Lease",
+    "evidence_summary": "FleetAfrica evidence for Full Maintenance Lease: FleetAfrica describes Full Maintenance Lease as a comprehensive vehicle leasing solution with fixed rentals and says it takes ownership, maintenance and residual value risks. Provider wording/reference: Full Maintenance Lease.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.nedfleet.co.za/WebHelp/Introduction/Who_we_are.htm",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "NedFleet",
+    "product_name": "Full Maintenance Leasing",
+    "evidence_summary": "NedFleet evidence for Full Maintenance Leasing: NedFleet states its speciality is Full Maintenance Leasing and Operating Rentals. Provider wording/reference: Full Maintenance Leasing.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.nedfleet.co.za/WebHelp/Introduction/Who_we_are.htm",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "NedFleet",
+    "product_name": "Operating Rentals",
+    "evidence_summary": "NedFleet evidence for Operating Rentals: NedFleet states its speciality is Full Maintenance Leasing and Operating Rentals. Provider wording/reference: Operating Rentals.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.bidvestbank.co.za/fleet-services/fleet-finance",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "Bidvest Bank Fleet Finance",
+    "product_name": "Full Maintenance Lease",
+    "evidence_summary": "Bidvest Bank Fleet Finance evidence for Full Maintenance Lease: Bidvest Bank fleet finance page lists Full Maintenance lease and says the bank purchases fleet vehicles based on business requirements. Provider wording/reference: Full Maintenance lease.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.bidvestbank.co.za/fleet-services/fleet-management",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "Bidvest Bank Fleet Finance",
+    "product_name": "Fleet Management",
+    "evidence_summary": "Bidvest Bank Fleet Finance evidence for Fleet Management: Bidvest Bank says its fleet management system collects information related to vehicle roadworthiness, tyre health, fuel and driver behaviour. Provider wording/reference: Fleet Management.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.cfaomobility.co.za/fleet-solutions/",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "CFAO Mobility Fleet Solutions",
+    "product_name": "Fleet Leasing and Finance",
+    "evidence_summary": "CFAO Mobility Fleet Solutions evidence for Fleet Leasing and Finance: CFAO Mobility states customers can buy, lease or rent fleet vehicles and lists flexible leasing and finance options. Provider wording/reference: Access to over 100 dealerships nationwide.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://pacefleet.co.za/",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "Pace Fleet Services",
+    "product_name": "Subscription-Based Owner-Operator Programmes",
+    "evidence_summary": "Pace Fleet Services describes itself as a South African car leasing company specialising in subscription-based Owner-Operator Programmes that enable logistics operations and entrepreneurial opportunities for drivers.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.avisilease.co.za/",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "Avis iLease",
+    "product_name": "Avis iLease",
+    "evidence_summary": "Avis iLease evidence for Avis iLease: Avis iLease advertises flexible monthly car leasing in South Africa with no balloon payments, large deposits or hidden costs. Provider wording/reference: Apply online for an Avis iLease account.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.imperialtruckrental.co.za/faq/",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "Imperial Truck Rental",
+    "product_name": "Full Maintenance Rentals",
+    "evidence_summary": "Imperial Truck Rental evidence for Full Maintenance Rentals: Imperial Truck Rental says it provides Full Maintenance Rentals over various yearly periods, including maintenance, servicing and support. Provider wording/reference: Full Maintenance Rentals over various yearly periods.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.imperialtruckrental.co.za/full-maintenance/",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "Imperial Truck Rental",
+    "product_name": "Operating Lease",
+    "evidence_summary": "Imperial Truck Rental evidence for Operating Lease: Imperial Truck Rental states it expanded its offering to include full maintenance rentals and operating leases. Provider wording/reference: operating leases.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.spartantruckhire.co.za/full-maintenance-leasing/",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "Spartan Truck Hire",
+    "product_name": "Full Maintenance Leasing",
+    "evidence_summary": "Spartan Truck Hire evidence for Full Maintenance Leasing: Spartan Truck Hire states its fleet leasing and management division provides vehicle finance and maintenance packages to corporate and commercial enterprises. Provider wording/reference: Commercial Vehicle Leasing.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://value.co.za/our-solutions/transportation/",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "Value Truck Rental / Value Logistics",
+    "product_name": "Full Maintenance Lease",
+    "evidence_summary": "Value Truck Rental / Value Logistics evidence for Full Maintenance Lease: Value Logistics states vehicles are available on flexible rental structures including daily, weekly, monthly and full maintenance lease options. Provider wording/reference: commercial vehicles ... full maintenance lease options.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.powertruckhire.co.za/our-services/truck-leasing/",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "Power Truck Hire",
+    "product_name": "Full Maintenance Truck Leasing",
+    "evidence_summary": "Power Truck Hire evidence for Full Maintenance Truck Leasing: Power Truck Hire states it offers a complete truck leasing and management service providing financing and maintenance packages. Provider wording/reference: Full Maintenance Truck Leasing.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://elitetruck.co.za/",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "Elite Truck Hire",
+    "product_name": "Full-Maintenance Leasing",
+    "evidence_summary": "Elite Truck Hire evidence for Full-Maintenance Leasing: Elite Truck Hire states it offers short-term rentals, full-maintenance leasing and specialised vehicle support services nationwide. Provider wording/reference: truck hire ... full-maintenance leasing.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.gfleet.gov.za/Products_services/Full_mainenance_lease.htm",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "g-FleeT",
+    "product_name": "Full Maintenance Lease",
+    "evidence_summary": "g-FleeT evidence for Full Maintenance Lease: g-FleeT states its Full Maintenance Lease solution incorporates vehicle acquisition, maintenance, disposal and replacement of a vehicle leased for a fixed period. Provider wording/reference: Full Maintenance Lease solution.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://vuswafleet.co.za/",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "Vuswa Fleet Services",
+    "product_name": "Leasing and Fleet Management Services",
+    "evidence_summary": "Vuswa Fleet Services evidence for Leasing and Fleet Management Services: Vuswa states that it provides cost-effective, comprehensive leasing and fleet management services to the public and private sectors. Provider wording/reference: leasing services.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.fleethorizon.co.za/services-2.html",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "Fleet Horizon Solutions",
+    "product_name": "Full Maintenance Lease",
+    "evidence_summary": "Fleet Horizon Solutions evidence for Full Maintenance Lease: Fleet Horizon states its Full Maintenance Lease allows the client to choose a vehicle for an agreed period and distance at a fixed monthly rental, with the asset returned at contract end. Provider wording/reference: Full Maintenance Lease.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.urentsa.co.za/fleet-management/",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "U-Rent South Africa",
+    "product_name": "Customised Leasing and Fleet Management Solutions",
+    "evidence_summary": "U-Rent South Africa evidence for Customised Leasing and Fleet Management Solutions: U-Rent states that it offers customised leasing and fleet management solutions based on business needs, vehicle operating conditions and expected monthly utilisation. Provider wording/reference: customised leasing.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  },
+  {
+    "source": "https://www.amasondo.co.za/",
+    "source_type": "Official provider website / indexed public page summary",
+    "provider_name": "Amasondo Fleet Services",
+    "product_name": "Rent or Lease",
+    "evidence_summary": "Amasondo Fleet Services evidence for Rent or Lease: Amasondo lists fleet solutions including Rent or lease, fuel optimisation, driver solutions and maintenance solutions. Provider wording/reference: Rent or lease.",
+    "used_for": "Phase 3 functionality extraction",
+    "date_accessed": "2026-06-26"
+  }
+]

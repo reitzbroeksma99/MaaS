@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Lease Provider Product",
+  "type": "object",
+  "required": [
+    "country",
+    "provider_name",
+    "product_name",
+    "product_type",
+    "product_description",
+    "availability_evidence",
+    "sources",
+    "confidence_level"
+  ],
+  "properties": {
+    "country": { "type": "string" },
+    "provider_name": { "type": "string" },
+    "product_name": { "type": "string" },
+    "product_type": { "type": "string" },
+    "target_customer": { "type": "string" },
+    "product_description": { "type": "string" },
+    "commercial_model": { "type": "string" },
+    "availability_evidence": { "type": "string" },
+    "sources": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "confidence_level": {
+      "type": "string",
+      "enum": ["High", "Medium", "Low"]
+    },
+    "notes_uncertainties": { "type": "string" }
+  }
+}

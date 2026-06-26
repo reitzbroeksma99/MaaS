@@ -1,0 +1,52 @@
+[
+  {
+    "phase": "Phase 0",
+    "question": "Does the proposed structure meet the level of detail required before beginning the South African provider universe?",
+    "status": "Resolved - user approved Phase 1"
+  },
+  {
+    "phase": "Phase 1",
+    "question": "Confirm whether the revised scope should keep close lease-like providers such as subscription-based leasing and commercial full-maintenance truck leasing, while excluding OEM captive finance arms, pure monthly rental brands and ecosystem-only providers.",
+    "status": "Resolved - user requested removal of excluded providers"
+  },
+  {
+    "phase": "Phase 1",
+    "question": "NedFleet has public evidence of full maintenance leasing and operating rentals, but its current market relationship with Nedbank/Eqstra should be validated before product extraction.",
+    "status": "Requires validation"
+  },
+  {
+    "phase": "Phase 2",
+    "question": "Review whether the Phase 2 product catalogue is complete enough for the 22 active providers before proceeding to detailed functionality extraction.",
+    "status": "Awaiting user review"
+  },
+  {
+    "phase": "Phase 2",
+    "question": "Some providers disclose only broad leasing/fleet-management products publicly. Should these medium-confidence records be retained for functionality extraction, or validated directly first?",
+    "status": "Awaiting user review"
+  },
+  {
+    "phase": "Phase 3",
+    "question": "Review whether the WesBank functionality entries have the right level of granularity before scaling Phase 3 across the remaining providers.",
+    "status": "Resolved - user approved sample detail"
+  },
+  {
+    "phase": "Phase 3",
+    "question": "WesBank public pages are JavaScript-heavy and expose limited extractable text. Should we validate WesBank functionality detail through brochures/direct review before scaling inferred sub-capabilities?",
+    "status": "Requires validation"
+  },
+  {
+    "phase": "Phase 3",
+    "question": "Review the full functionality extraction across all 22 active South African providers before proceeding to Phase 4 capability standardisation.",
+    "status": "Awaiting user review"
+  },
+  {
+    "phase": "Phase 3",
+    "question": "Twenty functionality entries are marked Inferred because public provider wording supports the inclusion indirectly but does not disclose full mechanics. These should be validated before director-level claims are finalised.",
+    "status": "Requires validation"
+  },
+  {
+    "phase": "Phase 3 QA",
+    "question": "A subagent reviewed functionality names, descriptions, why-included reasoning and evidence summaries. Weak or duplicate rows were removed and several overreaching functionality names were renamed.",
+    "status": "Completed"
+  }
+]
