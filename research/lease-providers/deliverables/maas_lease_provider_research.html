@@ -336,6 +336,7 @@
         <a href="#providers">Provider Landscape</a>
         <a href="#products">Product Catalogue</a>
         <a href="#functionalities">Functionality Matrix</a>
+        <a href="#capabilities">Capability Dictionary</a>
         <a href="#classification">MaaS Classification</a>
         <a href="#countries">Country Comparison</a>
         <a href="#evidence">Evidence Log</a>
@@ -347,11 +348,11 @@
     <main>
       <header class="hero">
         <h2>Lease Provider Product Functionality Research</h2>
-        <p>This self-contained report is the live research deliverable for the Lease Providers vertical. The active universe has been tightened to 22 South African vehicle lease providers and close lease-like providers. Phase 3 now includes functionality extraction across all active South African providers.</p>
+        <p>This self-contained report is the live research deliverable for the Lease Providers vertical. The active universe has been tightened to 22 South African vehicle lease providers and close lease-like providers. Phase 4 adds a controlled capability dictionary for the functionality matrix.</p>
         <div class="status-grid">
           <div class="metric">
             <div class="label">Current Phase</div>
-            <div class="value" id="metricPhase">Phase 3</div>
+            <div class="value" id="metricPhase">Phase 4</div>
           </div>
           <div class="metric">
             <div class="label">Providers</div>
@@ -371,7 +372,7 @@
       <section id="summary">
         <h3>Executive Summary</h3>
         <p>The revised South African universe focuses on providers with public evidence of full-maintenance lease, operating lease/rental, finance lease, fleet leasing, subscription-based leasing, or commercial full-maintenance leasing.</p>
-        <div class="empty-state">Phase 3 now extracts QA-reviewed functionality records across all 22 active South African providers. Inferred records are clearly marked where public evidence is indirect.</div>
+        <div class="empty-state">Phase 4 normalises functionality names into a controlled dictionary of 32 standard capabilities. Provider wording remains visible in the functionality matrix.</div>
       </section>
 
       <section id="scope">
@@ -540,6 +541,43 @@
         </div>
       </section>
 
+      <section id="capabilities">
+        <h3>Capability Dictionary</h3>
+        <p>Phase 4 normalises provider wording into a controlled vocabulary while preserving the original provider wording in the functionality matrix.</p>
+        <div class="toolbar">
+          <label>Search
+            <input id="capabilitySearch" type="search" placeholder="Search capabilities, definitions, alternatives">
+          </label>
+          <label>Category
+            <select id="capabilityCategory"></select>
+          </label>
+          <label>Functionality
+            <select id="capabilityName"></select>
+          </label>
+          <label>Notes
+            <select id="capabilityNotes"></select>
+          </label>
+          <label>View
+            <select id="capabilityView"></select>
+          </label>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Standard Functionality</th>
+                <th>Definition</th>
+                <th>Alternative Names</th>
+                <th>Category</th>
+                <th>MaaS Relevance</th>
+                <th>Notes</th>
+              </tr>
+            </thead>
+            <tbody id="capabilityRows"></tbody>
+          </table>
+        </div>
+      </section>
+
       <section id="classification">
         <h3>MaaS Classification View</h3>
         <p>Initial MaaS categories are Mobility Marketplace, Mobility Ecosystem Orchestrator, Digital Origination Platform, Strategic Enablement Partner and Customer Aggregation Platform. Additional categories will be proposed for review if evidence requires them.</p>
@@ -601,9 +639,9 @@
                   "Nigeria"
             ],
             "current_phase": {
-                  "phase": "Phase 3",
-                  "name": "Extract Functionalities Per Product - South Africa active provider universe",
-                  "status": "Complete after QA - awaiting user review",
+                  "phase": "Phase 4",
+                  "name": "Standardise and Normalise Functionalities",
+                  "status": "Complete - awaiting user review",
                   "last_updated": "2026-06-26"
             },
             "phases": [
@@ -625,12 +663,12 @@
                   {
                         "phase": "Phase 3",
                         "name": "Functionality extraction per product",
-                        "status": "Complete after QA - awaiting user review"
+                        "status": "Complete after QA"
                   },
                   {
                         "phase": "Phase 4",
                         "name": "Capability standardisation",
-                        "status": "Not started"
+                        "status": "Complete - awaiting user review"
                   },
                   {
                         "phase": "Phase 5",
@@ -1482,7 +1520,7 @@
                   "country": "South Africa",
                   "provider_name": "WesBank Fleet Management and Leasing",
                   "product_name": "Lease Agreements",
-                  "functionality_standard_name": "Business Vehicle Leasing",
+                  "functionality_standard_name": "Operating Lease / Rental",
                   "provider_wording": "Rent different types of business vehicles",
                   "short_description": "Provides access to business vehicles through a lease or rental-style agreement rather than outright purchase.",
                   "why_included": "The product is explicitly positioned as a way for businesses to rent different types of vehicles.",
@@ -1506,7 +1544,7 @@
                   "country": "South Africa",
                   "provider_name": "WesBank Fleet Management and Leasing",
                   "product_name": "Lease Agreements",
-                  "functionality_standard_name": "Maintenance Option",
+                  "functionality_standard_name": "Maintenance Management",
                   "provider_wording": "With a maintenance option or otherwise",
                   "short_description": "Allows the lease/rental arrangement to include vehicle maintenance as an option.",
                   "why_included": "The public product summary says business vehicles can be rented with a maintenance option or without one.",
@@ -1554,7 +1592,7 @@
                   "country": "South Africa",
                   "provider_name": "WesBank Fleet Management and Leasing",
                   "product_name": "Fleet Solutions",
-                  "functionality_standard_name": "Fleet Funding",
+                  "functionality_standard_name": "Vehicle Finance / Funding",
                   "provider_wording": "Fleet funding",
                   "short_description": "Provides financing or funding structures for fleet vehicles.",
                   "why_included": "Fleet funding is listed in WesBank Fleet Solutions evidence captured during Phase 2.",
@@ -1578,7 +1616,7 @@
                   "country": "South Africa",
                   "provider_name": "WesBank Fleet Management and Leasing",
                   "product_name": "Fleet Solutions",
-                  "functionality_standard_name": "Vehicle Procurement",
+                  "functionality_standard_name": "Vehicle Procurement / Selection",
                   "provider_wording": "Procurement",
                   "short_description": "Supports the sourcing or procurement of vehicles for a business fleet.",
                   "why_included": "Procurement is listed in the WesBank Fleet Solutions evidence captured during Phase 2.",
@@ -1624,7 +1662,7 @@
                   "country": "South Africa",
                   "provider_name": "WesBank Fleet Management and Leasing",
                   "product_name": "Fleet Solutions",
-                  "functionality_standard_name": "Vehicle Disposal",
+                  "functionality_standard_name": "Vehicle Disposal / Return",
                   "provider_wording": "Disposals",
                   "short_description": "Supports end-of-life or end-of-contract disposal of fleet vehicles.",
                   "why_included": "Disposals are listed in the WesBank Fleet Solutions evidence captured during Phase 2.",
@@ -1648,7 +1686,7 @@
                   "country": "South Africa",
                   "provider_name": "WesBank Fleet Management and Leasing",
                   "product_name": "Fleet Solutions",
-                  "functionality_standard_name": "Commercial Vehicle Support",
+                  "functionality_standard_name": "Commercial Vehicle Leasing",
                   "provider_wording": "Delivery vehicles, trucks and trailers",
                   "short_description": "Extends vehicle funding and fleet support beyond passenger cars to commercial vehicles such as delivery vehicles, trucks and trailers.",
                   "why_included": "WesBank commercial vehicle evidence references delivery vehicles, trucks, trailers and other asset classes.",
@@ -1672,7 +1710,7 @@
                   "country": "South Africa",
                   "provider_name": "WesBank Fleet Management and Leasing",
                   "product_name": "Fleet Solutions",
-                  "functionality_standard_name": "Fuel Solutions",
+                  "functionality_standard_name": "Fuel Management",
                   "provider_wording": "Fuel solutions",
                   "short_description": "Provides or supports fuel-related services for business vehicles or fleets.",
                   "why_included": "WesBank commercial vehicle evidence references fuel solutions alongside funding and maintenance solutions.",
@@ -4996,6 +5034,420 @@
                   "notes_uncertainties": ""
             }
       ],
+      "capabilityDictionary": [
+            {
+                  "standard_functionality": "Accident / Breakdown / Roadside Support",
+                  "definition": "Support for incidents, breakdowns, recovery, roadside assistance or related operational disruption during the lease or fleet lifecycle.",
+                  "alternative_names": [
+                        "Roadside Assistance",
+                        "Breakdown and Recovery Management",
+                        "Accident Assistance",
+                        "Specialised Vehicle Support"
+                  ],
+                  "capability_category": "Operational Support",
+                  "maas_relevance": "Supports vehicle availability and service continuity, both of which are important for MaaS fleet reliability.",
+                  "notes": "Keep distinct from Insurance / Risk Support unless the evidence only refers to risk cover rather than incident response."
+            },
+            {
+                  "standard_functionality": "Commercial Vehicle Leasing",
+                  "definition": "Lease, rental, funding or support capability for commercial vehicles such as trucks, trailers, delivery vehicles, bakkies or logistics fleet assets.",
+                  "alternative_names": [
+                        "Commercial Vehicle Support",
+                        "Full Maintenance Truck Leasing",
+                        "Truck Leasing",
+                        "Commercial Vehicle Rental"
+                  ],
+                  "capability_category": "Vehicle Access",
+                  "maas_relevance": "Extends mobility supply beyond passenger vehicles into logistics, delivery and enterprise transport use cases.",
+                  "notes": "Use Commercial Vehicle Range when the evidence is primarily about breadth of available vehicle types rather than the leasing/support capability."
+            },
+            {
+                  "standard_functionality": "Commercial Vehicle Range",
+                  "definition": "Availability of a broad set of commercial vehicle types within the provider fleet or product offer.",
+                  "alternative_names": [
+                        "Commercial Fleet Range",
+                        "Truck and Trailer Range",
+                        "Mixed Commercial Fleet"
+                  ],
+                  "capability_category": "Vehicle Supply",
+                  "maas_relevance": "A broader vehicle range improves the fit between MaaS-adjacent services and different transport or logistics requirements.",
+                  "notes": "Represents vehicle choice breadth; it does not by itself confirm leasing, finance or lifecycle services."
+            },
+            {
+                  "standard_functionality": "Contract Term / Mileage Structuring",
+                  "definition": "Ability to define lease duration, mileage, utilisation or repayment terms as part of the customer agreement.",
+                  "alternative_names": [
+                        "Lease Term Structuring",
+                        "Mileage Structuring",
+                        "Flexible Repayment Terms",
+                        "Fixed Period and Distance"
+                  ],
+                  "capability_category": "Contract Structuring",
+                  "maas_relevance": "Term and utilisation parameters help align asset supply with demand patterns, usage intensity and fleet planning.",
+                  "notes": "Keep distinct from Needs-Based Lease Customisation where the evidence refers to broader tailoring of operating conditions or solution design."
+            },
+            {
+                  "standard_functionality": "Driver / Owner-Operator Enablement",
+                  "definition": "Programmes that enable drivers or owner-operators to access vehicles or participate in transport operations through a structured leasing or subscription model.",
+                  "alternative_names": [
+                        "Owner-Operator Programme",
+                        "Driver Enablement",
+                        "Subscription-Based Owner-Operator Programme"
+                  ],
+                  "capability_category": "Operator Enablement",
+                  "maas_relevance": "Can expand the supply base for mobility or logistics networks by enabling operators rather than only financing fleet owners.",
+                  "notes": "Keep distinct from Driver Management / Behaviour, which concerns managing active driver performance."
+            },
+            {
+                  "standard_functionality": "Driver Management / Behaviour",
+                  "definition": "Tools or services that monitor, manage or improve driver behaviour, performance or driver-related fleet operations.",
+                  "alternative_names": [
+                        "Driver Behaviour",
+                        "Driver Solutions",
+                        "Driver Performance Management"
+                  ],
+                  "capability_category": "Fleet Operations",
+                  "maas_relevance": "Driver behaviour affects safety, cost, uptime and customer experience in managed mobility fleets.",
+                  "notes": "Evidence may be based on data collection or named driver solutions; classify conservatively where service depth is unclear."
+            },
+            {
+                  "standard_functionality": "Fixed Monthly Cost / Rental",
+                  "definition": "A predictable monthly rental or payment structure for vehicle use, often covering a fixed period, mileage or service bundle.",
+                  "alternative_names": [
+                        "Fixed Monthly Rental",
+                        "Predictable Monthly Cost",
+                        "Budgeting Certainty",
+                        "Fixed Payments"
+                  ],
+                  "capability_category": "Commercial Model",
+                  "maas_relevance": "Predictable asset costs support MaaS pricing, margin control and budget planning.",
+                  "notes": "Does not automatically imply full maintenance unless maintenance is separately evidenced."
+            },
+            {
+                  "standard_functionality": "Fleet Administration",
+                  "definition": "Administrative support for managing fleet records, processes, compliance, service coordination or related back-office fleet activities.",
+                  "alternative_names": [
+                        "Fleet Admin",
+                        "Fleet Administration Services",
+                        "Fleet Back-Office Support"
+                  ],
+                  "capability_category": "Fleet Operations",
+                  "maas_relevance": "Administration capability helps scale fleet operations and reduces manual burden in multi-vehicle services.",
+                  "notes": "Keep distinct from Fleet Management when the evidence specifically names administration rather than an end-to-end management proposition."
+            },
+            {
+                  "standard_functionality": "Fleet Data / Reporting",
+                  "definition": "Collection, analysis or reporting of fleet data such as vehicle condition, fuel, tyres, driver behaviour or operational metrics.",
+                  "alternative_names": [
+                        "Fleet Reporting",
+                        "Fleet Analytics",
+                        "Fleet Data Analysis",
+                        "Operational Reporting"
+                  ],
+                  "capability_category": "Data and Reporting",
+                  "maas_relevance": "Fleet data supports optimisation, governance and performance management for MaaS operations.",
+                  "notes": "Keep distinct from Vehicle Tracking / Telematics when the evidence is about reporting outputs rather than live location or telemetry."
+            },
+            {
+                  "standard_functionality": "Fleet Management",
+                  "definition": "Management of fleet operations or the vehicle lifecycle, potentially including procurement, maintenance, administration, risk, reporting and service coordination.",
+                  "alternative_names": [
+                        "Fleet Solutions",
+                        "Fleet Managed Solutions",
+                        "Fleet Management Services",
+                        "End-to-End Fleet Management"
+                  ],
+                  "capability_category": "Fleet Operations",
+                  "maas_relevance": "Fleet management is a core operating capability for placing, maintaining and coordinating vehicle supply within a MaaS ecosystem.",
+                  "notes": "Use more specific capabilities where the evidence identifies a concrete sub-capability such as maintenance, procurement or reporting."
+            },
+            {
+                  "standard_functionality": "Fuel Management",
+                  "definition": "Fuel-related services, optimisation, cost control, data capture or administration for vehicles or fleets.",
+                  "alternative_names": [
+                        "Fuel Solutions",
+                        "Fuel Optimisation",
+                        "Fuel Cost Management",
+                        "Fuel Services"
+                  ],
+                  "capability_category": "Operating Cost Management",
+                  "maas_relevance": "Fuel or energy cost control is important for unit economics in usage-based mobility operations.",
+                  "notes": "Public evidence may not always specify whether the service includes cards, billing, controls or reporting."
+            },
+            {
+                  "standard_functionality": "Full Maintenance Lease / Rental",
+                  "definition": "A lease or rental product that bundles vehicle use with maintenance responsibilities over an agreed term or mileage.",
+                  "alternative_names": [
+                        "Full Maintenance Lease",
+                        "Full Maintenance Rental",
+                        "Full Maintenance Leasing",
+                        "FML"
+                  ],
+                  "capability_category": "Vehicle Access",
+                  "maas_relevance": "Bundles asset access with operational readiness, reducing lifecycle complexity for MaaS fleet deployment.",
+                  "notes": "Keep distinct from Maintenance Management, which is the underlying maintenance service capability."
+            },
+            {
+                  "standard_functionality": "Insurance / Risk Support",
+                  "definition": "Insurance, risk assistance or related support attached to financed, leased or managed vehicles.",
+                  "alternative_names": [
+                        "Insurance",
+                        "Risk Support",
+                        "Comprehensive Vehicle Insurance",
+                        "Insurance Assistance"
+                  ],
+                  "capability_category": "Risk Management",
+                  "maas_relevance": "Risk support helps protect vehicle assets and reduce operational exposure in mobility services.",
+                  "notes": "Keep distinct from Residual Value / Ownership Risk Transfer, which concerns asset ownership and end-of-contract value risk."
+            },
+            {
+                  "standard_functionality": "Lease-to-Own",
+                  "definition": "A lease structure that gives the customer an option or pathway to buy the vehicle or asset at the end of the agreement.",
+                  "alternative_names": [
+                        "Lease to Own",
+                        "Option to Buy",
+                        "Dynamic Lease",
+                        "Purchase Option"
+                  ],
+                  "capability_category": "Commercial Model",
+                  "maas_relevance": "Ownership pathways may support driver, operator or partner acquisition models in mobility ecosystems.",
+                  "notes": "Keep distinct from Operating Lease / Rental where no ownership pathway is evidenced."
+            },
+            {
+                  "standard_functionality": "Licensing / Registration Support",
+                  "definition": "Support for vehicle licensing, registration, licence renewal or related compliance administration.",
+                  "alternative_names": [
+                        "Licence Renewal",
+                        "Licence and Registration Solutions",
+                        "Registration Support",
+                        "Vehicle Licensing"
+                  ],
+                  "capability_category": "Compliance Administration",
+                  "maas_relevance": "Compliance administration helps keep vehicles legally available for service in managed fleets.",
+                  "notes": "May be bundled with broader fleet administration or lease products."
+            },
+            {
+                  "standard_functionality": "Maintenance Management",
+                  "definition": "Maintenance, servicing, roadworthiness, authorisation or maintenance-plan support for leased or managed vehicles.",
+                  "alternative_names": [
+                        "Maintenance Option",
+                        "Maintenance Plan",
+                        "Maintenance Authorisation",
+                        "Maintenance and Servicing",
+                        "Roadworthiness Support"
+                  ],
+                  "capability_category": "Fleet Operations",
+                  "maas_relevance": "Maintenance management protects uptime, safety and service quality for mobility fleets.",
+                  "notes": "Keep distinct from Full Maintenance Lease / Rental, which is a bundled lease product rather than the maintenance capability alone."
+            },
+            {
+                  "standard_functionality": "Multi-Segment Fleet Service Coverage",
+                  "definition": "Ability to serve multiple customer segments, sectors or fleet contexts such as public and private sector operations.",
+                  "alternative_names": [
+                        "Public and Private Sector Coverage",
+                        "Multi-Segment Coverage",
+                        "Cross-Sector Fleet Services"
+                  ],
+                  "capability_category": "Market Coverage",
+                  "maas_relevance": "Cross-segment coverage may indicate operational adaptability across different MaaS partners, customers or channels.",
+                  "notes": "Represents market/service coverage rather than a specific lease product."
+            },
+            {
+                  "standard_functionality": "Needs-Based Lease Customisation",
+                  "definition": "Tailoring lease or fleet solutions to customer needs, vehicle operating conditions, utilisation patterns or use-case requirements.",
+                  "alternative_names": [
+                        "Customised Leasing",
+                        "Needs-Based Fleet Solution",
+                        "Tailored Lease Solution",
+                        "Lease Customisation"
+                  ],
+                  "capability_category": "Solution Design",
+                  "maas_relevance": "Customisation helps align vehicle supply and contract design to specific mobility service models.",
+                  "notes": "Keep distinct from Contract Term / Mileage Structuring where evidence is limited to term or distance settings."
+            },
+            {
+                  "standard_functionality": "No Balloon / Deposit-Lite Structure",
+                  "definition": "A lease structure positioned around no balloon payments, lower upfront deposits or reduced hidden-cost exposure.",
+                  "alternative_names": [
+                        "No Balloon Payments",
+                        "Deposit-Lite Structure",
+                        "No Large Deposit",
+                        "No Hidden Costs"
+                  ],
+                  "capability_category": "Commercial Model",
+                  "maas_relevance": "Lower upfront and back-end payment friction can improve adoption and cash-flow fit for mobility participants.",
+                  "notes": "Specific to commercial payment structure; do not merge with Fixed Monthly Cost / Rental unless only predictability is evidenced."
+            },
+            {
+                  "standard_functionality": "Online / Digital Onboarding",
+                  "definition": "Digital or online application, account setup or onboarding process for accessing lease products.",
+                  "alternative_names": [
+                        "Digital Onboarding",
+                        "Online Application",
+                        "Apply Online",
+                        "Online Account Setup"
+                  ],
+                  "capability_category": "Digital Origination",
+                  "maas_relevance": "Digital onboarding supports scalable partner, customer or operator activation for MaaS propositions.",
+                  "notes": "Represents origination/access channel rather than the lease product itself."
+            },
+            {
+                  "standard_functionality": "Operating Lease / Rental",
+                  "definition": "Vehicle access through lease, rental or subscription-style use for a defined period, usually without outright ownership by the customer.",
+                  "alternative_names": [
+                        "Business Vehicle Leasing",
+                        "Operating Lease",
+                        "Operating Rental",
+                        "Rent or Lease",
+                        "Monthly Car Leasing",
+                        "Subscription-Based Vehicle Leasing"
+                  ],
+                  "capability_category": "Vehicle Access",
+                  "maas_relevance": "Provides the core asset-access mechanism for deploying vehicles into mobility services without traditional ownership.",
+                  "notes": "Keep distinct from Full Maintenance Lease / Rental and Lease-to-Own where those specific product structures are evidenced."
+            },
+            {
+                  "standard_functionality": "Outsourced Fleet Risk Reduction",
+                  "definition": "Risk reduction benefit from outsourcing fleet purchasing, management or lifecycle responsibilities to the provider.",
+                  "alternative_names": [
+                        "Reduce Business Risks",
+                        "Outsourced Fleet Risk",
+                        "Fleet Outsourcing Risk Reduction"
+                  ],
+                  "capability_category": "Risk Management",
+                  "maas_relevance": "Risk reduction through outsourcing can make fleet participation more viable for MaaS partners and enterprise customers.",
+                  "notes": "Keep distinct from Insurance / Risk Support when the evidence is about operational outsourcing rather than insurance cover."
+            },
+            {
+                  "standard_functionality": "Preconfigured Offers / Vehicle Choice",
+                  "definition": "Access to preconfigured lease offers or packaged vehicle choices that simplify vehicle selection and purchase decisioning.",
+                  "alternative_names": [
+                        "Preconfigured Offers",
+                        "Vehicle Choice",
+                        "Packaged Lease Offers",
+                        "Ready-Made Offers"
+                  ],
+                  "capability_category": "Vehicle Supply",
+                  "maas_relevance": "Preconfigured offers can speed up vehicle selection and customer activation in digital mobility channels.",
+                  "notes": "Keep distinct from Vehicle Procurement / Selection where the evidence is about sourcing or acquiring vehicles for the customer."
+            },
+            {
+                  "standard_functionality": "Residual Value / Ownership Risk Transfer",
+                  "definition": "Transfer or management of residual value, ownership, resale or end-of-contract asset-value risk away from the customer.",
+                  "alternative_names": [
+                        "Guaranteed Future Value",
+                        "No Residual Risk",
+                        "Residual Value Risk",
+                        "Ownership Risk Transfer"
+                  ],
+                  "capability_category": "Risk Management",
+                  "maas_relevance": "Residual-risk handling supports predictable asset economics and fleet renewal planning for MaaS operations.",
+                  "notes": "Keep distinct from Vehicle Disposal / Return, which concerns the operational end-of-contract process."
+            },
+            {
+                  "standard_functionality": "Single Vehicle to Fleet Scale",
+                  "definition": "Ability to support customers from a single leased vehicle through to an entire fleet.",
+                  "alternative_names": [
+                        "Single Vehicle to Entire Fleet",
+                        "Fleet Scale",
+                        "Scalable Vehicle Leasing"
+                  ],
+                  "capability_category": "Scalability",
+                  "maas_relevance": "Scalable vehicle access supports both pilot deployments and larger MaaS fleet rollouts.",
+                  "notes": "Represents scale range, not a standalone lease product."
+            },
+            {
+                  "standard_functionality": "Tyre Management",
+                  "definition": "Tyre replacement, tyre health monitoring or tyre-related services within a lease or fleet management offer.",
+                  "alternative_names": [
+                        "Tyre Replacement",
+                        "Tyre Health",
+                        "Tyre Services"
+                  ],
+                  "capability_category": "Fleet Operations",
+                  "maas_relevance": "Tyre management supports safety, uptime and cost control for high-utilisation mobility fleets.",
+                  "notes": "May be included within full maintenance products, but remains a specific operating capability where separately evidenced."
+            },
+            {
+                  "standard_functionality": "Vehicle Disposal / Return",
+                  "definition": "Support for vehicle return, disposal or end-of-contract handling at the end of a lease or fleet lifecycle.",
+                  "alternative_names": [
+                        "Vehicle Disposal",
+                        "Disposals",
+                        "Vehicle Return",
+                        "End-of-Contract Return",
+                        "Asset Return"
+                  ],
+                  "capability_category": "Lifecycle Management",
+                  "maas_relevance": "End-of-life handling enables disciplined fleet renewal, cost control and service-quality management in MaaS fleets.",
+                  "notes": "Keep distinct from Residual Value / Ownership Risk Transfer where the evidence focuses on financial risk rather than operational return or disposal."
+            },
+            {
+                  "standard_functionality": "Vehicle Finance / Funding",
+                  "definition": "Finance or funding structures that enable customers to acquire, lease or access vehicles for business or fleet use.",
+                  "alternative_names": [
+                        "Fleet Funding",
+                        "Vehicle Finance",
+                        "Fleet Finance",
+                        "Flexible Leasing and Finance",
+                        "Vehicle and Asset Finance"
+                  ],
+                  "capability_category": "Finance",
+                  "maas_relevance": "Scalable finance is a strategic foundation for placing vehicles into mobility networks without requiring outright purchase.",
+                  "notes": "Keep distinct from Operating Lease / Rental where the evidence is about the usage product rather than the underlying finance or funding capability."
+            },
+            {
+                  "standard_functionality": "Vehicle Price / Volume Discount Benefit",
+                  "definition": "Customer benefit from provider-negotiated vehicle pricing or volume discounts passed through in the lease or fleet arrangement.",
+                  "alternative_names": [
+                        "Volume Discount",
+                        "Vehicle Price Discount",
+                        "Discounted Vehicle Pricing"
+                  ],
+                  "capability_category": "Commercial Benefit",
+                  "maas_relevance": "Procurement scale benefits can improve MaaS fleet economics and total cost of ownership.",
+                  "notes": "Keep distinct from Vehicle Procurement / Selection, which concerns sourcing or selecting vehicles."
+            },
+            {
+                  "standard_functionality": "Vehicle Procurement / Selection",
+                  "definition": "Support for selecting, sourcing, purchasing, acquiring or configuring vehicles for a customer fleet or lease requirement.",
+                  "alternative_names": [
+                        "Vehicle Procurement",
+                        "Procurement",
+                        "Vehicle Acquisition",
+                        "Vehicle Selection",
+                        "Vehicle Sourcing"
+                  ],
+                  "capability_category": "Vehicle Supply",
+                  "maas_relevance": "Procurement and selection are core supply-side capabilities for building, refreshing and scaling mobility fleets.",
+                  "notes": "Keep distinct from Preconfigured Offers / Vehicle Choice where the evidence is about choosing from packaged offers rather than procurement support."
+            },
+            {
+                  "standard_functionality": "Vehicle Replacement",
+                  "definition": "Replacement of leased or managed vehicles during or at the end of the agreed lifecycle.",
+                  "alternative_names": [
+                        "Replacement Vehicle",
+                        "Vehicle Renewal",
+                        "Fleet Replacement"
+                  ],
+                  "capability_category": "Lifecycle Management",
+                  "maas_relevance": "Replacement capability supports fleet availability and lifecycle renewal for mobility services.",
+                  "notes": "Keep distinct from Vehicle Disposal / Return, although both may occur in the same end-of-life workflow."
+            },
+            {
+                  "standard_functionality": "Vehicle Tracking / Telematics",
+                  "definition": "Tracking, telemetry or fleet-management technology used to monitor vehicle location, use or related operational data.",
+                  "alternative_names": [
+                        "Vehicle Tracking",
+                        "Telematics",
+                        "Tracking Solutions",
+                        "Fleet Management Technology"
+                  ],
+                  "capability_category": "Data and Reporting",
+                  "maas_relevance": "Tracking and telematics support visibility, utilisation management and operational control in MaaS fleets.",
+                  "notes": "Keep distinct from Fleet Data / Reporting where the evidence is about analysed data or reports rather than tracking technology."
+            }
+      ],
       "evidenceLog": [
             {
                   "source": "https://www.wesbank.co.za/home/lease-agreements/",
@@ -5615,6 +6067,16 @@
                   "phase": "Phase 3 QA",
                   "question": "A subagent reviewed functionality names, descriptions, why-included reasoning and evidence summaries. Weak or duplicate rows were removed and several overreaching functionality names were renamed.",
                   "status": "Completed"
+            },
+            {
+                  "phase": "Phase 4",
+                  "question": "Review the first capability dictionary with 32 standard functionalities and confirm or amend the terminology before proceeding to Phase 5 MaaS role classification.",
+                  "status": "Awaiting user review"
+            },
+            {
+                  "phase": "Phase 4",
+                  "question": "Notable normalisations merged WesBank-specific labels such as Business Vehicle Leasing, Fleet Funding and Fuel Solutions into broader standard capabilities. Confirm that this level of normalisation is acceptable.",
+                  "status": "Awaiting user review"
             }
       ]
 };
@@ -5765,6 +6227,29 @@
       `).join("") : '<tr><td colspan="10"><div class="empty-state">No functionality records captured yet.</div></td></tr>';
     }
 
+    function renderCapabilities() {
+      const search = document.getElementById("capabilitySearch").value;
+      const category = document.getElementById("capabilityCategory").value;
+      const name = document.getElementById("capabilityName").value;
+      const notes = document.getElementById("capabilityNotes").value;
+      const rows = reportData.capabilityDictionary.filter((item) =>
+        includesSearch(item, search) &&
+        filterMatch(item.capability_category, category) &&
+        filterMatch(item.standard_functionality, name) &&
+        (notes === "All" || (notes === "Has notes" && item.notes) || (notes === "No notes" && !item.notes))
+      );
+      document.getElementById("capabilityRows").innerHTML = rows.length ? rows.map((item) => `
+        <tr>
+          <td>${escapeHtml(item.standard_functionality)}</td>
+          <td>${escapeHtml(item.definition)}</td>
+          <td>${(item.alternative_names || []).map(escapeHtml).join("<br>")}</td>
+          <td><span class="badge neutral">${escapeHtml(item.capability_category)}</span></td>
+          <td>${escapeHtml(item.maas_relevance)}</td>
+          <td>${escapeHtml(item.notes)}</td>
+        </tr>
+      `).join("") : '<tr><td colspan="6"><div class="empty-state">No capability records captured yet.</div></td></tr>';
+    }
+
     function renderEvidenceLog() {
       document.getElementById("evidenceRows").innerHTML = reportData.evidenceLog.length ? reportData.evidenceLog.map((item) => `
         <tr>
@@ -5809,13 +6294,19 @@
         "Strategic Enablement Partner",
         "Customer Aggregation Platform"
       ]));
+
+      setOptions("capabilityCategory", uniqueValues(reportData.capabilityDictionary, "capability_category"));
+      setOptions("capabilityName", uniqueValues(reportData.capabilityDictionary, "standard_functionality"));
+      setOptions("capabilityNotes", ["All", "Has notes", "No notes"]);
+      setOptions("capabilityView", ["All"]);
     }
 
     function bindEvents() {
       [
         "providerSearch", "providerCountry", "providerType", "providerConfidence", "providerEvidence",
         "productSearch", "productCountry", "productProvider", "productType", "productConfidence",
-        "functionalitySearch", "functionalityCountry", "functionalityProvider", "functionalityEvidence", "functionalityMaas"
+        "functionalitySearch", "functionalityCountry", "functionalityProvider", "functionalityEvidence", "functionalityMaas",
+        "capabilitySearch", "capabilityCategory", "capabilityName", "capabilityNotes", "capabilityView"
       ].forEach((id) => {
         const element = document.getElementById(id);
         element.addEventListener("input", renderAll);
@@ -5828,6 +6319,7 @@
       renderProviders();
       renderProducts();
       renderFunctionalities();
+      renderCapabilities();
       renderEvidenceLog();
       renderValidationQuestions();
     }

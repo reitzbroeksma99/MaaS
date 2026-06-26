@@ -48,5 +48,15 @@
     "phase": "Phase 3 QA",
     "question": "A subagent reviewed functionality names, descriptions, why-included reasoning and evidence summaries. Weak or duplicate rows were removed and several overreaching functionality names were renamed.",
     "status": "Completed"
+  },
+  {
+    "phase": "Phase 4",
+    "question": "Review the first capability dictionary with 32 standard functionalities and confirm or amend the terminology before proceeding to Phase 5 MaaS role classification.",
+    "status": "Awaiting user review"
+  },
+  {
+    "phase": "Phase 4",
+    "question": "Notable normalisations merged WesBank-specific labels such as Business Vehicle Leasing, Fleet Funding and Fuel Solutions into broader standard capabilities. Confirm that this level of normalisation is acceptable.",
+    "status": "Awaiting user review"
   }
 ]
