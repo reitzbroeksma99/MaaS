@@ -3426,5 +3426,1428 @@
     ],
     "classification_reason": "Fleet data and reporting provide the operational visibility needed to govern utilisation, cost, condition and performance across mobility fleets.",
     "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Merchant West Namibia",
+    "product_name": "Full Maintenance Lease",
+    "functionality_standard_name": "Full Maintenance Lease / Rental",
+    "provider_wording": "Full Maintenance Lease",
+    "short_description": "Bundles vehicle access or finance with maintenance responsibilities under a lease or rental-style product.",
+    "why_included": "Merchant West Namibia offers a full maintenance lease product.",
+    "evidence_extract_or_summary": "Merchant West Namibia states the product keeps businesses moving and covers all essential maintenance.",
+    "sources": [
+      "https://merchantwest.com.na/fleet-namibia/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Improves cost predictability and reduces vehicle ownership and maintenance administration.",
+    "operational_value": "Supports vehicle uptime, lifecycle control and predictable operating-cost management.",
+    "maas_relevance": "MaaS fleets need vehicles to remain available, roadworthy and cost-controlled beyond the initial finance event.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator",
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "A full maintenance lease combines asset access with maintenance responsibility, reducing lifecycle complexity while keeping vehicles ready for service.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Merchant West Namibia",
+    "product_name": "Full Maintenance Lease",
+    "functionality_standard_name": "Fixed Monthly Cost / Rental",
+    "provider_wording": "predictable monthly payments",
+    "short_description": "Provides a predictable recurring rental, monthly cost or quoted monthly mobility package.",
+    "why_included": "Predictable monthly payments are explicit on the Namibia full maintenance lease description.",
+    "evidence_extract_or_summary": "The Namibia page says the product offers predictable monthly payments.",
+    "sources": [
+      "https://merchantwest.com.na/fleet-namibia/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Improves budgeting and reduces unexpected ownership-style cash-flow shocks.",
+    "operational_value": "Supports cost planning and repeatable fleet expense allocation.",
+    "maas_relevance": "Predictable vehicle access costs help mobility operators model unit economics and partner pricing.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Predictable recurring pricing supports MaaS budgeting and partner economics.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Merchant West Namibia",
+    "product_name": "Full Maintenance Lease",
+    "functionality_standard_name": "Vehicle Finance / Funding",
+    "provider_wording": "avoid tying up capital in vehicles",
+    "short_description": "Provides finance, funding or capital-light access to vehicles or fleet assets.",
+    "why_included": "The evidence positions the lease as a capital-light way to access vehicles.",
+    "evidence_extract_or_summary": "Merchant West Namibia says the product helps avoid tying up capital in vehicles.",
+    "sources": [
+      "https://merchantwest.com.na/fleet-namibia/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Reduces upfront capital pressure and supports vehicle acquisition through structured finance.",
+    "operational_value": "Connects vehicle supply to financing mechanisms that enable deployment.",
+    "maas_relevance": "Vehicle finance is a supply-side enabler for MaaS fleets that need capital-efficient access to vehicles.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Vehicle finance enables the asset-access layer needed to deploy vehicles into mobility operations.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Merchant West Namibia",
+    "product_name": "Full Maintenance Lease",
+    "functionality_standard_name": "Maintenance Management",
+    "provider_wording": "covers all essential maintenance",
+    "short_description": "Coordinates or includes maintenance, servicing, repairs or related upkeep for vehicles.",
+    "why_included": "Maintenance inclusion is explicit in the Full Maintenance Lease description.",
+    "evidence_extract_or_summary": "The Namibia page says the product covers all essential maintenance.",
+    "sources": [
+      "https://merchantwest.com.na/fleet-namibia/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Reduces downtime risk and the administrative burden of arranging service and repairs.",
+    "operational_value": "Improves fleet availability, lifecycle management and operating-cost predictability.",
+    "maas_relevance": "Reliable maintenance orchestration is essential for any MaaS fleet that depends on vehicle uptime.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Maintenance management protects uptime, safety and service quality across leased or managed vehicles.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Merchant West Namibia",
+    "product_name": "Full Maintenance Lease",
+    "functionality_standard_name": "Fleet Management",
+    "provider_wording": "customised fleet management solutions tailored to your business needs",
+    "short_description": "Provides management services for ongoing fleet operation and lifecycle coordination.",
+    "why_included": "Merchant West Namibia positions the product set inside customised fleet management solutions.",
+    "evidence_extract_or_summary": "The fleet page states Merchant West Namibia provides customised fleet management solutions tailored to business needs.",
+    "sources": [
+      "https://merchantwest.com.na/fleet-namibia/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Reduces the burden of managing fleet operations internally.",
+    "operational_value": "Creates an operating layer for coordinating fleet activities and lifecycle events.",
+    "maas_relevance": "Fleet management is central to MaaS because vehicle availability, administration and operations must be coordinated continuously.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Fleet management coordinates the operating layer of vehicle lifecycle, service and control.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Merchant West Namibia",
+    "product_name": "Full Maintenance Lease",
+    "functionality_standard_name": "Vehicle Procurement / Selection",
+    "provider_wording": "find the ideal vehicle at the best price through our trusted network of suppliers",
+    "short_description": "Supports selecting, sourcing, procuring or supplying fit-for-purpose vehicles.",
+    "why_included": "Vehicle sourcing and selection support is explicit on the Namibia fleet page.",
+    "evidence_extract_or_summary": "The page states Merchant West helps find the ideal vehicle at the best price through its supplier network.",
+    "sources": [
+      "https://merchantwest.com.na/fleet-namibia/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Reduces effort in finding suitable vehicles and aligning vehicle choice to business needs.",
+    "operational_value": "Connects customer demand to vehicle supply and acquisition workflows.",
+    "maas_relevance": "Vehicle procurement is a key supply-side capability for building or refreshing mobility fleets.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Vehicle procurement and selection coordinate the supply-side sourcing required to build, refresh or scale a managed fleet.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Merchant West Namibia",
+    "product_name": "Full Maintenance Lease",
+    "functionality_standard_name": "Contract Term / Mileage Structuring",
+    "provider_wording": "selected lease term and expected mileage",
+    "short_description": "Structures the contract around a defined term, mileage allowance, usage profile or rental period.",
+    "why_included": "The page links monthly payments to selected lease term and expected mileage.",
+    "evidence_extract_or_summary": "Merchant West Namibia states monthly payments are determined by selected lease term and expected mileage.",
+    "sources": [
+      "https://merchantwest.com.na/fleet-namibia/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Allows customers to align vehicle access with expected duration and utilisation.",
+    "operational_value": "Connects pricing, maintenance exposure and lifecycle planning to expected usage.",
+    "maas_relevance": "Term and usage structures support MaaS economics where vehicle utilisation drives operating cost.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Term, mileage and utilisation structures align commercial commitments to expected demand patterns.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Merchant West Namibia",
+    "product_name": "Full Maintenance Lease",
+    "functionality_standard_name": "Residual Value / Ownership Risk Transfer",
+    "provider_wording": "we guarantee it and take the vehicle back at the end of the term",
+    "short_description": "Reduces customer exposure to residual value, future value or ownership risk at contract end.",
+    "why_included": "The provider takes future-value risk and accepts the vehicle back at term end.",
+    "evidence_extract_or_summary": "Merchant West Namibia says customers do not need to worry about future value because it guarantees the value and takes the vehicle back.",
+    "sources": [
+      "https://merchantwest.com.na/fleet-namibia/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Limits uncertainty around vehicle resale value or disposal outcomes.",
+    "operational_value": "Places residual-value management with the provider and supports cleaner fleet refresh cycles.",
+    "maas_relevance": "Residual-value transfer supports MaaS fleet scaling by lowering ownership-risk exposure for operators.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Residual-value transfer shifts ownership-risk exposure away from the customer.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Merchant West Namibia",
+    "product_name": "Full Maintenance Lease",
+    "functionality_standard_name": "Vehicle Disposal / Return",
+    "provider_wording": "take the vehicle back at the end of the term",
+    "short_description": "Supports end-of-term return, disposal, de-fleet or resale handling.",
+    "why_included": "The page confirms an end-of-term return pathway.",
+    "evidence_extract_or_summary": "Merchant West Namibia states it takes the vehicle back at the end of the term.",
+    "sources": [
+      "https://merchantwest.com.na/fleet-namibia/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Reduces the burden of selling or disposing of vehicles at contract end.",
+    "operational_value": "Supports lifecycle closure and fleet refresh planning.",
+    "maas_relevance": "MaaS fleets require predictable de-fleet and replacement pathways as utilisation cycles mature.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Vehicle return and disposal capabilities close the lifecycle loop for managed fleets.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Merchant West Namibia",
+    "product_name": "Operating Lease",
+    "functionality_standard_name": "Operating Lease / Rental",
+    "provider_wording": "Operating Lease",
+    "short_description": "Allows customers to use vehicles over an agreed rental, lease or long-term access period without outright purchase.",
+    "why_included": "The provider explicitly offers an Operating Lease product.",
+    "evidence_extract_or_summary": "Merchant West Namibia lists Operating Lease as one of three leasing options.",
+    "sources": [
+      "https://merchantwest.com.na/fleet-namibia/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Provides access to vehicles without the complexity or risk of outright ownership.",
+    "operational_value": "Supports structured fleet deployment, replacement planning and flexible vehicle use.",
+    "maas_relevance": "Operating lease and rental structures can support flexible mobility supply by separating access from ownership.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Operating lease and rental structures provide the core vehicle-access mechanism for deploying vehicles without traditional ownership.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Merchant West Namibia",
+    "product_name": "Operating Lease",
+    "functionality_standard_name": "Contract Term / Mileage Structuring",
+    "provider_wording": "usage-based contract",
+    "short_description": "Structures the contract around a defined term, mileage allowance, usage profile or rental period.",
+    "why_included": "The product is structured around usage.",
+    "evidence_extract_or_summary": "The Namibia page states the Operating Lease improves cash flow through a usage-based contract.",
+    "sources": [
+      "https://merchantwest.com.na/fleet-namibia/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Allows customers to align vehicle access with expected duration and utilisation.",
+    "operational_value": "Connects pricing, maintenance exposure and lifecycle planning to expected usage.",
+    "maas_relevance": "Term and usage structures support MaaS economics where vehicle utilisation drives operating cost.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Term, mileage and utilisation structures align commercial commitments to expected demand patterns.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Merchant West Namibia",
+    "product_name": "Operating Lease",
+    "functionality_standard_name": "Maintenance Management",
+    "provider_wording": "manage maintenance ... yourself, or outsource them to us",
+    "short_description": "Coordinates or includes maintenance, servicing, repairs or related upkeep for vehicles.",
+    "why_included": "Maintenance can be outsourced as part of the operating lease arrangement.",
+    "evidence_extract_or_summary": "Merchant West Namibia states customers can manage maintenance costs themselves or outsource them to Merchant West.",
+    "sources": [
+      "https://merchantwest.com.na/fleet-namibia/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Reduces downtime risk and the administrative burden of arranging service and repairs.",
+    "operational_value": "Improves fleet availability, lifecycle management and operating-cost predictability.",
+    "maas_relevance": "Reliable maintenance orchestration is essential for any MaaS fleet that depends on vehicle uptime.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Maintenance management protects uptime, safety and service quality across leased or managed vehicles.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Merchant West Namibia",
+    "product_name": "Operating Lease",
+    "functionality_standard_name": "Tyre Management",
+    "provider_wording": "manage maintenance and tyre costs yourself, or outsource them to us",
+    "short_description": "Includes tyre replacement, tyre maintenance, tyre cover or tyre-health support.",
+    "why_included": "Tyre cost management can be outsourced as part of the operating lease arrangement.",
+    "evidence_extract_or_summary": "Merchant West Namibia states customers can manage maintenance and tyre costs themselves or outsource them.",
+    "sources": [
+      "https://merchantwest.com.na/fleet-namibia/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Reduces unexpected tyre-related costs and operational disruptions.",
+    "operational_value": "Supports safety, roadworthiness and preventive fleet maintenance.",
+    "maas_relevance": "Tyre management is a practical lifecycle service that keeps mobility assets safe and available.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Tyre management supports safety, uptime and operating-cost control for mobility vehicles.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Merchant West Namibia",
+    "product_name": "Operating Lease",
+    "functionality_standard_name": "Fleet Administration",
+    "provider_wording": "consolidated invoice provided monthly",
+    "short_description": "Handles administrative fleet tasks such as traffic fines, documents, authorisations or account support.",
+    "why_included": "The provider consolidates managed maintenance costs into monthly invoicing.",
+    "evidence_extract_or_summary": "Merchant West Namibia states it manages maintenance costs efficiently with a consolidated monthly invoice.",
+    "sources": [
+      "https://merchantwest.com.na/fleet-namibia/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Reduces manual administration for fleet users and managers.",
+    "operational_value": "Improves process consistency across vehicle records and fleet events.",
+    "maas_relevance": "Administrative orchestration helps mobility ecosystems scale without fragmented manual work.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Fleet administration coordinates back-office tasks needed to operate managed vehicles.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Merchant West Namibia",
+    "product_name": "Dynamic Lease",
+    "functionality_standard_name": "Lease-to-Own",
+    "provider_wording": "Lease to Own option",
+    "short_description": "Provides a lease structure with an option or path to purchase the vehicle.",
+    "why_included": "Dynamic Lease is explicitly described as a lease-to-own option.",
+    "evidence_extract_or_summary": "Merchant West Namibia says Dynamic Lease gives flexibility with the Lease to Own option.",
+    "sources": [
+      "https://merchantwest.com.na/fleet-namibia/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Gives customers flexibility to use the vehicle first and decide on ownership later.",
+    "operational_value": "Supports vehicle lifecycle choices at contract end.",
+    "maas_relevance": "Lease-to-own structures can broaden vehicle access for mobility participants with different ownership preferences.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Lease-to-own structures enable vehicle access while preserving an ownership option.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Merchant West Namibia",
+    "product_name": "Dynamic Lease",
+    "functionality_standard_name": "Vehicle Disposal / Return",
+    "provider_wording": "choose to purchase the vehicle ... with no obligation",
+    "short_description": "Supports end-of-term return, disposal, de-fleet or resale handling.",
+    "why_included": "The customer can choose whether to purchase at the end rather than being forced into ownership.",
+    "evidence_extract_or_summary": "Merchant West Namibia states customers can choose to purchase the vehicle at an agreed price at end of term with no obligation.",
+    "sources": [
+      "https://merchantwest.com.na/fleet-namibia/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Reduces the burden of selling or disposing of vehicles at contract end.",
+    "operational_value": "Supports lifecycle closure and fleet refresh planning.",
+    "maas_relevance": "MaaS fleets require predictable de-fleet and replacement pathways as utilisation cycles mature.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Vehicle return and disposal capabilities close the lifecycle loop for managed fleets.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Merchant West Namibia",
+    "product_name": "Dynamic Lease",
+    "functionality_standard_name": "Contract Term / Mileage Structuring",
+    "provider_wording": "adjusted during the term to suit changing needs",
+    "short_description": "Structures the contract around a defined term, mileage allowance, usage profile or rental period.",
+    "why_included": "The lease can be adjusted during the term.",
+    "evidence_extract_or_summary": "Merchant West Namibia says Dynamic Lease can be adjusted during the term to suit changing needs.",
+    "sources": [
+      "https://merchantwest.com.na/fleet-namibia/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Allows customers to align vehicle access with expected duration and utilisation.",
+    "operational_value": "Connects pricing, maintenance exposure and lifecycle planning to expected usage.",
+    "maas_relevance": "Term and usage structures support MaaS economics where vehicle utilisation drives operating cost.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Term, mileage and utilisation structures align commercial commitments to expected demand patterns.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Merchant West Namibia",
+    "product_name": "Dynamic Lease",
+    "functionality_standard_name": "Vehicle Finance / Funding",
+    "provider_wording": "purchase the vehicle at an agreed-upon price",
+    "short_description": "Provides finance, funding or capital-light access to vehicles or fleet assets.",
+    "why_included": "The product structures vehicle access and a possible financed purchase outcome.",
+    "evidence_extract_or_summary": "Merchant West Namibia describes an agreed end-of-term purchase price in the Dynamic Lease.",
+    "sources": [
+      "https://merchantwest.com.na/fleet-namibia/"
+    ],
+    "evidence_strength": "Inferred",
+    "confidence_level": "Medium",
+    "customer_value": "Reduces upfront capital pressure and supports vehicle acquisition through structured finance.",
+    "operational_value": "Connects vehicle supply to financing mechanisms that enable deployment.",
+    "maas_relevance": "Vehicle finance is a supply-side enabler for MaaS fleets that need capital-efficient access to vehicles.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Vehicle finance enables the asset-access layer needed to deploy vehicles into mobility operations.",
+    "notes_uncertainties": "The page does not disclose funding mechanics, but the lease-to-own commercial model implies structured vehicle funding."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Omatemba Fleet Services / Eqstra Namibia",
+    "product_name": "Full Maintenance Rental",
+    "functionality_standard_name": "Full Maintenance Lease / Rental",
+    "provider_wording": "Full Maintenance Rental Product (FMR)",
+    "short_description": "Bundles vehicle access or finance with maintenance responsibilities under a lease or rental-style product.",
+    "why_included": "Omatemba explicitly names a Full Maintenance Rental product.",
+    "evidence_extract_or_summary": "The Omatemba driver pack states the vehicle is financed under the Omatemba Full Maintenance Rental Product.",
+    "sources": [
+      "https://www.eqstra.co.za/driver-packs-omatemba",
+      "https://www.efm.co.za/hubfs/Website%20pages/Landing%20pages/Driver%20Packs/Omatemba%20Fleet%20Services/Driver%20Packs/Welcome%20to%20Omatemba%20Fleet%20Services.pdf"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Improves cost predictability and reduces vehicle ownership and maintenance administration.",
+    "operational_value": "Supports vehicle uptime, lifecycle control and predictable operating-cost management.",
+    "maas_relevance": "MaaS fleets need vehicles to remain available, roadworthy and cost-controlled beyond the initial finance event.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator",
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "A full maintenance lease combines asset access with maintenance responsibility, reducing lifecycle complexity while keeping vehicles ready for service.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Omatemba Fleet Services / Eqstra Namibia",
+    "product_name": "Full Maintenance Rental",
+    "functionality_standard_name": "Vehicle Finance / Funding",
+    "provider_wording": "Omatemba finances your vehicle",
+    "short_description": "Provides finance, funding or capital-light access to vehicles or fleet assets.",
+    "why_included": "Vehicle finance is explicit in the driver pack.",
+    "evidence_extract_or_summary": "The Omatemba driver pack states Omatemba finances the vehicle under FMR.",
+    "sources": [
+      "https://www.eqstra.co.za/driver-packs-omatemba",
+      "https://www.efm.co.za/hubfs/Website%20pages/Landing%20pages/Driver%20Packs/Omatemba%20Fleet%20Services/Driver%20Packs/Welcome%20to%20Omatemba%20Fleet%20Services.pdf"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Reduces upfront capital pressure and supports vehicle acquisition through structured finance.",
+    "operational_value": "Connects vehicle supply to financing mechanisms that enable deployment.",
+    "maas_relevance": "Vehicle finance is a supply-side enabler for MaaS fleets that need capital-efficient access to vehicles.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Vehicle finance enables the asset-access layer needed to deploy vehicles into mobility operations.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Omatemba Fleet Services / Eqstra Namibia",
+    "product_name": "Full Maintenance Rental",
+    "functionality_standard_name": "Maintenance Management",
+    "provider_wording": "maintenance, servicing",
+    "short_description": "Coordinates or includes maintenance, servicing, repairs or related upkeep for vehicles.",
+    "why_included": "FMR includes maintenance and servicing.",
+    "evidence_extract_or_summary": "The Omatemba driver pack says FMR covers maintenance and servicing and servicing as per the vehicle manual.",
+    "sources": [
+      "https://www.eqstra.co.za/driver-packs-omatemba",
+      "https://www.efm.co.za/hubfs/Website%20pages/Landing%20pages/Driver%20Packs/Omatemba%20Fleet%20Services/Driver%20Packs/Welcome%20to%20Omatemba%20Fleet%20Services.pdf"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Reduces downtime risk and the administrative burden of arranging service and repairs.",
+    "operational_value": "Improves fleet availability, lifecycle management and operating-cost predictability.",
+    "maas_relevance": "Reliable maintenance orchestration is essential for any MaaS fleet that depends on vehicle uptime.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Maintenance management protects uptime, safety and service quality across leased or managed vehicles.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Omatemba Fleet Services / Eqstra Namibia",
+    "product_name": "Full Maintenance Rental",
+    "functionality_standard_name": "Tyre Management",
+    "provider_wording": "tyre replacement",
+    "short_description": "Includes tyre replacement, tyre maintenance, tyre cover or tyre-health support.",
+    "why_included": "FMR includes tyre replacement, with detailed tyre pack guidance.",
+    "evidence_extract_or_summary": "The Omatemba driver pack says FMR covers tyre replacement and discusses wheel balancing, alignment and tyre replacement criteria.",
+    "sources": [
+      "https://www.eqstra.co.za/driver-packs-omatemba",
+      "https://www.efm.co.za/hubfs/Website%20pages/Landing%20pages/Driver%20Packs/Omatemba%20Fleet%20Services/Driver%20Packs/Welcome%20to%20Omatemba%20Fleet%20Services.pdf"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Reduces unexpected tyre-related costs and operational disruptions.",
+    "operational_value": "Supports safety, roadworthiness and preventive fleet maintenance.",
+    "maas_relevance": "Tyre management is a practical lifecycle service that keeps mobility assets safe and available.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Tyre management supports safety, uptime and operating-cost control for mobility vehicles.",
+    "notes_uncertainties": "Some tyre services are subject to what the employer selected."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Omatemba Fleet Services / Eqstra Namibia",
+    "product_name": "Full Maintenance Rental",
+    "functionality_standard_name": "Licensing / Registration Support",
+    "provider_wording": "vehicle licencing",
+    "short_description": "Supports initial registration, annual licensing, compliance documents or related vehicle administration.",
+    "why_included": "FMR includes vehicle licensing administration.",
+    "evidence_extract_or_summary": "The Omatemba driver pack states FMR covers vehicle licensing and annual licensing management.",
+    "sources": [
+      "https://www.eqstra.co.za/driver-packs-omatemba",
+      "https://www.efm.co.za/hubfs/Website%20pages/Landing%20pages/Driver%20Packs/Omatemba%20Fleet%20Services/Driver%20Packs/Welcome%20to%20Omatemba%20Fleet%20Services.pdf"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Reduces compliance burden for vehicle users and fleet managers.",
+    "operational_value": "Helps keep vehicles legal, documented and roadworthy for service.",
+    "maas_relevance": "Licensing and registration support protects compliance in MaaS fleets operating at scale.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Licensing support coordinates compliance tasks required for road-ready fleets.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Omatemba Fleet Services / Eqstra Namibia",
+    "product_name": "Full Maintenance Rental",
+    "functionality_standard_name": "Fleet Administration",
+    "provider_wording": "traffic fine management",
+    "short_description": "Handles administrative fleet tasks such as traffic fines, documents, authorisations or account support.",
+    "why_included": "FMR includes traffic fine management and customer support queries.",
+    "evidence_extract_or_summary": "The Omatemba driver pack says FMR covers traffic fine management and redirects traffic fines to the driver.",
+    "sources": [
+      "https://www.eqstra.co.za/driver-packs-omatemba",
+      "https://www.efm.co.za/hubfs/Website%20pages/Landing%20pages/Driver%20Packs/Omatemba%20Fleet%20Services/Driver%20Packs/Welcome%20to%20Omatemba%20Fleet%20Services.pdf"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Reduces manual administration for fleet users and managers.",
+    "operational_value": "Improves process consistency across vehicle records and fleet events.",
+    "maas_relevance": "Administrative orchestration helps mobility ecosystems scale without fragmented manual work.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Fleet administration coordinates back-office tasks needed to operate managed vehicles.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Omatemba Fleet Services / Eqstra Namibia",
+    "product_name": "Full Maintenance Rental",
+    "functionality_standard_name": "Accident / Breakdown / Roadside Support",
+    "provider_wording": "24/7 roadside assistance",
+    "short_description": "Provides support for breakdowns, roadside incidents, recovery or accident-related disruption during vehicle use.",
+    "why_included": "Roadside assistance is explicitly included where selected.",
+    "evidence_extract_or_summary": "The Omatemba driver pack lists 24/7 roadside assistance if selected by the employer.",
+    "sources": [
+      "https://www.eqstra.co.za/driver-packs-omatemba",
+      "https://www.efm.co.za/hubfs/Website%20pages/Landing%20pages/Driver%20Packs/Omatemba%20Fleet%20Services/Driver%20Packs/Welcome%20to%20Omatemba%20Fleet%20Services.pdf"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "Medium",
+    "customer_value": "Reduces disruption and gives drivers a support path when vehicles are immobilised or involved in incidents.",
+    "operational_value": "Protects fleet uptime and incident response consistency.",
+    "maas_relevance": "Reliable incident response is important for MaaS operations because vehicle availability and continuity underpin service quality.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Incident and roadside support coordinate operational response after vehicle disruptions.",
+    "notes_uncertainties": "Roadside assistance is subject to selected employer services."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Omatemba Fleet Services / Eqstra Namibia",
+    "product_name": "Full Maintenance Rental",
+    "functionality_standard_name": "Vehicle Tracking / Telematics",
+    "provider_wording": "Tracking",
+    "short_description": "Uses tracking, GPS, telematics or vehicle monitoring to provide location or driving data.",
+    "why_included": "Eqstra Namibia lists tracking as an individual Omatemba driver-pack service.",
+    "evidence_extract_or_summary": "The Eqstra Namibia Omatemba driver packs page lists Tracking as an available individual service.",
+    "sources": [
+      "https://www.eqstra.co.za/driver-packs-omatemba",
+      "https://www.efm.co.za/hubfs/Website%20pages/Landing%20pages/Driver%20Packs/Omatemba%20Fleet%20Services/Driver%20Packs/Welcome%20to%20Omatemba%20Fleet%20Services.pdf"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "Medium",
+    "customer_value": "Improves visibility over vehicles, location and driving behaviour.",
+    "operational_value": "Supports utilisation monitoring, risk control and operational optimisation.",
+    "maas_relevance": "Telematics is a data layer for MaaS fleet visibility, uptime and service quality.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Tracking and telematics provide the operational visibility layer for managed mobility fleets.",
+    "notes_uncertainties": "The public driver pack page lists the service but does not disclose telematics feature detail."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Bank Windhoek Vehicle and Asset Finance",
+    "product_name": "Financial Leasing",
+    "functionality_standard_name": "Vehicle Finance / Funding",
+    "provider_wording": "Vehicle and Asset Finance",
+    "short_description": "Provides finance, funding or capital-light access to vehicles or fleet assets.",
+    "why_included": "Financial leasing is part of the bank's vehicle and asset finance offering.",
+    "evidence_extract_or_summary": "Bank Windhoek publishes Vehicle and Asset Finance and a Financial Leasing option.",
+    "sources": [
+      "https://www.bankwindhoek.com.na/Pages/Vehicle-and-Asset-Finance.aspx"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "Medium",
+    "customer_value": "Reduces upfront capital pressure and supports vehicle acquisition through structured finance.",
+    "operational_value": "Connects vehicle supply to financing mechanisms that enable deployment.",
+    "maas_relevance": "Vehicle finance is a supply-side enabler for MaaS fleets that need capital-efficient access to vehicles.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Vehicle finance enables the asset-access layer needed to deploy vehicles into mobility operations.",
+    "notes_uncertainties": "Official page is JavaScript-heavy; evidence is from captured public extract."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Bank Windhoek Vehicle and Asset Finance",
+    "product_name": "Financial Leasing",
+    "functionality_standard_name": "Operating Lease / Rental",
+    "provider_wording": "lease a vehicle for up to 60 months",
+    "short_description": "Allows customers to use vehicles over an agreed rental, lease or long-term access period without outright purchase.",
+    "why_included": "The product provides lease-style vehicle use over a defined period.",
+    "evidence_extract_or_summary": "Bank Windhoek public evidence says customers can lease a vehicle for up to 60 months.",
+    "sources": [
+      "https://www.bankwindhoek.com.na/Pages/Vehicle-and-Asset-Finance.aspx"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "Medium",
+    "customer_value": "Provides access to vehicles without the complexity or risk of outright ownership.",
+    "operational_value": "Supports structured fleet deployment, replacement planning and flexible vehicle use.",
+    "maas_relevance": "Operating lease and rental structures can support flexible mobility supply by separating access from ownership.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Operating lease and rental structures provide the core vehicle-access mechanism for deploying vehicles without traditional ownership.",
+    "notes_uncertainties": "The evidence calls this Financial Leasing rather than fleet operating rental."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Bank Windhoek Vehicle and Asset Finance",
+    "product_name": "Financial Leasing",
+    "functionality_standard_name": "Contract Term / Mileage Structuring",
+    "provider_wording": "up to 60 months",
+    "short_description": "Structures the contract around a defined term, mileage allowance, usage profile or rental period.",
+    "why_included": "The lease term is explicitly capped at up to 60 months.",
+    "evidence_extract_or_summary": "Bank Windhoek public evidence says the Financial Leasing option runs for up to 60 months.",
+    "sources": [
+      "https://www.bankwindhoek.com.na/Pages/Vehicle-and-Asset-Finance.aspx"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "Medium",
+    "customer_value": "Allows customers to align vehicle access with expected duration and utilisation.",
+    "operational_value": "Connects pricing, maintenance exposure and lifecycle planning to expected usage.",
+    "maas_relevance": "Term and usage structures support MaaS economics where vehicle utilisation drives operating cost.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Term, mileage and utilisation structures align commercial commitments to expected demand patterns.",
+    "notes_uncertainties": "No mileage structure found in public evidence."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Bank Windhoek Vehicle and Asset Finance",
+    "product_name": "Financial Leasing",
+    "functionality_standard_name": "Fixed Monthly Cost / Rental",
+    "provider_wording": "first instalment as deposit",
+    "short_description": "Provides a predictable recurring rental, monthly cost or quoted monthly mobility package.",
+    "why_included": "The product includes an instalment-based financial lease structure.",
+    "evidence_extract_or_summary": "Bank Windhoek public evidence states the first instalment is payable as deposit on contract signature.",
+    "sources": [
+      "https://www.bankwindhoek.com.na/Pages/Vehicle-and-Asset-Finance.aspx"
+    ],
+    "evidence_strength": "Inferred",
+    "confidence_level": "Medium",
+    "customer_value": "Improves budgeting and reduces unexpected ownership-style cash-flow shocks.",
+    "operational_value": "Supports cost planning and repeatable fleet expense allocation.",
+    "maas_relevance": "Predictable vehicle access costs help mobility operators model unit economics and partner pricing.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Predictable recurring pricing supports MaaS budgeting and partner economics.",
+    "notes_uncertainties": "Recurring instalments are implied by first-instalment deposit wording, but exact monthly payment terms were not captured."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Avis Fleet Solutions Namibia",
+    "product_name": "Avis Fleet Solutions",
+    "functionality_standard_name": "Operating Lease / Rental",
+    "provider_wording": "Full service operating leasing",
+    "short_description": "Allows customers to use vehicles over an agreed rental, lease or long-term access period without outright purchase.",
+    "why_included": "Avis Leasing lists full-service operating leasing as a proposition in its global markets.",
+    "evidence_extract_or_summary": "Avis Leasing says full-service operating leasing is offered in many Avis markets and lists Namibia in the service-market form.",
+    "sources": [
+      "https://www.avisleasing.com/",
+      "https://www.avisleasing.com/fleet-solutions/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "Medium",
+    "customer_value": "Provides access to vehicles without the complexity or risk of outright ownership.",
+    "operational_value": "Supports structured fleet deployment, replacement planning and flexible vehicle use.",
+    "maas_relevance": "Operating lease and rental structures can support flexible mobility supply by separating access from ownership.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Operating lease and rental structures provide the core vehicle-access mechanism for deploying vehicles without traditional ownership.",
+    "notes_uncertainties": "Namibia-specific product detail should be confirmed with Avis Fleet."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Avis Fleet Solutions Namibia",
+    "product_name": "Avis Fleet Solutions",
+    "functionality_standard_name": "Fleet Management",
+    "provider_wording": "Fleet management as a service",
+    "short_description": "Provides management services for ongoing fleet operation and lifecycle coordination.",
+    "why_included": "Fleet management as a service is explicitly described by Avis Leasing.",
+    "evidence_extract_or_summary": "Avis Leasing states FMaaS is where a leasing or mobility company manages a company-owned fleet and associated processes.",
+    "sources": [
+      "https://www.avisleasing.com/",
+      "https://www.avisleasing.com/fleet-solutions/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "Medium",
+    "customer_value": "Reduces the burden of managing fleet operations internally.",
+    "operational_value": "Creates an operating layer for coordinating fleet activities and lifecycle events.",
+    "maas_relevance": "Fleet management is central to MaaS because vehicle availability, administration and operations must be coordinated continuously.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Fleet management coordinates the operating layer of vehicle lifecycle, service and control.",
+    "notes_uncertainties": "Market-specific scope for Namibia is not disclosed publicly."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Avis Fleet Solutions Namibia",
+    "product_name": "Avis Fleet Solutions",
+    "functionality_standard_name": "Vehicle Procurement / Selection",
+    "provider_wording": "Take on the acquisition and de-fleet/resale of vehicles",
+    "short_description": "Supports selecting, sourcing, procuring or supplying fit-for-purpose vehicles.",
+    "why_included": "Avis FMaaS can include acquisition.",
+    "evidence_extract_or_summary": "Avis Leasing states FMaaS can take on acquisition and de-fleet/resale of customer vehicles.",
+    "sources": [
+      "https://www.avisleasing.com/",
+      "https://www.avisleasing.com/fleet-solutions/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "Medium",
+    "customer_value": "Reduces effort in finding suitable vehicles and aligning vehicle choice to business needs.",
+    "operational_value": "Connects customer demand to vehicle supply and acquisition workflows.",
+    "maas_relevance": "Vehicle procurement is a key supply-side capability for building or refreshing mobility fleets.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Vehicle procurement and selection coordinate the supply-side sourcing required to build, refresh or scale a managed fleet.",
+    "notes_uncertainties": "Global service description applied to Namibia market availability."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Avis Fleet Solutions Namibia",
+    "product_name": "Avis Fleet Solutions",
+    "functionality_standard_name": "Vehicle Disposal / Return",
+    "provider_wording": "de-fleet/resale of vehicles",
+    "short_description": "Supports end-of-term return, disposal, de-fleet or resale handling.",
+    "why_included": "Avis FMaaS can include de-fleet and resale support.",
+    "evidence_extract_or_summary": "Avis Leasing states FMaaS can take on acquisition and de-fleet/resale.",
+    "sources": [
+      "https://www.avisleasing.com/",
+      "https://www.avisleasing.com/fleet-solutions/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "Medium",
+    "customer_value": "Reduces the burden of selling or disposing of vehicles at contract end.",
+    "operational_value": "Supports lifecycle closure and fleet refresh planning.",
+    "maas_relevance": "MaaS fleets require predictable de-fleet and replacement pathways as utilisation cycles mature.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Vehicle return and disposal capabilities close the lifecycle loop for managed fleets.",
+    "notes_uncertainties": "Global service description applied to Namibia market availability."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Avis Fleet Solutions Namibia",
+    "product_name": "Avis Fleet Solutions",
+    "functionality_standard_name": "Maintenance Management",
+    "provider_wording": "Manage maintenance, accidents, recovery, repair and corporate risk",
+    "short_description": "Coordinates or includes maintenance, servicing, repairs or related upkeep for vehicles.",
+    "why_included": "Avis FMaaS includes maintenance and repair management.",
+    "evidence_extract_or_summary": "Avis Leasing states FMaaS can manage maintenance, accidents, recovery, repair and corporate risk.",
+    "sources": [
+      "https://www.avisleasing.com/",
+      "https://www.avisleasing.com/fleet-solutions/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "Medium",
+    "customer_value": "Reduces downtime risk and the administrative burden of arranging service and repairs.",
+    "operational_value": "Improves fleet availability, lifecycle management and operating-cost predictability.",
+    "maas_relevance": "Reliable maintenance orchestration is essential for any MaaS fleet that depends on vehicle uptime.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Maintenance management protects uptime, safety and service quality across leased or managed vehicles.",
+    "notes_uncertainties": "Global service description applied to Namibia market availability."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Avis Fleet Solutions Namibia",
+    "product_name": "Avis Fleet Solutions",
+    "functionality_standard_name": "Accident / Breakdown / Roadside Support",
+    "provider_wording": "accidents, recovery, repair",
+    "short_description": "Provides support for breakdowns, roadside incidents, recovery or accident-related disruption during vehicle use.",
+    "why_included": "Avis FMaaS includes accident and recovery management.",
+    "evidence_extract_or_summary": "Avis Leasing states FMaaS can manage accidents, recovery and repair.",
+    "sources": [
+      "https://www.avisleasing.com/",
+      "https://www.avisleasing.com/fleet-solutions/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "Medium",
+    "customer_value": "Reduces disruption and gives drivers a support path when vehicles are immobilised or involved in incidents.",
+    "operational_value": "Protects fleet uptime and incident response consistency.",
+    "maas_relevance": "Reliable incident response is important for MaaS operations because vehicle availability and continuity underpin service quality.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Incident and roadside support coordinate operational response after vehicle disruptions.",
+    "notes_uncertainties": "Global service description applied to Namibia market availability."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Avis Fleet Solutions Namibia",
+    "product_name": "Avis Fleet Solutions",
+    "functionality_standard_name": "Fuel Management",
+    "provider_wording": "Management of fuel cards",
+    "short_description": "Manages or controls fuel cards, fuel consumption or fuel-related cost and fraud exposure.",
+    "why_included": "Avis FMaaS can include fuel-card management.",
+    "evidence_extract_or_summary": "Avis Leasing states FMaaS can manage fuel cards.",
+    "sources": [
+      "https://www.avisleasing.com/",
+      "https://www.avisleasing.com/fleet-solutions/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "Medium",
+    "customer_value": "Helps reduce fuel leakage and gives customers better control over a major operating cost.",
+    "operational_value": "Improves cost control and exception management in vehicle operations.",
+    "maas_relevance": "Fuel control is relevant to MaaS fleets because energy and fuel are recurring operating-cost drivers.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Fuel management coordinates a recurring operating-cost layer for fleet mobility.",
+    "notes_uncertainties": "Global service description applied to Namibia market availability."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Avis Fleet Solutions Namibia",
+    "product_name": "Avis Fleet Solutions",
+    "functionality_standard_name": "Commercial Vehicle Leasing",
+    "provider_wording": "short-term cars and commercial vehicles",
+    "short_description": "Supports vehicle access or fleet services for commercial vehicles such as vans, bakkies, trucks or business-use vehicles.",
+    "why_included": "Avis FMaaS can include commercial vehicles.",
+    "evidence_extract_or_summary": "Avis Leasing states FMaaS can provide replacement, rental or short-term cars and commercial vehicles.",
+    "sources": [
+      "https://www.avisleasing.com/",
+      "https://www.avisleasing.com/fleet-solutions/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "Medium",
+    "customer_value": "Helps businesses access work-appropriate vehicles without building every capability internally.",
+    "operational_value": "Extends the managed fleet model into business transport and logistics use cases.",
+    "maas_relevance": "Commercial vehicle access can supply MaaS-adjacent logistics, delivery and enterprise mobility models.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Commercial vehicle leasing enables vehicle supply for enterprise and logistics mobility use cases.",
+    "notes_uncertainties": "Global service description applied to Namibia market availability."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Avis Fleet Solutions Namibia",
+    "product_name": "Avis Fleet Solutions",
+    "functionality_standard_name": "Vehicle Replacement",
+    "provider_wording": "alternative short-term vehicle",
+    "short_description": "Provides courtesy, replacement or short-term vehicles when the primary vehicle is unavailable.",
+    "why_included": "Avis Leasing describes short-term vehicles used before or during leasing arrangements when vehicles are out of action or delayed.",
+    "evidence_extract_or_summary": "Avis Leasing says all Avis leasing markets provide short-term vehicle solutions for replacement or supply-delay scenarios.",
+    "sources": [
+      "https://www.avisleasing.com/",
+      "https://www.avisleasing.com/fleet-solutions/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "Medium",
+    "customer_value": "Reduces disruption when vehicles are delayed, serviced or temporarily unavailable.",
+    "operational_value": "Protects service continuity and utilisation during maintenance or supply gaps.",
+    "maas_relevance": "Replacement vehicles help MaaS fleets maintain capacity despite downtime or supply delays.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Replacement vehicles preserve fleet availability when primary assets are interrupted.",
+    "notes_uncertainties": "Global service description applied to Namibia market availability."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "First Car Rental Namibia",
+    "product_name": "Long Term Car Rental",
+    "functionality_standard_name": "Operating Lease / Rental",
+    "provider_wording": "long-term car rental services, often also referred to as a mini lease",
+    "short_description": "Allows customers to use vehicles over an agreed rental, lease or long-term access period without outright purchase.",
+    "why_included": "First Car Rental Namibia explicitly frames long-term rental as a mini lease.",
+    "evidence_extract_or_summary": "The Namibia page says long-term car rental services are often referred to as a mini lease.",
+    "sources": [
+      "https://firstcarrental.com.na/services/long-term-rentals"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Provides access to vehicles without the complexity or risk of outright ownership.",
+    "operational_value": "Supports structured fleet deployment, replacement planning and flexible vehicle use.",
+    "maas_relevance": "Operating lease and rental structures can support flexible mobility supply by separating access from ownership.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Operating lease and rental structures provide the core vehicle-access mechanism for deploying vehicles without traditional ownership.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "First Car Rental Namibia",
+    "product_name": "Long Term Car Rental",
+    "functionality_standard_name": "Contract Term / Mileage Structuring",
+    "provider_wording": "a few weeks, months, or even longer",
+    "short_description": "Structures the contract around a defined term, mileage allowance, usage profile or rental period.",
+    "why_included": "Flexible rental terms over weeks or months are explicit.",
+    "evidence_extract_or_summary": "First Car Rental Namibia states the product can support a few weeks, months or longer.",
+    "sources": [
+      "https://firstcarrental.com.na/services/long-term-rentals"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Allows customers to align vehicle access with expected duration and utilisation.",
+    "operational_value": "Connects pricing, maintenance exposure and lifecycle planning to expected usage.",
+    "maas_relevance": "Term and usage structures support MaaS economics where vehicle utilisation drives operating cost.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Term, mileage and utilisation structures align commercial commitments to expected demand patterns.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "First Car Rental Namibia",
+    "product_name": "Long Term Car Rental",
+    "functionality_standard_name": "Preconfigured Offers / Vehicle Choice",
+    "provider_wording": "compact cars, spacious SUVs, luxury sedans, and more",
+    "short_description": "Provides customers with selectable vehicles, vehicle groups, rates or vehicle options.",
+    "why_included": "The page offers a range of vehicle categories.",
+    "evidence_extract_or_summary": "First Car Rental Namibia states customers can choose from a diverse fleet including compact cars, SUVs and luxury sedans.",
+    "sources": [
+      "https://firstcarrental.com.na/services/long-term-rentals"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Makes it easier to choose a vehicle access option that fits the use case.",
+    "operational_value": "Standardises supply packaging and can reduce booking or origination complexity.",
+    "maas_relevance": "Offer discovery and vehicle choice are marketplace-like capabilities relevant to MaaS propositions.",
+    "maas_category": [
+      "Mobility Marketplace",
+      "Digital Origination Platform"
+    ],
+    "classification_reason": "Selectable vehicle offers expose supply in a simplified decision flow.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "First Car Rental Namibia",
+    "product_name": "Long Term Car Rental",
+    "functionality_standard_name": "Maintenance Management",
+    "provider_wording": "regular servicing ... vehicle repairs",
+    "short_description": "Coordinates or includes maintenance, servicing, repairs or related upkeep for vehicles.",
+    "why_included": "Monthly rental agreements include maintenance support.",
+    "evidence_extract_or_summary": "First Car Rental Namibia states monthly rental agreements include maintenance and support services such as regular servicing and vehicle repairs.",
+    "sources": [
+      "https://firstcarrental.com.na/services/long-term-rentals"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Reduces downtime risk and the administrative burden of arranging service and repairs.",
+    "operational_value": "Improves fleet availability, lifecycle management and operating-cost predictability.",
+    "maas_relevance": "Reliable maintenance orchestration is essential for any MaaS fleet that depends on vehicle uptime.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Maintenance management protects uptime, safety and service quality across leased or managed vehicles.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "First Car Rental Namibia",
+    "product_name": "Long Term Car Rental",
+    "functionality_standard_name": "Accident / Breakdown / Roadside Support",
+    "provider_wording": "roadside assistance",
+    "short_description": "Provides support for breakdowns, roadside incidents, recovery or accident-related disruption during vehicle use.",
+    "why_included": "Roadside assistance is listed in monthly rental support services.",
+    "evidence_extract_or_summary": "First Car Rental Namibia states monthly rental agreements include support services such as roadside assistance.",
+    "sources": [
+      "https://firstcarrental.com.na/services/long-term-rentals"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Reduces disruption and gives drivers a support path when vehicles are immobilised or involved in incidents.",
+    "operational_value": "Protects fleet uptime and incident response consistency.",
+    "maas_relevance": "Reliable incident response is important for MaaS operations because vehicle availability and continuity underpin service quality.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Incident and roadside support coordinate operational response after vehicle disruptions.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "First Car Rental Namibia",
+    "product_name": "Long Term Car Rental",
+    "functionality_standard_name": "Fixed Monthly Cost / Rental",
+    "provider_wording": "30 days or more ... cheap monthly car hire rates",
+    "short_description": "Provides a predictable recurring rental, monthly cost or quoted monthly mobility package.",
+    "why_included": "The product is priced for extended rentals with monthly economics.",
+    "evidence_extract_or_summary": "First Car Rental Namibia states rentals of 30 days or more receive monthly car hire rates.",
+    "sources": [
+      "https://firstcarrental.com.na/services/long-term-rentals"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Improves budgeting and reduces unexpected ownership-style cash-flow shocks.",
+    "operational_value": "Supports cost planning and repeatable fleet expense allocation.",
+    "maas_relevance": "Predictable vehicle access costs help mobility operators model unit economics and partner pricing.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Predictable recurring pricing supports MaaS budgeting and partner economics.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "SANI SIXT Car Rental Namibia",
+    "product_name": "Monthly Rental Solutions",
+    "functionality_standard_name": "Operating Lease / Rental",
+    "provider_wording": "monthly mobility rental",
+    "short_description": "Allows customers to use vehicles over an agreed rental, lease or long-term access period without outright purchase.",
+    "why_included": "The product provides month-to-month vehicle access.",
+    "evidence_extract_or_summary": "SANI SIXT Namibia states it provides a monthly mobility rental ideal for business or personal travel.",
+    "sources": [
+      "https://sani.com.na/monthly-special/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Provides access to vehicles without the complexity or risk of outright ownership.",
+    "operational_value": "Supports structured fleet deployment, replacement planning and flexible vehicle use.",
+    "maas_relevance": "Operating lease and rental structures can support flexible mobility supply by separating access from ownership.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Operating lease and rental structures provide the core vehicle-access mechanism for deploying vehicles without traditional ownership.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "SANI SIXT Car Rental Namibia",
+    "product_name": "Monthly Rental Solutions",
+    "functionality_standard_name": "Fixed Monthly Cost / Rental",
+    "provider_wording": "Per month",
+    "short_description": "Provides a predictable recurring rental, monthly cost or quoted monthly mobility package.",
+    "why_included": "The page publishes per-month rates for vehicle groups.",
+    "evidence_extract_or_summary": "SANI SIXT Namibia publishes monthly prices such as N$6,750 per month for Group B.",
+    "sources": [
+      "https://sani.com.na/monthly-special/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Improves budgeting and reduces unexpected ownership-style cash-flow shocks.",
+    "operational_value": "Supports cost planning and repeatable fleet expense allocation.",
+    "maas_relevance": "Predictable vehicle access costs help mobility operators model unit economics and partner pricing.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Predictable recurring pricing supports MaaS budgeting and partner economics.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "SANI SIXT Car Rental Namibia",
+    "product_name": "Monthly Rental Solutions",
+    "functionality_standard_name": "Maintenance Management",
+    "provider_wording": "Maintenance is covered",
+    "short_description": "Coordinates or includes maintenance, servicing, repairs or related upkeep for vehicles.",
+    "why_included": "Maintenance coverage is explicit in the monthly rental benefits.",
+    "evidence_extract_or_summary": "SANI SIXT Namibia states maintenance is covered so customers do not worry about unexpected costs.",
+    "sources": [
+      "https://sani.com.na/monthly-special/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Reduces downtime risk and the administrative burden of arranging service and repairs.",
+    "operational_value": "Improves fleet availability, lifecycle management and operating-cost predictability.",
+    "maas_relevance": "Reliable maintenance orchestration is essential for any MaaS fleet that depends on vehicle uptime.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Maintenance management protects uptime, safety and service quality across leased or managed vehicles.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "SANI SIXT Car Rental Namibia",
+    "product_name": "Monthly Rental Solutions",
+    "functionality_standard_name": "Accident / Breakdown / Roadside Support",
+    "provider_wording": "24-hour roadside assistance",
+    "short_description": "Provides support for breakdowns, roadside incidents, recovery or accident-related disruption during vehicle use.",
+    "why_included": "Roadside support is included.",
+    "evidence_extract_or_summary": "SANI SIXT Namibia states monthly rentals include 24-hour roadside assistance.",
+    "sources": [
+      "https://sani.com.na/monthly-special/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Reduces disruption and gives drivers a support path when vehicles are immobilised or involved in incidents.",
+    "operational_value": "Protects fleet uptime and incident response consistency.",
+    "maas_relevance": "Reliable incident response is important for MaaS operations because vehicle availability and continuity underpin service quality.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Incident and roadside support coordinate operational response after vehicle disruptions.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "SANI SIXT Car Rental Namibia",
+    "product_name": "Monthly Rental Solutions",
+    "functionality_standard_name": "Insurance / Risk Support",
+    "provider_wording": "Super Cover, tyres and windscreen cover included",
+    "short_description": "Includes insurance, cover, super cover or related risk protection as part of the vehicle access package.",
+    "why_included": "The monthly rental includes Super Cover and tyre/windscreen cover.",
+    "evidence_extract_or_summary": "SANI SIXT Namibia states Super Cover, tyres and windscreen cover are included.",
+    "sources": [
+      "https://sani.com.na/monthly-special/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Reduces exposure to selected vehicle-use risks and simplifies access to protection.",
+    "operational_value": "Supports risk allocation and continuity for managed vehicles.",
+    "maas_relevance": "Risk support helps MaaS operators and users manage exposure from high-utilisation vehicles.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Insurance and cover features support the risk layer needed for vehicle access models.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "SANI SIXT Car Rental Namibia",
+    "product_name": "Monthly Rental Solutions",
+    "functionality_standard_name": "Contract Term / Mileage Structuring",
+    "provider_wording": "3,000 km per month",
+    "short_description": "Structures the contract around a defined term, mileage allowance, usage profile or rental period.",
+    "why_included": "Monthly rental terms include a mileage allowance.",
+    "evidence_extract_or_summary": "SANI SIXT Namibia states monthly rental terms include 3,000 km per month.",
+    "sources": [
+      "https://sani.com.na/monthly-special/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Allows customers to align vehicle access with expected duration and utilisation.",
+    "operational_value": "Connects pricing, maintenance exposure and lifecycle planning to expected usage.",
+    "maas_relevance": "Term and usage structures support MaaS economics where vehicle utilisation drives operating cost.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Term, mileage and utilisation structures align commercial commitments to expected demand patterns.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "SANI SIXT Car Rental Namibia",
+    "product_name": "Monthly Rental Solutions",
+    "functionality_standard_name": "Vehicle Replacement",
+    "provider_wording": "courtesy vehicle during service",
+    "short_description": "Provides courtesy, replacement or short-term vehicles when the primary vehicle is unavailable.",
+    "why_included": "The terms include a courtesy vehicle during service.",
+    "evidence_extract_or_summary": "SANI SIXT Namibia states monthly rental terms include a courtesy vehicle during service.",
+    "sources": [
+      "https://sani.com.na/monthly-special/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Reduces disruption when vehicles are delayed, serviced or temporarily unavailable.",
+    "operational_value": "Protects service continuity and utilisation during maintenance or supply gaps.",
+    "maas_relevance": "Replacement vehicles help MaaS fleets maintain capacity despite downtime or supply delays.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Replacement vehicles preserve fleet availability when primary assets are interrupted.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "SANI SIXT Car Rental Namibia",
+    "product_name": "Monthly Rental Solutions",
+    "functionality_standard_name": "Tyre Management",
+    "provider_wording": "tyres and windscreen cover included",
+    "short_description": "Includes tyre replacement, tyre maintenance, tyre cover or tyre-health support.",
+    "why_included": "Tyre cover is included in the monthly rental terms.",
+    "evidence_extract_or_summary": "SANI SIXT Namibia states tyres and windscreen cover are included.",
+    "sources": [
+      "https://sani.com.na/monthly-special/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Reduces unexpected tyre-related costs and operational disruptions.",
+    "operational_value": "Supports safety, roadworthiness and preventive fleet maintenance.",
+    "maas_relevance": "Tyre management is a practical lifecycle service that keeps mobility assets safe and available.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Tyre management supports safety, uptime and operating-cost control for mobility vehicles.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Kalahari Car Hire Namibia",
+    "product_name": "Corporate Car Hire and Leasing",
+    "functionality_standard_name": "Operating Lease / Rental",
+    "provider_wording": "Rent or lease a car",
+    "short_description": "Allows customers to use vehicles over an agreed rental, lease or long-term access period without outright purchase.",
+    "why_included": "Kalahari explicitly offers rent-or-lease access for corporate use.",
+    "evidence_extract_or_summary": "The corporate page headline says Rent or lease a car for your next business trip.",
+    "sources": [
+      "https://kalaharicarhire.com/corporate/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "Medium",
+    "customer_value": "Provides access to vehicles without the complexity or risk of outright ownership.",
+    "operational_value": "Supports structured fleet deployment, replacement planning and flexible vehicle use.",
+    "maas_relevance": "Operating lease and rental structures can support flexible mobility supply by separating access from ownership.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Operating lease and rental structures provide the core vehicle-access mechanism for deploying vehicles without traditional ownership.",
+    "notes_uncertainties": "Exact legal lease structure is not disclosed."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Kalahari Car Hire Namibia",
+    "product_name": "Corporate Car Hire and Leasing",
+    "functionality_standard_name": "Contract Term / Mileage Structuring",
+    "provider_wording": "Project-based or long-term rentals",
+    "short_description": "Structures the contract around a defined term, mileage allowance, usage profile or rental period.",
+    "why_included": "The corporate page explicitly lists project-based and long-term rentals.",
+    "evidence_extract_or_summary": "Kalahari Car Hire lists project-based or long-term rentals and flexible rental terms.",
+    "sources": [
+      "https://kalaharicarhire.com/corporate/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "Medium",
+    "customer_value": "Allows customers to align vehicle access with expected duration and utilisation.",
+    "operational_value": "Connects pricing, maintenance exposure and lifecycle planning to expected usage.",
+    "maas_relevance": "Term and usage structures support MaaS economics where vehicle utilisation drives operating cost.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Term, mileage and utilisation structures align commercial commitments to expected demand patterns.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Kalahari Car Hire Namibia",
+    "product_name": "Corporate Car Hire and Leasing",
+    "functionality_standard_name": "Needs-Based Lease Customisation",
+    "provider_wording": "tailor-made solutions",
+    "short_description": "Customises lease or rental terms, service options or fleet solutions to the customer requirement.",
+    "why_included": "Kalahari positions the corporate product as tailor-made.",
+    "evidence_extract_or_summary": "The corporate page says it delivers tailor-made solutions and can cater for unique needs.",
+    "sources": [
+      "https://kalaharicarhire.com/corporate/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "Medium",
+    "customer_value": "Lets customers match vehicle access to operational needs instead of buying a generic product.",
+    "operational_value": "Improves fit between vehicle supply, service scope and customer operating conditions.",
+    "maas_relevance": "Customisable lease structures help MaaS partners adapt vehicle supply to varied service models.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Needs-based customisation adapts lease supply to the operating context.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Kalahari Car Hire Namibia",
+    "product_name": "Corporate Car Hire and Leasing",
+    "functionality_standard_name": "Vehicle Tracking / Telematics",
+    "provider_wording": "tracking device that logs and transmits Real-Time GPS Location, Speed and other Driving Indicators",
+    "short_description": "Uses tracking, GPS, telematics or vehicle monitoring to provide location or driving data.",
+    "why_included": "The corporate fleet includes GPS and driving-indicator tracking.",
+    "evidence_extract_or_summary": "Kalahari states each car is equipped with a tracking device logging real-time GPS location, speed and other driving indicators.",
+    "sources": [
+      "https://kalaharicarhire.com/corporate/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Improves visibility over vehicles, location and driving behaviour.",
+    "operational_value": "Supports utilisation monitoring, risk control and operational optimisation.",
+    "maas_relevance": "Telematics is a data layer for MaaS fleet visibility, uptime and service quality.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Tracking and telematics provide the operational visibility layer for managed mobility fleets.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Kalahari Car Hire Namibia",
+    "product_name": "Corporate Car Hire and Leasing",
+    "functionality_standard_name": "Fleet Data / Reporting",
+    "provider_wording": "Detailed driving and location logs on request",
+    "short_description": "Provides reporting, logs, analytics or visibility over vehicle use or fleet performance.",
+    "why_included": "Corporate customers can request driving and location logs.",
+    "evidence_extract_or_summary": "Kalahari lists detailed driving and location logs on request.",
+    "sources": [
+      "https://kalaharicarhire.com/corporate/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Improves transparency for monitoring usage, costs, safety or operational outcomes.",
+    "operational_value": "Creates data feedback loops for fleet optimisation and controls.",
+    "maas_relevance": "MaaS operations depend on usable fleet data for dispatch, quality, safety and cost management.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Fleet reporting converts vehicle activity into operational visibility.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Kalahari Car Hire Namibia",
+    "product_name": "Corporate Car Hire and Leasing",
+    "functionality_standard_name": "Maintenance Management",
+    "provider_wording": "Regular service intervals at Toyota workshop",
+    "short_description": "Coordinates or includes maintenance, servicing, repairs or related upkeep for vehicles.",
+    "why_included": "Maintenance practices are described for the corporate fleet.",
+    "evidence_extract_or_summary": "Kalahari says corporate vehicles are within manufacturer service plans and serviced at Toyota workshops.",
+    "sources": [
+      "https://kalaharicarhire.com/corporate/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "Medium",
+    "customer_value": "Reduces downtime risk and the administrative burden of arranging service and repairs.",
+    "operational_value": "Improves fleet availability, lifecycle management and operating-cost predictability.",
+    "maas_relevance": "Reliable maintenance orchestration is essential for any MaaS fleet that depends on vehicle uptime.",
+    "maas_category": [
+      "Mobility Ecosystem Orchestrator"
+    ],
+    "classification_reason": "Maintenance management protects uptime, safety and service quality across leased or managed vehicles.",
+    "notes_uncertainties": "This evidences maintenance quality for rental vehicles rather than customer-managed fleet maintenance."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Kalahari Car Hire Namibia",
+    "product_name": "Corporate Car Hire and Leasing",
+    "functionality_standard_name": "Online / Digital Onboarding",
+    "provider_wording": "Digital booking platform with live availability checks & confirmation",
+    "short_description": "Provides digital booking, online application, live availability or electronic entry into the product flow.",
+    "why_included": "The corporate page lists digital booking and live availability.",
+    "evidence_extract_or_summary": "Kalahari lists a digital booking platform with live availability checks and confirmation.",
+    "sources": [
+      "https://kalaharicarhire.com/corporate/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "High",
+    "customer_value": "Reduces friction in starting or managing the vehicle access journey.",
+    "operational_value": "Creates a digital origination path for bookings, applications or confirmations.",
+    "maas_relevance": "Digital onboarding is important for scalable MaaS channels requiring low-friction activation.",
+    "maas_category": [
+      "Digital Origination Platform"
+    ],
+    "classification_reason": "Digital booking or onboarding digitises the origination step for vehicle access.",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Kalahari Car Hire Namibia",
+    "product_name": "Corporate Car Hire and Leasing",
+    "functionality_standard_name": "Fixed Monthly Cost / Rental",
+    "provider_wording": "special leasing rates and service",
+    "short_description": "Provides a predictable recurring rental, monthly cost or quoted monthly mobility package.",
+    "why_included": "The provider references special leasing rates for multi-month needs.",
+    "evidence_extract_or_summary": "Kalahari says customers needing a car for a couple of months can enquire about special leasing rates and service.",
+    "sources": [
+      "https://kalaharicarhire.com/corporate/"
+    ],
+    "evidence_strength": "Explicit",
+    "confidence_level": "Medium",
+    "customer_value": "Improves budgeting and reduces unexpected ownership-style cash-flow shocks.",
+    "operational_value": "Supports cost planning and repeatable fleet expense allocation.",
+    "maas_relevance": "Predictable vehicle access costs help mobility operators model unit economics and partner pricing.",
+    "maas_category": [
+      "Strategic Enablement Partner"
+    ],
+    "classification_reason": "Predictable recurring pricing supports MaaS budgeting and partner economics.",
+    "notes_uncertainties": "No public rate card is provided for corporate leasing."
   }
 ]

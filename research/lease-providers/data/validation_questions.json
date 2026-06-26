@@ -73,5 +73,15 @@
     "phase": "Phase 6",
     "question": "Review the matrix-ready views and confirm whether the South Africa matrix is ready before expanding to other African markets.",
     "status": "Awaiting user review"
+  },
+  {
+    "phase": "Phase 7 - Namibia",
+    "question": "Review Namibia expansion records before proceeding to the next country. Confirm whether close lease-like monthly/long-term rental providers such as First Car Rental Namibia, SANI SIXT and Kalahari Car Hire should remain in scope.",
+    "status": "Awaiting user review"
+  },
+  {
+    "phase": "Phase 7 - Namibia",
+    "question": "Bank Windhoek and Avis Fleet Solutions Namibia are marked Medium confidence because public Namibia-specific lease-product depth is thinner than for Merchant West Namibia and Omatemba/Eqstra.",
+    "status": "Requires validation"
   }
 ]

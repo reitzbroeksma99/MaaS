@@ -328,5 +328,107 @@
     ],
     "confidence_level": "Medium",
     "notes_uncertainties": "Lease product depth and ownership require validation before detailed product extraction."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Merchant West Namibia",
+    "provider_type": "Independent business fleet leasing provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "Merchant West",
+    "target_segment": "Business fleet customers in Namibia",
+    "evidence_summary": "Merchant West Namibia publishes a Namibia fleet page offering customised fleet management, business vehicle leasing and three leasing options: Full Maintenance Lease, Operating Lease and Dynamic Lease.",
+    "sources": [
+      "https://merchantwest.com.na/fleet-namibia/"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Provider states it services business vehicle leasing only, not personal vehicle leasing."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Omatemba Fleet Services / Eqstra Namibia",
+    "provider_type": "Fleet leasing and fleet management provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "Eqstra / enX Fleet Management heritage",
+    "target_segment": "Corporate, public-sector and fleet customers in Namibia",
+    "evidence_summary": "Eqstra Namibia publishes Omatemba driver packs for Windhoek and Oranjemund, including Full Maintenance Rental, maintenance management, tyre management, roadside assistance, tracking and licensing; New Era reported Omatemba as one of Namibia's largest leasing and fleet management companies.",
+    "sources": [
+      "https://www.eqstra.co.za/driver-packs-omatemba",
+      "https://www.efm.co.za/hubfs/Website%20pages/Landing%20pages/Driver%20Packs/Omatemba%20Fleet%20Services/Driver%20Packs/Welcome%20to%20Omatemba%20Fleet%20Services.pdf",
+      "https://neweralive.na/eqstra-rebranded-as-ometemba-fleet-services/"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Branding appears to be in transition between Omatemba and Eqstra; records keep both names together."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Bank Windhoek Vehicle and Asset Finance",
+    "provider_type": "Bank-owned vehicle financial leasing provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "Capricorn Group / Bank Windhoek",
+    "target_segment": "Individuals and businesses financing vehicles and productive assets in Namibia",
+    "evidence_summary": "Bank Windhoek publishes Vehicle and Asset Finance with a Financial Leasing option allowing customers to lease a vehicle for up to 60 months with a first instalment as deposit.",
+    "sources": [
+      "https://www.bankwindhoek.com.na/Pages/Vehicle-and-Asset-Finance.aspx"
+    ],
+    "confidence_level": "Medium",
+    "notes_uncertainties": "Official page is JavaScript-heavy; captured public search extract confirms the financial leasing wording but product detail is thin."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Avis Fleet Solutions Namibia",
+    "provider_type": "Global fleet leasing provider with Namibia market availability",
+    "confirmation_status": "Confirmed",
+    "parent_company": "Avis Budget / Zeda ecosystem",
+    "target_segment": "Business and fleet customers needing leasing or fleet management in Namibia",
+    "evidence_summary": "Avis Leasing states it provides vehicle leasing services in more than 90 global markets and offers full-service operating leasing, fleet management as a service and flexible lease options; its service forms include Namibia as a selectable market, and Avis Namibia publicly promotes Avis Fleet contact channels.",
+    "sources": [
+      "https://www.avisleasing.com/",
+      "https://www.avisleasing.com/fleet-solutions/",
+      "https://www.facebook.com/Avisnamibia/"
+    ],
+    "confidence_level": "Medium",
+    "notes_uncertainties": "Namibia-specific product detail is less explicit than South African Avis Fleet pages; included because Namibia is listed as a market and local Avis Namibia promotes Avis Fleet contact."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "First Car Rental Namibia",
+    "provider_type": "Long-term rental / mini-lease provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "First Car Rental / CMH ecosystem",
+    "target_segment": "Individuals and businesses needing extended vehicle access in Namibia",
+    "evidence_summary": "First Car Rental Namibia publishes long-term mobility solutions and states its long-term car rental services are often referred to as a mini lease, with flexible terms for a few weeks, months or longer.",
+    "sources": [
+      "https://firstcarrental.com.na/services/long-term-rentals"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Close lease-like provider rather than a fleet leasing specialist; included because the Namibia page explicitly calls the product a mini lease."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "SANI SIXT Car Rental Namibia",
+    "provider_type": "Monthly rental / lease-like mobility provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "SANI SIXT Car Rental Namibia",
+    "target_segment": "Business and personal customers needing monthly mobility in Namibia",
+    "evidence_summary": "SANI SIXT Namibia publishes monthly rental solutions for business or personal travel with monthly rates, maintenance covered, 24-hour roadside assistance, super cover and 3,000 km per month.",
+    "sources": [
+      "https://sani.com.na/monthly-special/"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Close lease-like monthly rental rather than a conventional operating lease provider."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Kalahari Car Hire Namibia",
+    "provider_type": "Corporate long-term rental / lease-like provider",
+    "confirmation_status": "Confirmed",
+    "parent_company": "Kalahari Car Hire",
+    "target_segment": "Corporate travel, projects and business customers in Namibia",
+    "evidence_summary": "Kalahari Car Hire publishes a corporate Namibia page headed Rent or lease a car for your next business trip, and offers project-based or long-term rentals, flexible terms and special leasing rates for vehicles needed for a couple of months.",
+    "sources": [
+      "https://kalaharicarhire.com/corporate/"
+    ],
+    "confidence_level": "Medium",
+    "notes_uncertainties": "Close lease-like corporate rental provider; public evidence does not show full maintenance lease or fleet-scale leasing terms."
   }
 ]

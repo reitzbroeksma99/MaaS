@@ -1,6 +1,6 @@
 {
   "generated_from": "functionalities.json",
-  "record_count": 148,
+  "record_count": 209,
   "allowed_categories": [
     "Mobility Marketplace",
     "Mobility Ecosystem Orchestrator",
@@ -9,23 +9,23 @@
     "Customer Aggregation Platform"
   ],
   "category_counts": {
-    "Customer Aggregation Platform": 4,
-    "Digital Origination Platform": 2,
-    "Mobility Ecosystem Orchestrator": 81,
-    "Mobility Marketplace": 4,
-    "Strategic Enablement Partner": 81
+    "Mobility Marketplace": 5,
+    "Mobility Ecosystem Orchestrator": 113,
+    "Digital Origination Platform": 4,
+    "Strategic Enablement Partner": 110,
+    "Customer Aggregation Platform": 4
   },
   "capability_counts": {
     "Accident / Breakdown / Roadside Support": {
-      "records": 3,
+      "records": 7,
       "categories": {
-        "Mobility Ecosystem Orchestrator": 3
+        "Mobility Ecosystem Orchestrator": 7
       }
     },
     "Commercial Vehicle Leasing": {
-      "records": 8,
+      "records": 9,
       "categories": {
-        "Strategic Enablement Partner": 8
+        "Strategic Enablement Partner": 9
       }
     },
     "Commercial Vehicle Range": {
@@ -36,9 +36,9 @@
       }
     },
     "Contract Term / Mileage Structuring": {
-      "records": 11,
+      "records": 18,
       "categories": {
-        "Strategic Enablement Partner": 11
+        "Strategic Enablement Partner": 18
       }
     },
     "Driver / Owner-Operator Enablement": {
@@ -55,64 +55,64 @@
       }
     },
     "Fixed Monthly Cost / Rental": {
-      "records": 9,
+      "records": 14,
       "categories": {
-        "Strategic Enablement Partner": 9
+        "Strategic Enablement Partner": 14
       }
     },
     "Fleet Administration": {
-      "records": 1,
-      "categories": {
-        "Mobility Ecosystem Orchestrator": 1
-      }
-    },
-    "Fleet Data / Reporting": {
-      "records": 2,
-      "categories": {
-        "Mobility Ecosystem Orchestrator": 2
-      }
-    },
-    "Fleet Management": {
-      "records": 14,
-      "categories": {
-        "Mobility Ecosystem Orchestrator": 14
-      }
-    },
-    "Fuel Management": {
       "records": 3,
       "categories": {
         "Mobility Ecosystem Orchestrator": 3
       }
     },
-    "Full Maintenance Lease / Rental": {
-      "records": 15,
+    "Fleet Data / Reporting": {
+      "records": 3,
       "categories": {
-        "Mobility Ecosystem Orchestrator": 15,
-        "Strategic Enablement Partner": 15
+        "Mobility Ecosystem Orchestrator": 3
+      }
+    },
+    "Fleet Management": {
+      "records": 16,
+      "categories": {
+        "Mobility Ecosystem Orchestrator": 16
+      }
+    },
+    "Fuel Management": {
+      "records": 4,
+      "categories": {
+        "Mobility Ecosystem Orchestrator": 4
+      }
+    },
+    "Full Maintenance Lease / Rental": {
+      "records": 17,
+      "categories": {
+        "Mobility Ecosystem Orchestrator": 17,
+        "Strategic Enablement Partner": 17
       }
     },
     "Insurance / Risk Support": {
+      "records": 4,
+      "categories": {
+        "Strategic Enablement Partner": 4
+      }
+    },
+    "Lease-to-Own": {
       "records": 3,
       "categories": {
         "Strategic Enablement Partner": 3
       }
     },
-    "Lease-to-Own": {
-      "records": 2,
-      "categories": {
-        "Strategic Enablement Partner": 2
-      }
-    },
     "Licensing / Registration Support": {
-      "records": 3,
+      "records": 4,
       "categories": {
-        "Mobility Ecosystem Orchestrator": 3
+        "Mobility Ecosystem Orchestrator": 4
       }
     },
     "Maintenance Management": {
-      "records": 18,
+      "records": 25,
       "categories": {
-        "Mobility Ecosystem Orchestrator": 18
+        "Mobility Ecosystem Orchestrator": 25
       }
     },
     "Multi-Segment Fleet Service Coverage": {
@@ -123,9 +123,9 @@
       }
     },
     "Needs-Based Lease Customisation": {
-      "records": 1,
+      "records": 2,
       "categories": {
-        "Strategic Enablement Partner": 1
+        "Strategic Enablement Partner": 2
       }
     },
     "No Balloon / Deposit-Lite Structure": {
@@ -136,15 +136,15 @@
       }
     },
     "Online / Digital Onboarding": {
-      "records": 1,
+      "records": 2,
       "categories": {
-        "Digital Origination Platform": 1
+        "Digital Origination Platform": 2
       }
     },
     "Operating Lease / Rental": {
-      "records": 13,
+      "records": 19,
       "categories": {
-        "Strategic Enablement Partner": 13
+        "Strategic Enablement Partner": 19
       }
     },
     "Outsourced Fleet Risk Reduction": {
@@ -155,16 +155,16 @@
       }
     },
     "Preconfigured Offers / Vehicle Choice": {
-      "records": 1,
+      "records": 2,
       "categories": {
-        "Mobility Marketplace": 1,
-        "Digital Origination Platform": 1
+        "Digital Origination Platform": 2,
+        "Mobility Marketplace": 2
       }
     },
     "Residual Value / Ownership Risk Transfer": {
-      "records": 3,
+      "records": 4,
       "categories": {
-        "Strategic Enablement Partner": 3
+        "Strategic Enablement Partner": 4
       }
     },
     "Single Vehicle to Fleet Scale": {
@@ -175,21 +175,21 @@
       }
     },
     "Tyre Management": {
-      "records": 2,
-      "categories": {
-        "Mobility Ecosystem Orchestrator": 2
-      }
-    },
-    "Vehicle Disposal / Return": {
       "records": 5,
       "categories": {
         "Mobility Ecosystem Orchestrator": 5
       }
     },
-    "Vehicle Finance / Funding": {
-      "records": 9,
+    "Vehicle Disposal / Return": {
+      "records": 8,
       "categories": {
-        "Strategic Enablement Partner": 9
+        "Mobility Ecosystem Orchestrator": 8
+      }
+    },
+    "Vehicle Finance / Funding": {
+      "records": 13,
+      "categories": {
+        "Strategic Enablement Partner": 13
       }
     },
     "Vehicle Price / Volume Discount Benefit": {
@@ -199,22 +199,22 @@
       }
     },
     "Vehicle Procurement / Selection": {
-      "records": 9,
+      "records": 11,
       "categories": {
-        "Mobility Ecosystem Orchestrator": 9,
+        "Mobility Ecosystem Orchestrator": 11,
         "Mobility Marketplace": 2
       }
     },
     "Vehicle Replacement": {
-      "records": 1,
+      "records": 3,
       "categories": {
-        "Mobility Ecosystem Orchestrator": 1
+        "Mobility Ecosystem Orchestrator": 3
       }
     },
     "Vehicle Tracking / Telematics": {
-      "records": 2,
+      "records": 4,
       "categories": {
-        "Mobility Ecosystem Orchestrator": 2
+        "Mobility Ecosystem Orchestrator": 4
       }
     }
   },
@@ -222,6 +222,10 @@
     {
       "functionality_standard_name": "Vehicle Procurement / Selection",
       "rationale": "Most procurement records are supply coordination only; CFAO Mobility Fleet Solutions and Fleet Horizon Solutions also evidence customer/dealer choice and therefore include Mobility Marketplace."
+    },
+    {
+      "functionality_standard_name": "Preconfigured Offers / Vehicle Choice",
+      "rationale": "Namibia long-term rental records use this existing capability where public pages evidence selectable vehicle classes or groups, which supports marketplace-like discovery as well as digital origination."
     }
   ],
   "proposed_additional_categories": [

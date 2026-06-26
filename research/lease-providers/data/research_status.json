@@ -11,9 +11,9 @@
     "Nigeria"
   ],
   "current_phase": {
-    "phase": "Phase 6",
-    "name": "Build the Functionality Matrix",
-    "status": "Complete - awaiting user review",
+    "phase": "Phase 7",
+    "name": "Expand to Other African Markets - Namibia",
+    "status": "Namibia complete - awaiting user review",
     "last_updated": "2026-06-26"
   },
   "phases": [
@@ -25,7 +25,7 @@
     {
       "phase": "Phase 1",
       "name": "South African lease provider universe",
-      "status": "Complete - active universe tightened to 22 providers"
+      "status": "Complete - active universe tightened to 22 South African providers"
     },
     {
       "phase": "Phase 2",
@@ -50,12 +50,12 @@
     {
       "phase": "Phase 6",
       "name": "Functionality matrix",
-      "status": "Complete - awaiting user review"
+      "status": "Complete"
     },
     {
       "phase": "Phase 7",
       "name": "African market expansion",
-      "status": "Not started"
+      "status": "Namibia complete - awaiting user review"
     },
     {
       "phase": "Phase 8",

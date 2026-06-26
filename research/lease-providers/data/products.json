@@ -463,5 +463,142 @@
     ],
     "confidence_level": "Medium",
     "notes_uncertainties": "Product name is generic and detailed leasing terms are not publicly disclosed in the reviewed source."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Merchant West Namibia",
+    "product_name": "Full Maintenance Lease",
+    "product_type": "Full maintenance lease",
+    "target_customer": "Business fleet customers",
+    "product_description": "Business vehicle lease with predictable monthly payments and essential maintenance included.",
+    "commercial_model": "Full maintenance lease; predictable monthly payments; essential maintenance included",
+    "availability_evidence": "Merchant West Namibia states its Full Maintenance Lease avoids tying up capital, offers predictable monthly payments and covers all essential maintenance.",
+    "sources": [
+      "https://merchantwest.com.na/fleet-namibia/"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Merchant West Namibia",
+    "product_name": "Operating Lease",
+    "product_type": "Operating lease",
+    "target_customer": "Business fleet customers",
+    "product_description": "Usage-based operating lease where the customer can manage maintenance and tyre costs itself or outsource them to Merchant West.",
+    "commercial_model": "Operating lease; usage-based contract; optional outsourced maintenance and tyre-cost management",
+    "availability_evidence": "Merchant West Namibia states its Operating Lease improves cash flow through a usage-based contract and can include outsourced maintenance and tyre-cost management.",
+    "sources": [
+      "https://merchantwest.com.na/fleet-namibia/"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Merchant West Namibia",
+    "product_name": "Dynamic Lease",
+    "product_type": "Lease-to-own",
+    "target_customer": "Business fleet customers wanting flexible end-of-term purchase optionality",
+    "product_description": "Flexible lease-to-own option with the ability to purchase the vehicle at an agreed price at the end of the term with no obligation.",
+    "commercial_model": "Dynamic lease / lease-to-own; agreed end-of-term purchase option",
+    "availability_evidence": "Merchant West Namibia states the Dynamic Lease offers a lease-to-own option and can be adjusted during the term.",
+    "sources": [
+      "https://merchantwest.com.na/fleet-namibia/"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": ""
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Omatemba Fleet Services / Eqstra Namibia",
+    "product_name": "Full Maintenance Rental",
+    "product_type": "Full maintenance rental / full-maintenance lease equivalent",
+    "target_customer": "Fleet drivers and employer-managed vehicle fleets in Namibia",
+    "product_description": "Full Maintenance Rental product covering vehicle finance, maintenance, servicing, tyre replacement, licensing and traffic fine management.",
+    "commercial_model": "Full maintenance rental with finance and selected lifecycle services included subject to employer contract",
+    "availability_evidence": "The Omatemba driver pack states that Omatemba finances the vehicle under its Full Maintenance Rental product and that FMR covers finance, maintenance, servicing, tyre replacement, vehicle licensing and traffic fine management.",
+    "sources": [
+      "https://www.eqstra.co.za/driver-packs-omatemba",
+      "https://www.efm.co.za/hubfs/Website%20pages/Landing%20pages/Driver%20Packs/Omatemba%20Fleet%20Services/Driver%20Packs/Welcome%20to%20Omatemba%20Fleet%20Services.pdf"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Some services are subject to what the employer selected or contracted."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Bank Windhoek Vehicle and Asset Finance",
+    "product_name": "Financial Leasing",
+    "product_type": "Vehicle financial lease",
+    "target_customer": "Individuals and businesses financing vehicles in Namibia",
+    "product_description": "Vehicle and asset finance option that allows customers to lease a vehicle for up to 60 months.",
+    "commercial_model": "Financial lease; first instalment as deposit; lease term up to 60 months",
+    "availability_evidence": "Bank Windhoek public evidence states its Financial Leasing option lets customers lease a vehicle for up to 60 months with a first instalment as deposit payable on contract signature.",
+    "sources": [
+      "https://www.bankwindhoek.com.na/Pages/Vehicle-and-Asset-Finance.aspx"
+    ],
+    "confidence_level": "Medium",
+    "notes_uncertainties": "Detailed fleet-management inclusions are not publicly visible in the captured official page."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Avis Fleet Solutions Namibia",
+    "product_name": "Avis Fleet Solutions",
+    "product_type": "Full-service operating leasing / fleet management service",
+    "target_customer": "Business and fleet customers in Namibia and other Avis Leasing markets",
+    "product_description": "Fleet leasing and fleet management propositions including full-service operating leasing, fleet management as a service and flexible lease options.",
+    "commercial_model": "Full-service operating lease / fleet management as a service; market-specific offering",
+    "availability_evidence": "Avis Leasing states that full-service operating leasing, fleet management as a service and flexible lease options are offered in many global markets and its service forms list Namibia as a selectable market.",
+    "sources": [
+      "https://www.avisleasing.com/",
+      "https://www.avisleasing.com/fleet-solutions/"
+    ],
+    "confidence_level": "Medium",
+    "notes_uncertainties": "Namibia-specific scope should be confirmed with Avis Fleet; public evidence is global plus Namibia market listing."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "First Car Rental Namibia",
+    "product_name": "Long Term Car Rental",
+    "product_type": "Long-term rental / mini lease",
+    "target_customer": "Individuals and businesses needing vehicles for weeks, months or longer",
+    "product_description": "Long-term mobility solution often referred to as a mini lease, with flexible rental terms and a range of vehicle classes.",
+    "commercial_model": "Long-term rental / mini lease; daily-from pricing and monthly rental economics for 30+ days",
+    "availability_evidence": "First Car Rental Namibia states its long-term car rental services are often referred to as a mini lease and are available for a few weeks, months or longer.",
+    "sources": [
+      "https://firstcarrental.com.na/services/long-term-rentals"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Not a conventional fleet operating lease; included as close lease-like long-term mobility."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "SANI SIXT Car Rental Namibia",
+    "product_name": "Monthly Rental Solutions",
+    "product_type": "Monthly rental / lease-like mobility package",
+    "target_customer": "Business and personal customers needing monthly vehicle access",
+    "product_description": "Monthly vehicle rental packages with maintenance, roadside assistance, cover, mileage allowance and vehicle group pricing.",
+    "commercial_model": "Monthly rental; published monthly rates; 3,000 km/month; cover and roadside assistance included",
+    "availability_evidence": "SANI SIXT Namibia publishes monthly rental solutions and terms including super cover, maintenance, 24-hour roadside assistance, 3,000 km per month and courtesy vehicle during service.",
+    "sources": [
+      "https://sani.com.na/monthly-special/"
+    ],
+    "confidence_level": "High",
+    "notes_uncertainties": "Available to credit-card customers and subject to availability according to the published terms."
+  },
+  {
+    "country": "Namibia",
+    "provider_name": "Kalahari Car Hire Namibia",
+    "product_name": "Corporate Car Hire and Leasing",
+    "product_type": "Corporate long-term rental / lease-like service",
+    "target_customer": "Corporate clients, projects and business travellers in Namibia",
+    "product_description": "Corporate rental and leasing service with project-based or long-term rentals, flexible terms, vehicle monitoring and special leasing rates for multi-month needs.",
+    "commercial_model": "Corporate rental / special leasing rates; pay-as-you-use and customised payment terms available",
+    "availability_evidence": "Kalahari Car Hire says corporate customers can rent or lease a car, offers project-based or long-term rentals, flexible rental terms and special leasing rates and service for vehicles needed for a couple of months.",
+    "sources": [
+      "https://kalaharicarhire.com/corporate/"
+    ],
+    "confidence_level": "Medium",
+    "notes_uncertainties": "Public page is corporate rental oriented; exact lease contract structure is not disclosed."
   }
 ]
