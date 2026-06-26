@@ -11,9 +11,9 @@
     "Nigeria"
   ],
   "current_phase": {
-    "phase": "Phase 3",
-    "name": "Extract Functionalities Per Product - South Africa active provider universe",
-    "status": "Complete after QA - awaiting user review",
+    "phase": "Phase 4",
+    "name": "Standardise and Normalise Functionalities",
+    "status": "Complete - awaiting user review",
     "last_updated": "2026-06-26"
   },
   "phases": [
@@ -35,12 +35,12 @@
     {
       "phase": "Phase 3",
       "name": "Functionality extraction per product",
-      "status": "Complete after QA - awaiting user review"
+      "status": "Complete after QA"
     },
     {
       "phase": "Phase 4",
       "name": "Capability standardisation",
-      "status": "Not started"
+      "status": "Complete - awaiting user review"
     },
     {
       "phase": "Phase 5",
