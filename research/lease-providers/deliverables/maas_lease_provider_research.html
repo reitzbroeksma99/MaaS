@@ -19834,17 +19834,24 @@
       const providerCounts = reportData.matrixSummary?.provider_functionality_counts || [];
       document.getElementById("matrixProviderRows").innerHTML = providerCounts.length ? providerCounts
         .slice()
-        .sort((a, b) => (b.functionality_count || 0) - (a.functionality_count || 0))
+        .sort((a, b) => (b.functionality_record_count || 0) - (a.functionality_record_count || 0))
         .map((item) => `
           <tr>
             <td>${escapeHtml(item.provider_name)}</td>
-            <td>${escapeHtml(item.functionality_count)}</td>
+            <td>${escapeHtml(item.functionality_record_count || 0)}</td>
           </tr>
         `).join("") : '<tr><td colspan="2"><div class="empty-state">No matrix records captured yet.</div></td></tr>';
 
-      const evidenceRows = reportData.matrixSummary?.functionality_vs_evidence_strength || [];
+      const evidenceRows = Object.values((reportData.matrixSummary?.functionality_vs_evidence_strength || []).reduce((acc, item) => {
+        const name = item.functionality_standard_name;
+        if (!acc[name]) acc[name] = { functionality_standard_name: name, explicit: 0, inferred: 0, total: 0 };
+        const count = item.record_count || 0;
+        if (item.evidence_strength === "Explicit") acc[name].explicit += count;
+        if (item.evidence_strength === "Inferred") acc[name].inferred += count;
+        acc[name].total += count;
+        return acc;
+      }, {}));
       document.getElementById("matrixEvidenceRows").innerHTML = evidenceRows.length ? evidenceRows
-        .slice()
         .sort((a, b) => (b.total || 0) - (a.total || 0))
         .map((item) => `
           <tr>
