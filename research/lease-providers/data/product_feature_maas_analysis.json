@@ -1,0 +1,319 @@
+{
+  "metadata": {
+    "generated_from": [
+      "product_feature_taxonomy.json",
+      "product_feature_matrix_top10.json",
+      "maas_classification_summary.json"
+    ],
+    "generated_at": "2026-06-26",
+    "approved_maas_categories": [
+      "Mobility Marketplace",
+      "Mobility Ecosystem Orchestrator",
+      "Digital Origination Platform",
+      "Strategic Enablement Partner",
+      "Customer Aggregation Platform"
+    ]
+  },
+  "top_10_product_types": [
+    {
+      "rank": 1,
+      "product_type": "Full Maintenance Lease / Rental",
+      "occurrence_count": 35,
+      "product_record_count": 18,
+      "functionality_record_count": 17,
+      "provider_examples": [
+        "Standard Bank Fleet Management - Full Maintenance Rental",
+        "Absa Vehicle Management Solutions - Full Maintenance Lease",
+        "Eqstra - Full Maintenance Leasing",
+        "Merchant West Fleet - Full Maintenance Lease"
+      ],
+      "mapped_maas_categories": [
+        "Mobility Ecosystem Orchestrator",
+        "Strategic Enablement Partner"
+      ],
+      "caveat": "Count combines explicit product catalogue records and functionality-level records; use as market-frequency evidence, not provider revenue sizing."
+    },
+    {
+      "rank": 2,
+      "product_type": "Operating Lease / Rental",
+      "occurrence_count": 31,
+      "product_record_count": 12,
+      "functionality_record_count": 19,
+      "provider_examples": [
+        "WesBank Fleet Management and Leasing - Lease Agreements",
+        "Standard Bank Fleet Management - Operating Rental",
+        "Absa Vehicle Management Solutions - Operating Lease Agreement",
+        "Merchant West Fleet - Operating Lease"
+      ],
+      "mapped_maas_categories": [
+        "Strategic Enablement Partner"
+      ],
+      "caveat": "Count combines explicit product catalogue records and functionality-level records; use as market-frequency evidence, not provider revenue sizing."
+    },
+    {
+      "rank": 3,
+      "product_type": "Maintenance Management Services",
+      "occurrence_count": 25,
+      "product_record_count": 0,
+      "functionality_record_count": 25,
+      "provider_examples": [
+        "WesBank Fleet Management and Leasing - Lease Agreements",
+        "Standard Bank Fleet Management - Full Maintenance Rental",
+        "Absa Vehicle Management Solutions - Full Maintenance Lease",
+        "Eqstra - Full Maintenance Leasing"
+      ],
+      "mapped_maas_categories": [
+        "Mobility Ecosystem Orchestrator"
+      ],
+      "caveat": "Frequency is based on currently captured public evidence only."
+    },
+    {
+      "rank": 4,
+      "product_type": "Fleet Management Services",
+      "occurrence_count": 24,
+      "product_record_count": 8,
+      "functionality_record_count": 16,
+      "provider_examples": [
+        "WesBank Fleet Management and Leasing - Fleet Solutions",
+        "Avis Fleet - Full Maintenance Lease",
+        "Bidvest Bank Fleet Finance - Fleet Management",
+        "CFAO Mobility Fleet Solutions - Fleet Leasing and Finance"
+      ],
+      "mapped_maas_categories": [
+        "Mobility Ecosystem Orchestrator"
+      ],
+      "caveat": "Count combines explicit product catalogue records and functionality-level records; use as market-frequency evidence, not provider revenue sizing."
+    },
+    {
+      "rank": 5,
+      "product_type": "Vehicle Finance / Funding",
+      "occurrence_count": 17,
+      "product_record_count": 4,
+      "functionality_record_count": 13,
+      "provider_examples": [
+        "WesBank Fleet Management and Leasing - Fleet Solutions",
+        "Absa Vehicle Management Solutions - Finance Lease",
+        "CFAO Mobility Fleet Solutions - Fleet Leasing and Finance",
+        "Bank Windhoek Vehicle and Asset Finance - Financial Leasing"
+      ],
+      "mapped_maas_categories": [
+        "Strategic Enablement Partner"
+      ],
+      "caveat": "Count combines explicit product catalogue records and functionality-level records; use as market-frequency evidence, not provider revenue sizing."
+    },
+    {
+      "rank": 6,
+      "product_type": "Commercial Vehicle Leasing / Rental",
+      "occurrence_count": 16,
+      "product_record_count": 7,
+      "functionality_record_count": 9,
+      "provider_examples": [
+        "Imperial Truck Rental - Full Maintenance Rentals",
+        "Imperial Truck Rental - Operating Lease",
+        "Spartan Truck Hire - Full Maintenance Leasing",
+        "Value Truck Rental / Value Logistics - Full Maintenance Lease"
+      ],
+      "mapped_maas_categories": [
+        "Strategic Enablement Partner"
+      ],
+      "caveat": "Count combines explicit product catalogue records and functionality-level records; use as market-frequency evidence, not provider revenue sizing."
+    },
+    {
+      "rank": 7,
+      "product_type": "Vehicle Procurement / Selection Services",
+      "occurrence_count": 11,
+      "product_record_count": 0,
+      "functionality_record_count": 11,
+      "provider_examples": [
+        "WesBank Fleet Management and Leasing - Fleet Solutions",
+        "Eqstra - Full Maintenance Leasing",
+        "Merchant West Fleet - Full Maintenance Lease",
+        "Avis Fleet - Full Maintenance Lease"
+      ],
+      "mapped_maas_categories": [
+        "Mobility Ecosystem Orchestrator",
+        "Mobility Marketplace"
+      ],
+      "caveat": "Frequency is based on currently captured public evidence only."
+    },
+    {
+      "rank": 8,
+      "product_type": "Accident, Breakdown and Roadside Support",
+      "occurrence_count": 7,
+      "product_record_count": 0,
+      "functionality_record_count": 7,
+      "provider_examples": [
+        "Merchant West Fleet - Full Maintenance Lease",
+        "Imperial Truck Rental - Operating Lease",
+        "Elite Truck Hire - Full-Maintenance Leasing",
+        "Omatemba Fleet Services / Eqstra Namibia - Full Maintenance Rental"
+      ],
+      "mapped_maas_categories": [
+        "Mobility Ecosystem Orchestrator"
+      ],
+      "caveat": "Frequency is based on currently captured public evidence only."
+    },
+    {
+      "rank": 9,
+      "product_type": "Lease-to-Own",
+      "occurrence_count": 5,
+      "product_record_count": 2,
+      "functionality_record_count": 3,
+      "provider_examples": [
+        "Merchant West Fleet - Dynamic Lease",
+        "Merchant West Namibia - Dynamic Lease",
+        "Absa Vehicle Management Solutions - Finance Lease"
+      ],
+      "mapped_maas_categories": [
+        "Strategic Enablement Partner"
+      ],
+      "caveat": "Count combines explicit product catalogue records and functionality-level records; use as market-frequency evidence, not provider revenue sizing."
+    },
+    {
+      "rank": 10,
+      "product_type": "Tyre Management Services",
+      "occurrence_count": 5,
+      "product_record_count": 0,
+      "functionality_record_count": 5,
+      "provider_examples": [
+        "Eqstra - Full Maintenance Leasing",
+        "Bidvest Bank Fleet Finance - Fleet Management",
+        "Merchant West Namibia - Operating Lease",
+        "Omatemba Fleet Services / Eqstra Namibia - Full Maintenance Rental"
+      ],
+      "mapped_maas_categories": [
+        "Mobility Ecosystem Orchestrator"
+      ],
+      "caveat": "Frequency is based on currently captured public evidence only."
+    }
+  ],
+  "matrix_feature_row_count": 30,
+  "maas_category_summary": [
+    {
+      "maas_category": "Mobility Ecosystem Orchestrator",
+      "matrix_presence_count": 221,
+      "feature_count": 15,
+      "representative_features": [
+        "Maintenance Management",
+        "Fleet Management",
+        "Vehicle Procurement / Selection",
+        "Full Maintenance Lease / Rental",
+        "Accident / Breakdown / Roadside Support",
+        "Vehicle Disposal / Return",
+        "Tyre Management",
+        "Fuel Management"
+      ]
+    },
+    {
+      "maas_category": "Strategic Enablement Partner",
+      "matrix_presence_count": 158,
+      "feature_count": 15,
+      "representative_features": [
+        "Operating Lease / Rental",
+        "Vehicle Finance / Funding",
+        "Full Maintenance Lease / Rental",
+        "Commercial Vehicle Leasing",
+        "Contract Term / Mileage Structuring",
+        "Fixed Monthly Cost / Rental",
+        "Insurance / Risk Support",
+        "Lease-to-Own"
+      ]
+    },
+    {
+      "maas_category": "Mobility Marketplace",
+      "matrix_presence_count": 32,
+      "feature_count": 3,
+      "representative_features": [
+        "Vehicle Procurement / Selection",
+        "Commercial Vehicle Range",
+        "Preconfigured Offers / Vehicle Choice"
+      ]
+    },
+    {
+      "maas_category": "Digital Origination Platform",
+      "matrix_presence_count": 2,
+      "feature_count": 2,
+      "representative_features": [
+        "Online / Digital Onboarding",
+        "Preconfigured Offers / Vehicle Choice"
+      ]
+    },
+    {
+      "maas_category": "Customer Aggregation Platform",
+      "matrix_presence_count": 2,
+      "feature_count": 2,
+      "representative_features": [
+        "Multi-Segment Fleet Service Coverage",
+        "Single Vehicle to Fleet Scale"
+      ]
+    }
+  ],
+  "conclusion": [
+    "The lease-provider evidence is strongest around Strategic Enablement Partner and Mobility Ecosystem Orchestrator roles. The most frequent product types are vehicle-access and finance constructs that let a MaaS proposition source, fund and keep vehicles operational, especially full-maintenance lease/rental, operating lease/rental, maintenance management, fleet management, vehicle finance/funding and commercial vehicle leasing/rental.",
+    "Mobility Marketplace and Customer Aggregation Platform signals are present but less dominant. They appear mainly through vehicle choice, preconfigured offers, subscription/flexible monthly leasing, owner-operator enablement and single-vehicle-to-fleet scalability rather than through broad consumer marketplace propositions.",
+    "Digital Origination Platform is the lightest category in the current evidence base. Online onboarding and digital offer selection appear in a small number of records, so a MaaS platform discussion should validate API readiness, digital application flows, quote-to-contract integration and data-sharing maturity directly with providers.",
+    "Product-vs-feature ambiguity is material: maintenance management, fleet management, procurement, roadside support, tyre management, telematics and fuel management can be sold as services in their own right or embedded as features of full-maintenance/fleet leases. The report therefore treats them as both where the current evidence supports market-level productization."
+  ],
+  "key_feature_implications_for_maas_partnerships": [
+    {
+      "feature": "Maintenance Management",
+      "why_it_matters": "Protects vehicle uptime and roadworthiness; often determines whether leased assets can support reliable mobility operations."
+    },
+    {
+      "feature": "Operating Lease / Rental",
+      "why_it_matters": "Provides flexible vehicle access without ownership, useful for MaaS pilots, fleet expansion and asset-light mobility propositions."
+    },
+    {
+      "feature": "Full Maintenance Lease / Rental",
+      "why_it_matters": "Bundles access and lifecycle cost control, reducing operational complexity for MaaS partners."
+    },
+    {
+      "feature": "Contract Term / Mileage Structuring",
+      "why_it_matters": "Lease duration, mileage and utilisation assumptions must fit MaaS demand patterns rather than conventional corporate fleet usage."
+    },
+    {
+      "feature": "Fleet Management",
+      "why_it_matters": "Indicates whether the provider can coordinate multi-vehicle operations beyond finance."
+    },
+    {
+      "feature": "Vehicle Finance / Funding",
+      "why_it_matters": "Determines capital-light scaling options and risk appetite for MaaS vehicle supply."
+    },
+    {
+      "feature": "Vehicle Procurement / Selection",
+      "why_it_matters": "Affects vehicle suitability, availability, pricing and ability to configure mobility-specific fleets."
+    },
+    {
+      "feature": "Accident / Breakdown / Roadside Support",
+      "why_it_matters": "Critical for service continuity and customer experience when vehicles fail in operation."
+    },
+    {
+      "feature": "Vehicle Tracking / Telematics",
+      "why_it_matters": "Needed for utilisation visibility, operational control, reporting and potential platform integration."
+    },
+    {
+      "feature": "Fuel Management",
+      "why_it_matters": "Supports operating-cost visibility and can become a data feed into MaaS economics."
+    }
+  ],
+  "caveats_and_assumptions": [
+    "No new providers, products or features were invented; all entries derive from current products, functionalities and capability dictionary files.",
+    "Frequency counts are evidence-occurrence counts from the dataset, not market share, customer penetration, revenue or provider capability depth.",
+    "Some standalone product/service interpretations require provider validation because public pages often bundle several services under fleet solutions.",
+    "Only the five approved MaaS categories are used in the generated analysis."
+  ],
+  "top_feature_rows_in_matrix": [
+    "Maintenance Management",
+    "Fleet Management",
+    "Operating Lease / Rental",
+    "Vehicle Procurement / Selection",
+    "Vehicle Finance / Funding",
+    "Full Maintenance Lease / Rental",
+    "Commercial Vehicle Leasing",
+    "Contract Term / Mileage Structuring",
+    "Accident / Breakdown / Roadside Support",
+    "Fixed Monthly Cost / Rental",
+    "Vehicle Disposal / Return",
+    "Tyre Management"
+  ]
+}
