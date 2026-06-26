@@ -17,10 +17,9 @@
     "operational_value": "Creates a structured vehicle access mechanism that can be managed across individual vehicles or fleets.",
     "maas_relevance": "Vehicle access through lease/rental agreements is a core supply-side building block for a MaaS proposition because it enables vehicles to be provisioned into mobility services without traditional ownership.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "The capability provides the underlying vehicle access and financing structure needed before mobility services can be orchestrated.",
+    "classification_reason": "Operating lease and rental structures provide the core vehicle-access mechanism for deploying business vehicles without traditional ownership.",
     "notes_uncertainties": "Provider page is JavaScript-heavy; evidence is based on indexed public page summary and should be validated against a live page or brochure if needed."
   },
   {
@@ -41,10 +40,9 @@
     "operational_value": "Maintenance inclusion supports lifecycle management and can reduce downtime risk for leased vehicles.",
     "maas_relevance": "MaaS operations depend on vehicles remaining available and roadworthy; optional maintenance services help connect vehicle finance to operational readiness.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Maintenance links the origination/lease event to ongoing lifecycle operations.",
+    "classification_reason": "Maintenance management protects uptime, safety and service quality by coordinating servicing and roadworthiness across leased or managed vehicles.",
     "notes_uncertainties": "The public summary does not disclose detailed maintenance scope, service levels, exclusions or supplier network."
   },
   {
@@ -68,7 +66,7 @@
       "Customer Aggregation Platform",
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "The capability supports aggregation of vehicle demand across different customer sizes.",
+    "classification_reason": "Support from one vehicle to full fleets allows the provider to aggregate customers at different scales while enabling growth into larger deployments.",
     "notes_uncertainties": "Specific fleet-size thresholds and contract differences are not disclosed publicly."
   },
   {
@@ -89,10 +87,9 @@
     "operational_value": "Funding is the financial foundation for fleet growth, replacement and lifecycle planning.",
     "maas_relevance": "A MaaS proposition needs scalable funding mechanisms to place vehicles into service across partners, channels or fleets.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Digital Origination Platform"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Fleet funding enables origination and capital support for mobility assets.",
+    "classification_reason": "Vehicle finance and funding provide the capital structure that lets customers or partners place fleet assets into service without upfront purchase.",
     "notes_uncertainties": "The public summary does not specify exact funding products under this heading."
   },
   {
@@ -115,7 +112,7 @@
     "maas_category": [
       "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Procurement coordinates the vehicle supply side of the fleet lifecycle.",
+    "classification_reason": "Vehicle procurement and selection coordinate the supply-side sourcing required to build, refresh or scale a managed fleet.",
     "notes_uncertainties": "Supplier, OEM, dealer and tendering details are not disclosed in the public summary."
   },
   {
@@ -138,7 +135,7 @@
     "maas_category": [
       "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Fleet management coordinates the operational layer after vehicles are originated or leased.",
+    "classification_reason": "Fleet management coordinates the operating layer of vehicle lifecycle, service, administration and control after vehicles are placed into use.",
     "notes_uncertainties": "Specific sub-capabilities such as driver management, reporting, fuel cards or telematics are not assumed without more evidence."
   },
   {
@@ -159,10 +156,9 @@
     "operational_value": "Disposal supports lifecycle cost control, asset rotation and residual value management.",
     "maas_relevance": "MaaS fleets require planned replacement and disposal processes to maintain quality, availability and cost control over time.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Disposal is an end-of-lifecycle capability that supports sustainable fleet operations.",
+    "classification_reason": "Vehicle return and disposal coordinate the end-of-lifecycle step needed for disciplined fleet renewal and service-quality management.",
     "notes_uncertainties": "Method of disposal, resale channels and residual-risk ownership are not confirmed from public evidence."
   },
   {
@@ -183,10 +179,9 @@
     "operational_value": "Broadens fleet coverage across vehicle classes and enables mixed-fleet management considerations.",
     "maas_relevance": "Commercial vehicles can be part of MaaS-adjacent logistics, delivery and enterprise mobility propositions, not only passenger transport.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Commercial vehicle support expands the addressable mobility asset base.",
+    "classification_reason": "Commercial vehicle leasing extends the asset-access foundation into trucks, delivery vehicles and logistics fleets without requiring outright customer ownership.",
     "notes_uncertainties": "This evidence comes from a commercial-vehicle page and should be linked carefully to Fleet Solutions unless WesBank validates product bundling."
   },
   {
@@ -207,10 +202,9 @@
     "operational_value": "Fuel support can improve cost control and fleet expense administration.",
     "maas_relevance": "Fuel or energy-cost management is important for mobility service economics, especially where usage-based operations depend on predictable running costs.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Fuel management connects fleet operations to recurring cost and payment flows.",
+    "classification_reason": "Fuel management controls a recurring operating-cost and availability input for high-utilisation mobility fleets.",
     "notes_uncertainties": "The public source does not describe product mechanics, cards, controls, reporting or billing model."
   },
   {
@@ -234,7 +228,7 @@
       "Mobility Ecosystem Orchestrator",
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Full Maintenance Lease / Rental supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "A full maintenance lease combines asset access with maintenance responsibility, reducing lifecycle complexity while keeping vehicles ready for service.",
     "notes_uncertainties": ""
   },
   {
@@ -255,10 +249,9 @@
     "operational_value": "Supports structured fleet deployment, replacement planning and off-balance-sheet style fleet use where applicable.",
     "maas_relevance": "Operating lease structures can support flexible mobility supply by separating access to vehicles from ownership.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Operating Lease / Rental supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Operating lease and rental structures provide the core vehicle-access mechanism for deploying business vehicles without traditional ownership.",
     "notes_uncertainties": ""
   },
   {
@@ -279,10 +272,9 @@
     "operational_value": "Improves fleet availability, lifecycle management and operating-cost predictability.",
     "maas_relevance": "Reliable maintenance orchestration is essential for any MaaS fleet that depends on vehicle uptime.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Maintenance Management supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Maintenance management protects uptime, safety and service quality by coordinating servicing and roadworthiness across leased or managed vehicles.",
     "notes_uncertainties": ""
   },
   {
@@ -305,7 +297,7 @@
     "maas_category": [
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Fixed Monthly Cost / Rental supports Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Predictable monthly rental pricing supports MaaS unit economics, budgeting and partner participation by making vehicle access costs easier to plan.",
     "notes_uncertainties": ""
   },
   {
@@ -326,10 +318,9 @@
     "operational_value": "Connects contract economics to utilisation, lifecycle planning and replacement timing.",
     "maas_relevance": "Usage- or period-aligned contracts are useful for MaaS supply models where utilisation drives economics.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Contract Term / Mileage Structuring supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Term, mileage and utilisation structures align the commercial lease model to expected demand patterns and fleet-planning requirements.",
     "notes_uncertainties": ""
   },
   {
@@ -352,7 +343,7 @@
     "maas_category": [
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Vehicle price and volume discount benefits support Strategic Enablement Partner roles by improving the cost base of mobility assets.",
+    "classification_reason": "Provider-negotiated vehicle pricing and volume discounts improve the asset cost base and total-cost economics for mobility fleets.",
     "notes_uncertainties": "Renamed from Vehicle Procurement / Selection because the source evidences price benefit, not a procurement workflow."
   },
   {
@@ -373,10 +364,9 @@
     "operational_value": "Supports structured fleet deployment, replacement planning and off-balance-sheet style fleet use where applicable.",
     "maas_relevance": "Operating lease structures can support flexible mobility supply by separating access to vehicles from ownership.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Operating Lease / Rental supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Operating lease and rental structures provide the core vehicle-access mechanism for deploying business vehicles without traditional ownership.",
     "notes_uncertainties": ""
   },
   {
@@ -397,10 +387,9 @@
     "operational_value": "Creates the financing foundation for acquiring, leasing or operating fleet assets.",
     "maas_relevance": "MaaS propositions need scalable vehicle funding structures to place vehicles into service across customers, partners or channels.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Digital Origination Platform"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Vehicle Finance / Funding supports Strategic Enablement Partner and Digital Origination Platform because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Vehicle finance and funding provide the capital structure that lets customers or partners place fleet assets into service without upfront purchase.",
     "notes_uncertainties": ""
   },
   {
@@ -421,10 +410,9 @@
     "operational_value": "Connects finance planning with long-term fleet asset ownership decisions.",
     "maas_relevance": "Lease-to-own may support operator-led mobility models where drivers or SMEs build ownership over time.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Digital Origination Platform"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Lease-to-Own supports Strategic Enablement Partner and Digital Origination Platform because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Lease-to-own structures provide an ownership pathway that can help drivers, operators or fleet partners access vehicles without immediate purchase.",
     "notes_uncertainties": ""
   },
   {
@@ -445,10 +433,9 @@
     "operational_value": "Connects contract economics to utilisation, lifecycle planning and replacement timing.",
     "maas_relevance": "Usage- or period-aligned contracts are useful for MaaS supply models where utilisation drives economics.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Contract Term / Mileage Structuring supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Term, mileage and utilisation structures align the commercial lease model to expected demand patterns and fleet-planning requirements.",
     "notes_uncertainties": "The source confirms flexible repayment terms, but detailed mileage/usage structures are not disclosed."
   },
   {
@@ -469,10 +456,9 @@
     "operational_value": "Connects asset use to risk controls and claims/incident management.",
     "maas_relevance": "Insurance and risk support are needed to scale shared or leased mobility assets responsibly.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Insurance / Risk Support supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Insurance and risk support reduce asset and operating exposure for customers or partners participating in vehicle-based mobility services.",
     "notes_uncertainties": ""
   },
   {
@@ -493,10 +479,9 @@
     "operational_value": "Supports structured fleet deployment, replacement planning and off-balance-sheet style fleet use where applicable.",
     "maas_relevance": "Operating lease structures can support flexible mobility supply by separating access to vehicles from ownership.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Operating Lease / Rental supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Operating lease and rental structures provide the core vehicle-access mechanism for deploying business vehicles without traditional ownership.",
     "notes_uncertainties": ""
   },
   {
@@ -517,10 +502,9 @@
     "operational_value": "Creates the financing foundation for acquiring, leasing or operating fleet assets.",
     "maas_relevance": "MaaS propositions need scalable vehicle funding structures to place vehicles into service across customers, partners or channels.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Digital Origination Platform"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Vehicle Finance / Funding supports Strategic Enablement Partner and Digital Origination Platform because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Vehicle finance and funding provide the capital structure that lets customers or partners place fleet assets into service without upfront purchase.",
     "notes_uncertainties": ""
   },
   {
@@ -541,10 +525,9 @@
     "operational_value": "Connects contract economics to utilisation, lifecycle planning and replacement timing.",
     "maas_relevance": "Usage- or period-aligned contracts are useful for MaaS supply models where utilisation drives economics.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Contract Term / Mileage Structuring supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Term, mileage and utilisation structures align the commercial lease model to expected demand patterns and fleet-planning requirements.",
     "notes_uncertainties": ""
   },
   {
@@ -568,7 +551,7 @@
       "Mobility Ecosystem Orchestrator",
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Full Maintenance Lease / Rental supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "A full maintenance lease combines asset access with maintenance responsibility, reducing lifecycle complexity while keeping vehicles ready for service.",
     "notes_uncertainties": ""
   },
   {
@@ -589,10 +572,9 @@
     "operational_value": "Improves fleet availability, lifecycle management and operating-cost predictability.",
     "maas_relevance": "Reliable maintenance orchestration is essential for any MaaS fleet that depends on vehicle uptime.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Maintenance Management supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Maintenance management protects uptime, safety and service quality by coordinating servicing and roadworthiness across leased or managed vehicles.",
     "notes_uncertainties": "Maintenance inclusion is inherent in the product name, but detailed scope is not publicly described in the captured source."
   },
   {
@@ -613,10 +595,9 @@
     "operational_value": "Creates the financing foundation for acquiring, leasing or operating fleet assets.",
     "maas_relevance": "MaaS propositions need scalable vehicle funding structures to place vehicles into service across customers, partners or channels.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Digital Origination Platform"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Vehicle Finance / Funding supports Strategic Enablement Partner and Digital Origination Platform because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Vehicle finance and funding provide the capital structure that lets customers or partners place fleet assets into service without upfront purchase.",
     "notes_uncertainties": ""
   },
   {
@@ -640,7 +621,7 @@
       "Mobility Ecosystem Orchestrator",
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Full Maintenance Lease / Rental supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "A full maintenance lease combines asset access with maintenance responsibility, reducing lifecycle complexity while keeping vehicles ready for service.",
     "notes_uncertainties": ""
   },
   {
@@ -661,10 +642,9 @@
     "operational_value": "Connects customer demand to vehicle supply and acquisition workflows.",
     "maas_relevance": "Vehicle procurement is a key supply-side capability for building or refreshing mobility fleets.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Mobility Marketplace"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Vehicle Procurement / Selection supports Mobility Ecosystem Orchestrator and Mobility Marketplace because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Vehicle procurement and selection coordinate the supply-side sourcing required to build, refresh or scale a managed fleet.",
     "notes_uncertainties": ""
   },
   {
@@ -685,10 +665,9 @@
     "operational_value": "Improves fleet availability, lifecycle management and operating-cost predictability.",
     "maas_relevance": "Reliable maintenance orchestration is essential for any MaaS fleet that depends on vehicle uptime.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Maintenance Management supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Maintenance management protects uptime, safety and service quality by coordinating servicing and roadworthiness across leased or managed vehicles.",
     "notes_uncertainties": ""
   },
   {
@@ -711,7 +690,7 @@
     "maas_category": [
       "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Tyre Management supports Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Tyre management supports safety, uptime and operating-cost control for high-utilisation mobility vehicles.",
     "notes_uncertainties": ""
   },
   {
@@ -734,7 +713,7 @@
     "maas_category": [
       "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Fleet Administration supports Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Fleet administration coordinates back-office records, compliance and service processes needed to operate multi-vehicle mobility fleets at scale.",
     "notes_uncertainties": ""
   },
   {
@@ -757,7 +736,7 @@
     "maas_category": [
       "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Fleet Management supports Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Fleet management coordinates the operating layer of vehicle lifecycle, service, administration and control after vehicles are placed into use.",
     "notes_uncertainties": ""
   },
   {
@@ -780,7 +759,7 @@
     "maas_category": [
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Fixed Monthly Cost / Rental supports Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Predictable monthly rental pricing supports MaaS unit economics, budgeting and partner participation by making vehicle access costs easier to plan.",
     "notes_uncertainties": ""
   },
   {
@@ -804,7 +783,7 @@
       "Mobility Ecosystem Orchestrator",
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Full Maintenance Lease / Rental supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "A full maintenance lease combines asset access with maintenance responsibility, reducing lifecycle complexity while keeping vehicles ready for service.",
     "notes_uncertainties": ""
   },
   {
@@ -825,10 +804,9 @@
     "operational_value": "Connects customer demand to vehicle supply and acquisition workflows.",
     "maas_relevance": "Vehicle procurement is a key supply-side capability for building or refreshing mobility fleets.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Mobility Marketplace"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Vehicle Procurement / Selection supports Mobility Ecosystem Orchestrator and Mobility Marketplace because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Vehicle procurement and selection coordinate the supply-side sourcing required to build, refresh or scale a managed fleet.",
     "notes_uncertainties": ""
   },
   {
@@ -849,10 +827,9 @@
     "operational_value": "Improves fleet availability, lifecycle management and operating-cost predictability.",
     "maas_relevance": "Reliable maintenance orchestration is essential for any MaaS fleet that depends on vehicle uptime.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Maintenance Management supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Maintenance management protects uptime, safety and service quality by coordinating servicing and roadworthiness across leased or managed vehicles.",
     "notes_uncertainties": ""
   },
   {
@@ -873,10 +850,9 @@
     "operational_value": "Allows fleet planning around predictable contract economics and risk allocation.",
     "maas_relevance": "Risk transfer can make vehicle supply easier to scale for MaaS participants that do not want to hold asset risk.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Residual Value / Ownership Risk Transfer supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Residual-value and ownership-risk transfer improve asset economics by moving resale and end-of-contract value exposure away from the customer.",
     "notes_uncertainties": ""
   },
   {
@@ -897,10 +873,9 @@
     "operational_value": "Supports asset rotation, residual risk control and fleet renewal planning.",
     "maas_relevance": "MaaS fleets need disciplined end-of-life and replacement processes to manage quality and costs.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Vehicle Disposal / Return supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Vehicle return and disposal coordinate the end-of-lifecycle step needed for disciplined fleet renewal and service-quality management.",
     "notes_uncertainties": ""
   },
   {
@@ -923,7 +898,7 @@
     "maas_category": [
       "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Vehicle Tracking / Telematics supports Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Tracking and telematics provide operational visibility over location, use and fleet control for managed mobility vehicles.",
     "notes_uncertainties": ""
   },
   {
@@ -944,10 +919,9 @@
     "operational_value": "Connects asset use to risk controls and claims/incident management.",
     "maas_relevance": "Insurance and risk support are needed to scale shared or leased mobility assets responsibly.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Insurance / Risk Support supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Insurance and risk support reduce asset and operating exposure for customers or partners participating in vehicle-based mobility services.",
     "notes_uncertainties": ""
   },
   {
@@ -970,7 +944,7 @@
     "maas_category": [
       "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Licensing / Registration Support supports Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Licensing and registration support keeps vehicles compliant and legally available for continued fleet service.",
     "notes_uncertainties": ""
   },
   {
@@ -991,10 +965,9 @@
     "operational_value": "Improves uptime and incident response across the fleet.",
     "maas_relevance": "Incident-response capabilities help maintain service reliability in mobility operations.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Accident / Breakdown / Roadside Support supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Incident, breakdown and roadside support protects service continuity and vehicle availability across managed mobility fleets.",
     "notes_uncertainties": ""
   },
   {
@@ -1015,10 +988,9 @@
     "operational_value": "Supports structured fleet deployment, replacement planning and off-balance-sheet style fleet use where applicable.",
     "maas_relevance": "Operating lease structures can support flexible mobility supply by separating access to vehicles from ownership.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Operating Lease / Rental supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Operating lease and rental structures provide the core vehicle-access mechanism for deploying business vehicles without traditional ownership.",
     "notes_uncertainties": ""
   },
   {
@@ -1041,7 +1013,7 @@
     "maas_category": [
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Fixed Monthly Cost / Rental supports Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Predictable monthly rental pricing supports MaaS unit economics, budgeting and partner participation by making vehicle access costs easier to plan.",
     "notes_uncertainties": ""
   },
   {
@@ -1062,10 +1034,9 @@
     "operational_value": "Connects contract economics to utilisation, lifecycle planning and replacement timing.",
     "maas_relevance": "Usage- or period-aligned contracts are useful for MaaS supply models where utilisation drives economics.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Contract Term / Mileage Structuring supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Term, mileage and utilisation structures align the commercial lease model to expected demand patterns and fleet-planning requirements.",
     "notes_uncertainties": ""
   },
   {
@@ -1086,10 +1057,9 @@
     "operational_value": "Allows fleet planning around predictable contract economics and risk allocation.",
     "maas_relevance": "Risk transfer can make vehicle supply easier to scale for MaaS participants that do not want to hold asset risk.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Residual Value / Ownership Risk Transfer supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Residual-value and ownership-risk transfer improve asset economics by moving resale and end-of-contract value exposure away from the customer.",
     "notes_uncertainties": ""
   },
   {
@@ -1110,10 +1080,9 @@
     "operational_value": "Supports asset rotation, residual risk control and fleet renewal planning.",
     "maas_relevance": "MaaS fleets need disciplined end-of-life and replacement processes to manage quality and costs.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Vehicle Disposal / Return supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Vehicle return and disposal coordinate the end-of-lifecycle step needed for disciplined fleet renewal and service-quality management.",
     "notes_uncertainties": ""
   },
   {
@@ -1134,10 +1103,9 @@
     "operational_value": "Connects finance planning with long-term fleet asset ownership decisions.",
     "maas_relevance": "Lease-to-own may support operator-led mobility models where drivers or SMEs build ownership over time.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Digital Origination Platform"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Lease-to-Own supports Strategic Enablement Partner and Digital Origination Platform because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Lease-to-own structures provide an ownership pathway that can help drivers, operators or fleet partners access vehicles without immediate purchase.",
     "notes_uncertainties": ""
   },
   {
@@ -1160,7 +1128,7 @@
     "maas_category": [
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Fixed Monthly Cost / Rental supports Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Predictable monthly rental pricing supports MaaS unit economics, budgeting and partner participation by making vehicle access costs easier to plan.",
     "notes_uncertainties": ""
   },
   {
@@ -1181,10 +1149,9 @@
     "operational_value": "Creates the financing foundation for acquiring, leasing or operating fleet assets.",
     "maas_relevance": "MaaS propositions need scalable vehicle funding structures to place vehicles into service across customers, partners or channels.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Digital Origination Platform"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Vehicle Finance / Funding supports Strategic Enablement Partner and Digital Origination Platform because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Vehicle finance and funding provide the capital structure that lets customers or partners place fleet assets into service without upfront purchase.",
     "notes_uncertainties": ""
   },
   {
@@ -1207,7 +1174,7 @@
     "maas_category": [
       "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Licensing / Registration Support supports Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Licensing and registration support keeps vehicles compliant and legally available for continued fleet service.",
     "notes_uncertainties": ""
   },
   {
@@ -1231,7 +1198,7 @@
       "Mobility Ecosystem Orchestrator",
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Full Maintenance Lease / Rental supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "A full maintenance lease combines asset access with maintenance responsibility, reducing lifecycle complexity while keeping vehicles ready for service.",
     "notes_uncertainties": ""
   },
   {
@@ -1252,10 +1219,9 @@
     "operational_value": "Connects customer demand to vehicle supply and acquisition workflows.",
     "maas_relevance": "Vehicle procurement is a key supply-side capability for building or refreshing mobility fleets.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Mobility Marketplace"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Vehicle Procurement / Selection supports Mobility Ecosystem Orchestrator and Mobility Marketplace because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Vehicle procurement and selection coordinate the supply-side sourcing required to build, refresh or scale a managed fleet.",
     "notes_uncertainties": ""
   },
   {
@@ -1278,7 +1244,7 @@
     "maas_category": [
       "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Fleet Management supports Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Fleet management coordinates the operating layer of vehicle lifecycle, service, administration and control after vehicles are placed into use.",
     "notes_uncertainties": ""
   },
   {
@@ -1299,10 +1265,10 @@
     "operational_value": "Supports risk allocation and specialist management of fleet purchasing and operations.",
     "maas_relevance": "Risk reduction through outsourced fleet management can help MaaS participants scale vehicle operations without carrying all operational complexity internally.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Mobility Ecosystem Orchestrator",
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Outsourced fleet risk reduction supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator roles by shifting operational complexity to a specialist provider.",
+    "classification_reason": "Outsourcing fleet responsibilities shifts lifecycle complexity to a specialist operator while reducing risk for the customer or mobility partner.",
     "notes_uncertainties": "The evidence does not specifically mention residual-value transfer, so the functionality was renamed from residual-value risk transfer to a broader risk-reduction capability."
   },
   {
@@ -1326,7 +1292,7 @@
       "Mobility Ecosystem Orchestrator",
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Full Maintenance Lease / Rental supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "A full maintenance lease combines asset access with maintenance responsibility, reducing lifecycle complexity while keeping vehicles ready for service.",
     "notes_uncertainties": ""
   },
   {
@@ -1349,7 +1315,7 @@
     "maas_category": [
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Fixed Monthly Cost / Rental supports Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Predictable monthly rental pricing supports MaaS unit economics, budgeting and partner participation by making vehicle access costs easier to plan.",
     "notes_uncertainties": ""
   },
   {
@@ -1370,10 +1336,9 @@
     "operational_value": "Allows fleet planning around predictable contract economics and risk allocation.",
     "maas_relevance": "Risk transfer can make vehicle supply easier to scale for MaaS participants that do not want to hold asset risk.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Residual Value / Ownership Risk Transfer supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Residual-value and ownership-risk transfer improve asset economics by moving resale and end-of-contract value exposure away from the customer.",
     "notes_uncertainties": ""
   },
   {
@@ -1394,10 +1359,9 @@
     "operational_value": "Improves fleet availability, lifecycle management and operating-cost predictability.",
     "maas_relevance": "Reliable maintenance orchestration is essential for any MaaS fleet that depends on vehicle uptime.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Maintenance Management supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Maintenance management protects uptime, safety and service quality by coordinating servicing and roadworthiness across leased or managed vehicles.",
     "notes_uncertainties": ""
   },
   {
@@ -1420,7 +1384,7 @@
     "maas_category": [
       "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Fleet Management supports Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Fleet management coordinates the operating layer of vehicle lifecycle, service, administration and control after vehicles are placed into use.",
     "notes_uncertainties": ""
   },
   {
@@ -1444,7 +1408,7 @@
       "Mobility Ecosystem Orchestrator",
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Full Maintenance Lease / Rental supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "A full maintenance lease combines asset access with maintenance responsibility, reducing lifecycle complexity while keeping vehicles ready for service.",
     "notes_uncertainties": ""
   },
   {
@@ -1465,10 +1429,9 @@
     "operational_value": "Improves fleet availability, lifecycle management and operating-cost predictability.",
     "maas_relevance": "Reliable maintenance orchestration is essential for any MaaS fleet that depends on vehicle uptime.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Maintenance Management supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Maintenance management protects uptime, safety and service quality by coordinating servicing and roadworthiness across leased or managed vehicles.",
     "notes_uncertainties": "Maintenance is inherent in the product name, but current public page detail is limited and appears old."
   },
   {
@@ -1489,10 +1452,9 @@
     "operational_value": "Supports structured fleet deployment, replacement planning and off-balance-sheet style fleet use where applicable.",
     "maas_relevance": "Operating lease structures can support flexible mobility supply by separating access to vehicles from ownership.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Operating Lease / Rental supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Operating lease and rental structures provide the core vehicle-access mechanism for deploying business vehicles without traditional ownership.",
     "notes_uncertainties": ""
   },
   {
@@ -1516,7 +1478,7 @@
       "Mobility Ecosystem Orchestrator",
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Full Maintenance Lease / Rental supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "A full maintenance lease combines asset access with maintenance responsibility, reducing lifecycle complexity while keeping vehicles ready for service.",
     "notes_uncertainties": ""
   },
   {
@@ -1537,10 +1499,9 @@
     "operational_value": "Creates the financing foundation for acquiring, leasing or operating fleet assets.",
     "maas_relevance": "MaaS propositions need scalable vehicle funding structures to place vehicles into service across customers, partners or channels.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Digital Origination Platform"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Vehicle Finance / Funding supports Strategic Enablement Partner and Digital Origination Platform because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Vehicle finance and funding provide the capital structure that lets customers or partners place fleet assets into service without upfront purchase.",
     "notes_uncertainties": ""
   },
   {
@@ -1561,10 +1522,9 @@
     "operational_value": "Connects customer demand to vehicle supply and acquisition workflows.",
     "maas_relevance": "Vehicle procurement is a key supply-side capability for building or refreshing mobility fleets.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Mobility Marketplace"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Vehicle Procurement / Selection supports Mobility Ecosystem Orchestrator and Mobility Marketplace because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Vehicle procurement and selection coordinate the supply-side sourcing required to build, refresh or scale a managed fleet.",
     "notes_uncertainties": ""
   },
   {
@@ -1587,7 +1547,7 @@
     "maas_category": [
       "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Fleet Management supports Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Fleet management coordinates the operating layer of vehicle lifecycle, service, administration and control after vehicles are placed into use.",
     "notes_uncertainties": "Fleet management linkage is inferred from the fleet finance/service bundling; detailed service list is on other Bidvest pages."
   },
   {
@@ -1610,7 +1570,7 @@
     "maas_category": [
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Fixed Monthly Cost / Rental supports Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Predictable monthly rental pricing supports MaaS unit economics, budgeting and partner participation by making vehicle access costs easier to plan.",
     "notes_uncertainties": "Fixed monthly cost is typical for FML and supported by product category, but exact pricing model is not stated in captured evidence."
   },
   {
@@ -1633,7 +1593,7 @@
     "maas_category": [
       "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Fleet Management supports Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Fleet management coordinates the operating layer of vehicle lifecycle, service, administration and control after vehicles are placed into use.",
     "notes_uncertainties": ""
   },
   {
@@ -1656,7 +1616,7 @@
     "maas_category": [
       "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Fleet Data / Reporting supports Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Fleet data and reporting provide the operational visibility needed to govern utilisation, cost, condition and performance across mobility fleets.",
     "notes_uncertainties": ""
   },
   {
@@ -1679,7 +1639,7 @@
     "maas_category": [
       "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Tyre Management supports Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Tyre management supports safety, uptime and operating-cost control for high-utilisation mobility vehicles.",
     "notes_uncertainties": ""
   },
   {
@@ -1700,10 +1660,9 @@
     "operational_value": "Improves control of running costs and fuel-related administration.",
     "maas_relevance": "Fuel or energy-cost management is important for mobility service economics and fleet operations.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Fuel Management supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Fuel management controls a recurring operating-cost and availability input for high-utilisation mobility fleets.",
     "notes_uncertainties": ""
   },
   {
@@ -1724,10 +1683,9 @@
     "operational_value": "Provides a control point for usage, risk and performance across the fleet.",
     "maas_relevance": "Driver management matters where MaaS or logistics supply depends on distributed human operators.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Customer Aggregation Platform"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Driver Management / Behaviour supports Mobility Ecosystem Orchestrator and Customer Aggregation Platform because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Driver behaviour management is an operating-control capability that supports safety, cost control and service quality in managed fleets.",
     "notes_uncertainties": ""
   },
   {
@@ -1748,10 +1706,9 @@
     "operational_value": "Improves fleet availability, lifecycle management and operating-cost predictability.",
     "maas_relevance": "Reliable maintenance orchestration is essential for any MaaS fleet that depends on vehicle uptime.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Maintenance Management supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Maintenance management protects uptime, safety and service quality by coordinating servicing and roadworthiness across leased or managed vehicles.",
     "notes_uncertainties": "Roadworthiness data supports maintenance oversight, but specific maintenance workflow details are not included in the captured evidence."
   },
   {
@@ -1775,7 +1732,7 @@
       "Mobility Ecosystem Orchestrator",
       "Mobility Marketplace"
     ],
-    "classification_reason": "Vehicle Procurement / Selection supports Mobility Ecosystem Orchestrator and Mobility Marketplace because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "This procurement evidence includes customer-facing vehicle or dealer choice, so it combines supply coordination with marketplace-style selection.",
     "notes_uncertainties": ""
   },
   {
@@ -1796,10 +1753,9 @@
     "operational_value": "Creates the financing foundation for acquiring, leasing or operating fleet assets.",
     "maas_relevance": "MaaS propositions need scalable vehicle funding structures to place vehicles into service across customers, partners or channels.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Digital Origination Platform"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Vehicle Finance / Funding supports Strategic Enablement Partner and Digital Origination Platform because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Vehicle finance and funding provide the capital structure that lets customers or partners place fleet assets into service without upfront purchase.",
     "notes_uncertainties": ""
   },
   {
@@ -1820,10 +1776,9 @@
     "operational_value": "Supports structured fleet deployment, replacement planning and off-balance-sheet style fleet use where applicable.",
     "maas_relevance": "Operating lease structures can support flexible mobility supply by separating access to vehicles from ownership.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Operating Lease / Rental supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Operating lease and rental structures provide the core vehicle-access mechanism for deploying business vehicles without traditional ownership.",
     "notes_uncertainties": ""
   },
   {
@@ -1844,10 +1799,9 @@
     "operational_value": "Improves fleet availability, lifecycle management and operating-cost predictability.",
     "maas_relevance": "Reliable maintenance orchestration is essential for any MaaS fleet that depends on vehicle uptime.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Maintenance Management supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Maintenance management protects uptime, safety and service quality by coordinating servicing and roadworthiness across leased or managed vehicles.",
     "notes_uncertainties": ""
   },
   {
@@ -1868,10 +1822,9 @@
     "operational_value": "Supports specialised fleets and mixed asset classes beyond passenger vehicles.",
     "maas_relevance": "Commercial vehicles can support MaaS-adjacent logistics, delivery and enterprise mobility models.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Commercial Vehicle Leasing supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Commercial vehicle leasing extends the asset-access foundation into trucks, delivery vehicles and logistics fleets without requiring outright customer ownership.",
     "notes_uncertainties": ""
   },
   {
@@ -1894,7 +1847,7 @@
     "maas_category": [
       "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Fleet Management supports Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Fleet management coordinates the operating layer of vehicle lifecycle, service, administration and control after vehicles are placed into use.",
     "notes_uncertainties": "Broad fleet solution context supports fleet-management relevance, but detailed management services are not disclosed in the captured source."
   },
   {
@@ -1918,7 +1871,7 @@
       "Customer Aggregation Platform",
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Driver / Owner-Operator Enablement supports Customer Aggregation Platform and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Driver and owner-operator programmes lower vehicle-access barriers for participants and can aggregate operator supply into mobility or logistics networks.",
     "notes_uncertainties": ""
   },
   {
@@ -1939,10 +1892,9 @@
     "operational_value": "Supports structured fleet deployment, replacement planning and off-balance-sheet style fleet use where applicable.",
     "maas_relevance": "Operating lease structures can support flexible mobility supply by separating access to vehicles from ownership.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Operating Lease / Rental supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Operating lease and rental structures provide the core vehicle-access mechanism for deploying business vehicles without traditional ownership.",
     "notes_uncertainties": ""
   },
   {
@@ -1965,7 +1917,7 @@
     "maas_category": [
       "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Fleet Management supports Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Fleet management coordinates the operating layer of vehicle lifecycle, service, administration and control after vehicles are placed into use.",
     "notes_uncertainties": "Fleet/operations support is inferred from logistics enablement wording; detailed services are not public in the captured evidence."
   },
   {
@@ -1986,10 +1938,9 @@
     "operational_value": "Creates a digital origination path for customer capture and approval workflows.",
     "maas_relevance": "Digital onboarding is important for scalable MaaS channels that require low-friction customer or partner activation.",
     "maas_category": [
-      "Digital Origination Platform",
-      "Mobility Marketplace"
+      "Digital Origination Platform"
     ],
-    "classification_reason": "Online / Digital Onboarding supports Digital Origination Platform and Mobility Marketplace because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Online application and account setup digitise the origination step for customers or operators entering a leasing product.",
     "notes_uncertainties": ""
   },
   {
@@ -2013,7 +1964,7 @@
       "Mobility Marketplace",
       "Digital Origination Platform"
     ],
-    "classification_reason": "Preconfigured Offers / Vehicle Choice supports Mobility Marketplace and Digital Origination Platform because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Preconfigured vehicle offers expose selectable supply in a simplified decisioning flow, supporting marketplace-style choice and faster digital origination.",
     "notes_uncertainties": ""
   },
   {
@@ -2034,10 +1985,9 @@
     "operational_value": "Supports structured fleet deployment, replacement planning and off-balance-sheet style fleet use where applicable.",
     "maas_relevance": "Operating lease structures can support flexible mobility supply by separating access to vehicles from ownership.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Operating Lease / Rental supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Operating lease and rental structures provide the core vehicle-access mechanism for deploying business vehicles without traditional ownership.",
     "notes_uncertainties": ""
   },
   {
@@ -2059,9 +2009,9 @@
     "maas_relevance": "Lower-friction access structures can help aggregate customers or drivers into mobility channels.",
     "maas_category": [
       "Customer Aggregation Platform",
-      "Digital Origination Platform"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "No Balloon / Deposit-Lite Structure supports Customer Aggregation Platform and Digital Origination Platform because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Removing large deposits, balloon payments or hidden-cost exposure lowers adoption friction while improving cash-flow fit for mobility participants.",
     "notes_uncertainties": ""
   },
   {
@@ -2084,7 +2034,7 @@
     "maas_category": [
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Fixed Monthly Cost / Rental supports Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Predictable monthly rental pricing supports MaaS unit economics, budgeting and partner participation by making vehicle access costs easier to plan.",
     "notes_uncertainties": ""
   },
   {
@@ -2105,10 +2055,9 @@
     "operational_value": "Connects contract economics to utilisation, lifecycle planning and replacement timing.",
     "maas_relevance": "Usage- or period-aligned contracts are useful for MaaS supply models where utilisation drives economics.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Contract Term / Mileage Structuring supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Term, mileage and utilisation structures align the commercial lease model to expected demand patterns and fleet-planning requirements.",
     "notes_uncertainties": "The source confirms no long-term lock-ins but does not disclose exact term options in the captured evidence."
   },
   {
@@ -2129,10 +2078,9 @@
     "operational_value": "Supports specialised fleets and mixed asset classes beyond passenger vehicles.",
     "maas_relevance": "Commercial vehicles can support MaaS-adjacent logistics, delivery and enterprise mobility models.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Commercial Vehicle Leasing supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Commercial vehicle leasing extends the asset-access foundation into trucks, delivery vehicles and logistics fleets without requiring outright customer ownership.",
     "notes_uncertainties": ""
   },
   {
@@ -2156,7 +2104,7 @@
       "Mobility Ecosystem Orchestrator",
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Full Maintenance Lease / Rental supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "A full maintenance lease combines asset access with maintenance responsibility, reducing lifecycle complexity while keeping vehicles ready for service.",
     "notes_uncertainties": ""
   },
   {
@@ -2177,10 +2125,9 @@
     "operational_value": "Improves fleet availability, lifecycle management and operating-cost predictability.",
     "maas_relevance": "Reliable maintenance orchestration is essential for any MaaS fleet that depends on vehicle uptime.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Maintenance Management supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Maintenance management protects uptime, safety and service quality by coordinating servicing and roadworthiness across leased or managed vehicles.",
     "notes_uncertainties": ""
   },
   {
@@ -2201,10 +2148,9 @@
     "operational_value": "Connects contract economics to utilisation, lifecycle planning and replacement timing.",
     "maas_relevance": "Usage- or period-aligned contracts are useful for MaaS supply models where utilisation drives economics.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Contract Term / Mileage Structuring supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Term, mileage and utilisation structures align the commercial lease model to expected demand patterns and fleet-planning requirements.",
     "notes_uncertainties": ""
   },
   {
@@ -2225,10 +2171,9 @@
     "operational_value": "Supports structured fleet deployment, replacement planning and off-balance-sheet style fleet use where applicable.",
     "maas_relevance": "Operating lease structures can support flexible mobility supply by separating access to vehicles from ownership.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Operating Lease / Rental supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Operating lease and rental structures provide the core vehicle-access mechanism for deploying business vehicles without traditional ownership.",
     "notes_uncertainties": ""
   },
   {
@@ -2249,10 +2194,9 @@
     "operational_value": "Supports specialised fleets and mixed asset classes beyond passenger vehicles.",
     "maas_relevance": "Commercial vehicles can support MaaS-adjacent logistics, delivery and enterprise mobility models.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Commercial Vehicle Leasing supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Commercial vehicle leasing extends the asset-access foundation into trucks, delivery vehicles and logistics fleets without requiring outright customer ownership.",
     "notes_uncertainties": ""
   },
   {
@@ -2273,10 +2217,9 @@
     "operational_value": "Connects contract economics to utilisation, lifecycle planning and replacement timing.",
     "maas_relevance": "Usage- or period-aligned contracts are useful for MaaS supply models where utilisation drives economics.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Contract Term / Mileage Structuring supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Term, mileage and utilisation structures align the commercial lease model to expected demand patterns and fleet-planning requirements.",
     "notes_uncertainties": ""
   },
   {
@@ -2299,7 +2242,7 @@
     "maas_category": [
       "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Vehicle Tracking / Telematics supports Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Tracking and telematics provide operational visibility over location, use and fleet control for managed mobility vehicles.",
     "notes_uncertainties": ""
   },
   {
@@ -2320,10 +2263,9 @@
     "operational_value": "Improves fleet availability, lifecycle management and operating-cost predictability.",
     "maas_relevance": "Reliable maintenance orchestration is essential for any MaaS fleet that depends on vehicle uptime.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Maintenance Management supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Maintenance management protects uptime, safety and service quality by coordinating servicing and roadworthiness across leased or managed vehicles.",
     "notes_uncertainties": ""
   },
   {
@@ -2344,10 +2286,9 @@
     "operational_value": "Improves uptime and incident response across the fleet.",
     "maas_relevance": "Incident-response capabilities help maintain service reliability in mobility operations.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Accident / Breakdown / Roadside Support supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Incident, breakdown and roadside support protects service continuity and vehicle availability across managed mobility fleets.",
     "notes_uncertainties": ""
   },
   {
@@ -2368,10 +2309,9 @@
     "operational_value": "Connects asset use to risk controls and claims/incident management.",
     "maas_relevance": "Insurance and risk support are needed to scale shared or leased mobility assets responsibly.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Insurance / Risk Support supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Insurance and risk support reduce asset and operating exposure for customers or partners participating in vehicle-based mobility services.",
     "notes_uncertainties": ""
   },
   {
@@ -2392,10 +2332,9 @@
     "operational_value": "Supports specialised fleets and mixed asset classes beyond passenger vehicles.",
     "maas_relevance": "Commercial vehicles can support MaaS-adjacent logistics, delivery and enterprise mobility models.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Commercial Vehicle Leasing supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Commercial vehicle leasing extends the asset-access foundation into trucks, delivery vehicles and logistics fleets without requiring outright customer ownership.",
     "notes_uncertainties": ""
   },
   {
@@ -2419,7 +2358,7 @@
       "Mobility Ecosystem Orchestrator",
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Full Maintenance Lease / Rental supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "A full maintenance lease combines asset access with maintenance responsibility, reducing lifecycle complexity while keeping vehicles ready for service.",
     "notes_uncertainties": ""
   },
   {
@@ -2440,10 +2379,9 @@
     "operational_value": "Creates the financing foundation for acquiring, leasing or operating fleet assets.",
     "maas_relevance": "MaaS propositions need scalable vehicle funding structures to place vehicles into service across customers, partners or channels.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Digital Origination Platform"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Vehicle Finance / Funding supports Strategic Enablement Partner and Digital Origination Platform because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Vehicle finance and funding provide the capital structure that lets customers or partners place fleet assets into service without upfront purchase.",
     "notes_uncertainties": ""
   },
   {
@@ -2464,10 +2402,9 @@
     "operational_value": "Improves fleet availability, lifecycle management and operating-cost predictability.",
     "maas_relevance": "Reliable maintenance orchestration is essential for any MaaS fleet that depends on vehicle uptime.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Maintenance Management supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Maintenance management protects uptime, safety and service quality by coordinating servicing and roadworthiness across leased or managed vehicles.",
     "notes_uncertainties": ""
   },
   {
@@ -2490,7 +2427,7 @@
     "maas_category": [
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Fixed Monthly Cost / Rental supports Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Predictable monthly rental pricing supports MaaS unit economics, budgeting and partner participation by making vehicle access costs easier to plan.",
     "notes_uncertainties": ""
   },
   {
@@ -2511,10 +2448,9 @@
     "operational_value": "Supports specialised fleets and mixed asset classes beyond passenger vehicles.",
     "maas_relevance": "Commercial vehicles can support MaaS-adjacent logistics, delivery and enterprise mobility models.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Commercial Vehicle Leasing supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Commercial vehicle leasing extends the asset-access foundation into trucks, delivery vehicles and logistics fleets without requiring outright customer ownership.",
     "notes_uncertainties": ""
   },
   {
@@ -2538,7 +2474,7 @@
       "Mobility Ecosystem Orchestrator",
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Full Maintenance Lease / Rental supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "A full maintenance lease combines asset access with maintenance responsibility, reducing lifecycle complexity while keeping vehicles ready for service.",
     "notes_uncertainties": ""
   },
   {
@@ -2559,10 +2495,9 @@
     "operational_value": "Connects contract economics to utilisation, lifecycle planning and replacement timing.",
     "maas_relevance": "Usage- or period-aligned contracts are useful for MaaS supply models where utilisation drives economics.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Contract Term / Mileage Structuring supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Term, mileage and utilisation structures align the commercial lease model to expected demand patterns and fleet-planning requirements.",
     "notes_uncertainties": ""
   },
   {
@@ -2585,7 +2520,7 @@
     "maas_category": [
       "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Fleet Management supports Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Fleet management coordinates the operating layer of vehicle lifecycle, service, administration and control after vehicles are placed into use.",
     "notes_uncertainties": ""
   },
   {
@@ -2609,7 +2544,7 @@
       "Mobility Marketplace",
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Commercial vehicle range supports Mobility Marketplace and Strategic Enablement Partner roles by enabling customers to access different vehicle supply options.",
+    "classification_reason": "A broad commercial vehicle range gives customers vehicle choice while expanding the supply base available for MaaS-adjacent logistics and enterprise transport use cases.",
     "notes_uncertainties": "Renamed from Vehicle Procurement / Selection because the evidence confirms vehicle range, not procurement support."
   },
   {
@@ -2630,10 +2565,9 @@
     "operational_value": "Supports specialised fleets and mixed asset classes beyond passenger vehicles.",
     "maas_relevance": "Commercial vehicles can support MaaS-adjacent logistics, delivery and enterprise mobility models.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Commercial Vehicle Leasing supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Commercial vehicle leasing extends the asset-access foundation into trucks, delivery vehicles and logistics fleets without requiring outright customer ownership.",
     "notes_uncertainties": ""
   },
   {
@@ -2657,7 +2591,7 @@
       "Mobility Ecosystem Orchestrator",
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Full Maintenance Lease / Rental supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "A full maintenance lease combines asset access with maintenance responsibility, reducing lifecycle complexity while keeping vehicles ready for service.",
     "notes_uncertainties": ""
   },
   {
@@ -2678,10 +2612,9 @@
     "operational_value": "Creates the financing foundation for acquiring, leasing or operating fleet assets.",
     "maas_relevance": "MaaS propositions need scalable vehicle funding structures to place vehicles into service across customers, partners or channels.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Digital Origination Platform"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Vehicle Finance / Funding supports Strategic Enablement Partner and Digital Origination Platform because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Vehicle finance and funding provide the capital structure that lets customers or partners place fleet assets into service without upfront purchase.",
     "notes_uncertainties": ""
   },
   {
@@ -2702,10 +2635,9 @@
     "operational_value": "Improves fleet availability, lifecycle management and operating-cost predictability.",
     "maas_relevance": "Reliable maintenance orchestration is essential for any MaaS fleet that depends on vehicle uptime.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Maintenance Management supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Maintenance management protects uptime, safety and service quality by coordinating servicing and roadworthiness across leased or managed vehicles.",
     "notes_uncertainties": ""
   },
   {
@@ -2728,7 +2660,7 @@
     "maas_category": [
       "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Fleet Management supports Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Fleet management coordinates the operating layer of vehicle lifecycle, service, administration and control after vehicles are placed into use.",
     "notes_uncertainties": ""
   },
   {
@@ -2749,10 +2681,9 @@
     "operational_value": "Connects customer demand to vehicle supply and acquisition workflows.",
     "maas_relevance": "Vehicle procurement is a key supply-side capability for building or refreshing mobility fleets.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Mobility Marketplace"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Vehicle Procurement / Selection supports Mobility Ecosystem Orchestrator and Mobility Marketplace because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Vehicle procurement and selection coordinate the supply-side sourcing required to build, refresh or scale a managed fleet.",
     "notes_uncertainties": "Vehicle specification/procurement is inferred from tailored transport solution wording; exact sourcing process is not described."
   },
   {
@@ -2773,10 +2704,9 @@
     "operational_value": "Supports specialised fleets and mixed asset classes beyond passenger vehicles.",
     "maas_relevance": "Commercial vehicles can support MaaS-adjacent logistics, delivery and enterprise mobility models.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Commercial Vehicle Leasing supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Commercial vehicle leasing extends the asset-access foundation into trucks, delivery vehicles and logistics fleets without requiring outright customer ownership.",
     "notes_uncertainties": ""
   },
   {
@@ -2800,7 +2730,7 @@
       "Mobility Ecosystem Orchestrator",
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Full Maintenance Lease / Rental supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "A full maintenance lease combines asset access with maintenance responsibility, reducing lifecycle complexity while keeping vehicles ready for service.",
     "notes_uncertainties": ""
   },
   {
@@ -2821,10 +2751,9 @@
     "operational_value": "Improves fleet availability, lifecycle management and operating-cost predictability.",
     "maas_relevance": "Reliable maintenance orchestration is essential for any MaaS fleet that depends on vehicle uptime.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Maintenance Management supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Maintenance management protects uptime, safety and service quality by coordinating servicing and roadworthiness across leased or managed vehicles.",
     "notes_uncertainties": "Maintenance is inherent in the product name, but detailed maintenance scope is not disclosed."
   },
   {
@@ -2845,10 +2774,9 @@
     "operational_value": "Improves uptime and incident response across the fleet.",
     "maas_relevance": "Incident-response capabilities help maintain service reliability in mobility operations.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Accident / Breakdown / Roadside Support supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Incident, breakdown and roadside support protects service continuity and vehicle availability across managed mobility fleets.",
     "notes_uncertainties": ""
   },
   {
@@ -2871,7 +2799,7 @@
     "maas_category": [
       "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Fleet Management supports Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Fleet management coordinates the operating layer of vehicle lifecycle, service, administration and control after vehicles are placed into use.",
     "notes_uncertainties": "Fleet management is inferred from fleet-solutions positioning; detailed management services are not disclosed."
   },
   {
@@ -2895,7 +2823,7 @@
       "Mobility Ecosystem Orchestrator",
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Full Maintenance Lease / Rental supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "A full maintenance lease combines asset access with maintenance responsibility, reducing lifecycle complexity while keeping vehicles ready for service.",
     "notes_uncertainties": ""
   },
   {
@@ -2916,10 +2844,9 @@
     "operational_value": "Connects customer demand to vehicle supply and acquisition workflows.",
     "maas_relevance": "Vehicle procurement is a key supply-side capability for building or refreshing mobility fleets.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Mobility Marketplace"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Vehicle Procurement / Selection supports Mobility Ecosystem Orchestrator and Mobility Marketplace because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Vehicle procurement and selection coordinate the supply-side sourcing required to build, refresh or scale a managed fleet.",
     "notes_uncertainties": ""
   },
   {
@@ -2940,10 +2867,9 @@
     "operational_value": "Improves fleet availability, lifecycle management and operating-cost predictability.",
     "maas_relevance": "Reliable maintenance orchestration is essential for any MaaS fleet that depends on vehicle uptime.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Maintenance Management supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Maintenance management protects uptime, safety and service quality by coordinating servicing and roadworthiness across leased or managed vehicles.",
     "notes_uncertainties": ""
   },
   {
@@ -2964,10 +2890,9 @@
     "operational_value": "Supports asset rotation, residual risk control and fleet renewal planning.",
     "maas_relevance": "MaaS fleets need disciplined end-of-life and replacement processes to manage quality and costs.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Vehicle Disposal / Return supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Vehicle return and disposal coordinate the end-of-lifecycle step needed for disciplined fleet renewal and service-quality management.",
     "notes_uncertainties": ""
   },
   {
@@ -2988,10 +2913,9 @@
     "operational_value": "Supports planned fleet renewal and asset lifecycle management.",
     "maas_relevance": "Vehicle replacement processes help keep mobility supply reliable and fit for purpose.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Vehicle Replacement supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Vehicle replacement supports fleet availability and lifecycle renewal by coordinating changes to vehicles during or after the agreed term.",
     "notes_uncertainties": ""
   },
   {
@@ -3012,10 +2936,9 @@
     "operational_value": "Connects contract economics to utilisation, lifecycle planning and replacement timing.",
     "maas_relevance": "Usage- or period-aligned contracts are useful for MaaS supply models where utilisation drives economics.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Contract Term / Mileage Structuring supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Term, mileage and utilisation structures align the commercial lease model to expected demand patterns and fleet-planning requirements.",
     "notes_uncertainties": ""
   },
   {
@@ -3036,10 +2959,9 @@
     "operational_value": "Supports structured fleet deployment, replacement planning and off-balance-sheet style fleet use where applicable.",
     "maas_relevance": "Operating lease structures can support flexible mobility supply by separating access to vehicles from ownership.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Operating Lease / Rental supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Operating lease and rental structures provide the core vehicle-access mechanism for deploying business vehicles without traditional ownership.",
     "notes_uncertainties": ""
   },
   {
@@ -3062,7 +2984,7 @@
     "maas_category": [
       "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Fleet Management supports Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Fleet management coordinates the operating layer of vehicle lifecycle, service, administration and control after vehicles are placed into use.",
     "notes_uncertainties": ""
   },
   {
@@ -3086,7 +3008,7 @@
       "Customer Aggregation Platform",
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Multi-Segment Fleet Service Coverage supports Customer Aggregation Platform and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Multi-segment coverage lets the provider serve different customer groups and fleet contexts, broadening aggregation potential across mobility demand.",
     "notes_uncertainties": "The provider states it serves public and private sectors, but does not describe a formal aggregation platform."
   },
   {
@@ -3110,7 +3032,7 @@
       "Mobility Ecosystem Orchestrator",
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Full Maintenance Lease / Rental supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "A full maintenance lease combines asset access with maintenance responsibility, reducing lifecycle complexity while keeping vehicles ready for service.",
     "notes_uncertainties": ""
   },
   {
@@ -3134,7 +3056,7 @@
       "Mobility Ecosystem Orchestrator",
       "Mobility Marketplace"
     ],
-    "classification_reason": "Vehicle Procurement / Selection supports Mobility Ecosystem Orchestrator and Mobility Marketplace because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "This procurement evidence includes customer-facing vehicle or dealer choice, so it combines supply coordination with marketplace-style selection.",
     "notes_uncertainties": ""
   },
   {
@@ -3155,10 +3077,9 @@
     "operational_value": "Connects contract economics to utilisation, lifecycle planning and replacement timing.",
     "maas_relevance": "Usage- or period-aligned contracts are useful for MaaS supply models where utilisation drives economics.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Contract Term / Mileage Structuring supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Term, mileage and utilisation structures align the commercial lease model to expected demand patterns and fleet-planning requirements.",
     "notes_uncertainties": ""
   },
   {
@@ -3181,7 +3102,7 @@
     "maas_category": [
       "Strategic Enablement Partner"
     ],
-    "classification_reason": "Fixed Monthly Cost / Rental supports Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Predictable monthly rental pricing supports MaaS unit economics, budgeting and partner participation by making vehicle access costs easier to plan.",
     "notes_uncertainties": ""
   },
   {
@@ -3202,10 +3123,9 @@
     "operational_value": "Supports asset rotation, residual risk control and fleet renewal planning.",
     "maas_relevance": "MaaS fleets need disciplined end-of-life and replacement processes to manage quality and costs.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Vehicle Disposal / Return supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Vehicle return and disposal coordinate the end-of-lifecycle step needed for disciplined fleet renewal and service-quality management.",
     "notes_uncertainties": ""
   },
   {
@@ -3226,10 +3146,9 @@
     "operational_value": "Improves fleet availability, lifecycle management and operating-cost predictability.",
     "maas_relevance": "Reliable maintenance orchestration is essential for any MaaS fleet that depends on vehicle uptime.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Maintenance Management supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Maintenance management protects uptime, safety and service quality by coordinating servicing and roadworthiness across leased or managed vehicles.",
     "notes_uncertainties": "Maintenance is inherent in the product name, but detailed maintenance scope is not shown in the captured source."
   },
   {
@@ -3250,10 +3169,9 @@
     "operational_value": "Supports structured fleet deployment, replacement planning and off-balance-sheet style fleet use where applicable.",
     "maas_relevance": "Operating lease structures can support flexible mobility supply by separating access to vehicles from ownership.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Operating Lease / Rental supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Operating lease and rental structures provide the core vehicle-access mechanism for deploying business vehicles without traditional ownership.",
     "notes_uncertainties": ""
   },
   {
@@ -3276,7 +3194,7 @@
     "maas_category": [
       "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Fleet Management supports Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Fleet management coordinates the operating layer of vehicle lifecycle, service, administration and control after vehicles are placed into use.",
     "notes_uncertainties": ""
   },
   {
@@ -3297,10 +3215,9 @@
     "operational_value": "Connects contract economics to utilisation, lifecycle planning and replacement timing.",
     "maas_relevance": "Usage- or period-aligned contracts are useful for MaaS supply models where utilisation drives economics.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Contract Term / Mileage Structuring supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Term, mileage and utilisation structures align the commercial lease model to expected demand patterns and fleet-planning requirements.",
     "notes_uncertainties": ""
   },
   {
@@ -3321,10 +3238,9 @@
     "operational_value": "Supports better fit between contract structure, utilisation patterns and operating environment.",
     "maas_relevance": "Needs-based customisation is useful for MaaS models where vehicle usage, intensity and service context vary by partner or customer segment.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Needs-based lease customisation supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator roles by tailoring vehicle access to operational requirements.",
+    "classification_reason": "Needs-based customisation adapts lease structure and vehicle access to specific operating requirements rather than offering a one-size-fits-all fleet model.",
     "notes_uncertainties": "Renamed from Vehicle Procurement / Selection because the evidence supports customisation rather than sourcing or procurement."
   },
   {
@@ -3345,10 +3261,9 @@
     "operational_value": "Improves fleet availability, lifecycle management and operating-cost predictability.",
     "maas_relevance": "Reliable maintenance orchestration is essential for any MaaS fleet that depends on vehicle uptime.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Maintenance Management supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Maintenance management protects uptime, safety and service quality by coordinating servicing and roadworthiness across leased or managed vehicles.",
     "notes_uncertainties": ""
   },
   {
@@ -3369,10 +3284,9 @@
     "operational_value": "Supports structured fleet deployment, replacement planning and off-balance-sheet style fleet use where applicable.",
     "maas_relevance": "Operating lease structures can support flexible mobility supply by separating access to vehicles from ownership.",
     "maas_category": [
-      "Strategic Enablement Partner",
-      "Mobility Ecosystem Orchestrator"
+      "Strategic Enablement Partner"
     ],
-    "classification_reason": "Operating Lease / Rental supports Strategic Enablement Partner and Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Operating lease and rental structures provide the core vehicle-access mechanism for deploying business vehicles without traditional ownership.",
     "notes_uncertainties": ""
   },
   {
@@ -3395,7 +3309,7 @@
     "maas_category": [
       "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Fleet Management supports Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Fleet management coordinates the operating layer of vehicle lifecycle, service, administration and control after vehicles are placed into use.",
     "notes_uncertainties": ""
   },
   {
@@ -3416,10 +3330,9 @@
     "operational_value": "Improves control of running costs and fuel-related administration.",
     "maas_relevance": "Fuel or energy-cost management is important for mobility service economics and fleet operations.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Fuel Management supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Fuel management controls a recurring operating-cost and availability input for high-utilisation mobility fleets.",
     "notes_uncertainties": ""
   },
   {
@@ -3440,10 +3353,9 @@
     "operational_value": "Provides a control point for usage, risk and performance across the fleet.",
     "maas_relevance": "Driver management matters where MaaS or logistics supply depends on distributed human operators.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Customer Aggregation Platform"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Driver Management / Behaviour supports Mobility Ecosystem Orchestrator and Customer Aggregation Platform because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Driver behaviour management is an operating-control capability that supports safety, cost control and service quality in managed fleets.",
     "notes_uncertainties": ""
   },
   {
@@ -3464,10 +3376,9 @@
     "operational_value": "Improves fleet availability, lifecycle management and operating-cost predictability.",
     "maas_relevance": "Reliable maintenance orchestration is essential for any MaaS fleet that depends on vehicle uptime.",
     "maas_category": [
-      "Mobility Ecosystem Orchestrator",
-      "Strategic Enablement Partner"
+      "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Maintenance Management supports Mobility Ecosystem Orchestrator and Strategic Enablement Partner because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Maintenance management protects uptime, safety and service quality by coordinating servicing and roadworthiness across leased or managed vehicles.",
     "notes_uncertainties": ""
   },
   {
@@ -3490,7 +3401,7 @@
     "maas_category": [
       "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Licensing / Registration Support supports Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Licensing and registration support keeps vehicles compliant and legally available for continued fleet service.",
     "notes_uncertainties": ""
   },
   {
@@ -3513,7 +3424,7 @@
     "maas_category": [
       "Mobility Ecosystem Orchestrator"
     ],
-    "classification_reason": "Fleet Data / Reporting supports Mobility Ecosystem Orchestrator because it connects vehicle access, fleet operations or customer activation to the mobility ecosystem.",
+    "classification_reason": "Fleet data and reporting provide the operational visibility needed to govern utilisation, cost, condition and performance across mobility fleets.",
     "notes_uncertainties": ""
   }
 ]

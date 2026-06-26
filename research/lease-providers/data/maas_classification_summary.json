@@ -1,0 +1,231 @@
+{
+  "generated_from": "functionalities.json",
+  "record_count": 148,
+  "allowed_categories": [
+    "Mobility Marketplace",
+    "Mobility Ecosystem Orchestrator",
+    "Digital Origination Platform",
+    "Strategic Enablement Partner",
+    "Customer Aggregation Platform"
+  ],
+  "category_counts": {
+    "Customer Aggregation Platform": 4,
+    "Digital Origination Platform": 2,
+    "Mobility Ecosystem Orchestrator": 81,
+    "Mobility Marketplace": 4,
+    "Strategic Enablement Partner": 81
+  },
+  "capability_counts": {
+    "Accident / Breakdown / Roadside Support": {
+      "records": 3,
+      "categories": {
+        "Mobility Ecosystem Orchestrator": 3
+      }
+    },
+    "Commercial Vehicle Leasing": {
+      "records": 8,
+      "categories": {
+        "Strategic Enablement Partner": 8
+      }
+    },
+    "Commercial Vehicle Range": {
+      "records": 1,
+      "categories": {
+        "Mobility Marketplace": 1,
+        "Strategic Enablement Partner": 1
+      }
+    },
+    "Contract Term / Mileage Structuring": {
+      "records": 11,
+      "categories": {
+        "Strategic Enablement Partner": 11
+      }
+    },
+    "Driver / Owner-Operator Enablement": {
+      "records": 1,
+      "categories": {
+        "Customer Aggregation Platform": 1,
+        "Strategic Enablement Partner": 1
+      }
+    },
+    "Driver Management / Behaviour": {
+      "records": 2,
+      "categories": {
+        "Mobility Ecosystem Orchestrator": 2
+      }
+    },
+    "Fixed Monthly Cost / Rental": {
+      "records": 9,
+      "categories": {
+        "Strategic Enablement Partner": 9
+      }
+    },
+    "Fleet Administration": {
+      "records": 1,
+      "categories": {
+        "Mobility Ecosystem Orchestrator": 1
+      }
+    },
+    "Fleet Data / Reporting": {
+      "records": 2,
+      "categories": {
+        "Mobility Ecosystem Orchestrator": 2
+      }
+    },
+    "Fleet Management": {
+      "records": 14,
+      "categories": {
+        "Mobility Ecosystem Orchestrator": 14
+      }
+    },
+    "Fuel Management": {
+      "records": 3,
+      "categories": {
+        "Mobility Ecosystem Orchestrator": 3
+      }
+    },
+    "Full Maintenance Lease / Rental": {
+      "records": 15,
+      "categories": {
+        "Mobility Ecosystem Orchestrator": 15,
+        "Strategic Enablement Partner": 15
+      }
+    },
+    "Insurance / Risk Support": {
+      "records": 3,
+      "categories": {
+        "Strategic Enablement Partner": 3
+      }
+    },
+    "Lease-to-Own": {
+      "records": 2,
+      "categories": {
+        "Strategic Enablement Partner": 2
+      }
+    },
+    "Licensing / Registration Support": {
+      "records": 3,
+      "categories": {
+        "Mobility Ecosystem Orchestrator": 3
+      }
+    },
+    "Maintenance Management": {
+      "records": 18,
+      "categories": {
+        "Mobility Ecosystem Orchestrator": 18
+      }
+    },
+    "Multi-Segment Fleet Service Coverage": {
+      "records": 1,
+      "categories": {
+        "Customer Aggregation Platform": 1,
+        "Strategic Enablement Partner": 1
+      }
+    },
+    "Needs-Based Lease Customisation": {
+      "records": 1,
+      "categories": {
+        "Strategic Enablement Partner": 1
+      }
+    },
+    "No Balloon / Deposit-Lite Structure": {
+      "records": 1,
+      "categories": {
+        "Customer Aggregation Platform": 1,
+        "Strategic Enablement Partner": 1
+      }
+    },
+    "Online / Digital Onboarding": {
+      "records": 1,
+      "categories": {
+        "Digital Origination Platform": 1
+      }
+    },
+    "Operating Lease / Rental": {
+      "records": 13,
+      "categories": {
+        "Strategic Enablement Partner": 13
+      }
+    },
+    "Outsourced Fleet Risk Reduction": {
+      "records": 1,
+      "categories": {
+        "Mobility Ecosystem Orchestrator": 1,
+        "Strategic Enablement Partner": 1
+      }
+    },
+    "Preconfigured Offers / Vehicle Choice": {
+      "records": 1,
+      "categories": {
+        "Mobility Marketplace": 1,
+        "Digital Origination Platform": 1
+      }
+    },
+    "Residual Value / Ownership Risk Transfer": {
+      "records": 3,
+      "categories": {
+        "Strategic Enablement Partner": 3
+      }
+    },
+    "Single Vehicle to Fleet Scale": {
+      "records": 1,
+      "categories": {
+        "Customer Aggregation Platform": 1,
+        "Strategic Enablement Partner": 1
+      }
+    },
+    "Tyre Management": {
+      "records": 2,
+      "categories": {
+        "Mobility Ecosystem Orchestrator": 2
+      }
+    },
+    "Vehicle Disposal / Return": {
+      "records": 5,
+      "categories": {
+        "Mobility Ecosystem Orchestrator": 5
+      }
+    },
+    "Vehicle Finance / Funding": {
+      "records": 9,
+      "categories": {
+        "Strategic Enablement Partner": 9
+      }
+    },
+    "Vehicle Price / Volume Discount Benefit": {
+      "records": 1,
+      "categories": {
+        "Strategic Enablement Partner": 1
+      }
+    },
+    "Vehicle Procurement / Selection": {
+      "records": 9,
+      "categories": {
+        "Mobility Ecosystem Orchestrator": 9,
+        "Mobility Marketplace": 2
+      }
+    },
+    "Vehicle Replacement": {
+      "records": 1,
+      "categories": {
+        "Mobility Ecosystem Orchestrator": 1
+      }
+    },
+    "Vehicle Tracking / Telematics": {
+      "records": 2,
+      "categories": {
+        "Mobility Ecosystem Orchestrator": 2
+      }
+    }
+  },
+  "context_specific_category_differences": [
+    {
+      "functionality_standard_name": "Vehicle Procurement / Selection",
+      "rationale": "Most procurement records are supply coordination only; CFAO Mobility Fleet Solutions and Fleet Horizon Solutions also evidence customer/dealer choice and therefore include Mobility Marketplace."
+    }
+  ],
+  "proposed_additional_categories": [
+    "Fleet Operations Platform",
+    "Vehicle Lifecycle Platform"
+  ]
+}
